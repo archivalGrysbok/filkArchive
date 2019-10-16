@@ -21,3 +21,6 @@
 .byebug_history
 
 node_modules
+
+# ignore my ead files
+/data/ead/*
