@@ -116,9 +116,9 @@
                                 <physdesc>
                                     <genreform source="local">Songbook</genreform>
                                 </physdesc>
-                                <dao linktype="simple" href="http://localhost:3000/filk/filk1.jpg"
-                                     actuate="onrequest" show="embed"/>
-                                <dao linktype="simple" href="http://localhost:3000/filk/filk2.jpg"
+                                <dao linktype="simple" href="../filk/filk1.jpg"
+                                     actuate="onload" show="embed" rel="alternate" type="application/json+oembed"/>
+                                <dao linktype="simple" href="../filk/filk2.jpg"
                                      actuate="onrequest" show="new"/>
                                 <origination label="creator"><persname>Wallentinson, Denise</persname></origination>
                             </did>
