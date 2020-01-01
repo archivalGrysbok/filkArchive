@@ -22,9 +22,6 @@
 
 node_modules
 
-# ignore my ead files
-/data/ead/*
-
 # I like kate. I don't like checking in kate swap files.
 *.kate-swp
 
