@@ -69,6 +69,128 @@
         </relatedmaterial>
         <dsc>
 
+            <c01 level="series" id="audio">
+                <did><unittitle>Audio</unittitle></did>
+                <c02 level="subseries" id="LivePerformance">
+                    <did><unittitle>Live Performance</unittitle></did>
+                    <c03 level="subseries" id="Concert">
+                        <did><unittitle>Concert</unittitle></did>
+                    </c03>
+                    <c03 level="subseries" id="FilkCircle">
+                        <did><unittitle>Filk Circle</unittitle></did>
+                    </c03>
+                    <c03 level="subseries" id="Performance Cirlce">
+                        <did><unittitle>Performance Circle</unittitle></did>
+                    </c03>
+                    <c03 level="subseries" id="Notes">
+                        <did><unittitle>Notes</unittitle></did>
+                    </c03>
+                </c02>
+                <c02 level="subseries" id="Digital Media">
+                    <did><unittitle>Digital Media</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="PhysicalMedia">
+                    <did><unittitle>Physical Media</unittitle></did>
+                </c02>
+            </c01>
+
+            <c01 level="series" id="LyricsAndSheetMusic">
+                <did><unittitle>Lyrics and Sheet Music</unittitle></did>
+                <c02 level="subseries" id="Binder">
+                    <did><unittitle>Binder/personal collections</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Songbooks">
+                    <did><unittitle>Songbooks</unittitle></did>
+
+                    <c03 level="file">
+
+                        <did>
+                            <unittitle><persname>Wallentinson, Denise</persname></unittitle>
+                        </did>
+                        <c04 level="item" id="phourplay">
+                            <did>
+                                <unittitle>Phourplay and Beyond: Phoenix Philkbook</unittitle>
+                                <unitdate>1991</unitdate>
+                                <abstract>Printed on orange paper. Staple bound, with illos</abstract>
+                                <physloc>Box 13</physloc>
+                                <physdesc>
+                                    <genreform source="local">Songbook</genreform>
+                                </physdesc>
+                                <dao linktype="simple" href="http://localhost:3000/filk/filk1.jpg"
+                                     actuate="onrequest" show="embed"/>
+                                <dao linktype="simple" href="http://localhost:3000/filk/filk2.jpg"
+                                     actuate="onrequest" show="new"/>
+                                <origination label="creator"><persname>Wallentinson, Denise</persname></origination>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>GAFilk</unittitle>
+                        </did>
+                        <c04 level="item" id="gafilkSongbook2014">
+                            <did>"
+                                <unittitle>Songbook</unittitle>
+                                <unitdate>2014</unitdate>
+                                <abstract>Limited edition run, 1/32 Green cover, spiral bound, winged GAFilka fish f</abstract>
+                                <physloc>Box 8</physloc>
+                                <physdesc>
+                                    <genreform source="local">Songbook</genreform>
+                                </physdesc>
+
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02 level="subseries" id="SingleSongs">
+                    <did><unittitle>Single Songs</unittitle></did>
+                    <c03 level="subseries" id="Lyrics">
+                        <did><unittitle>Lyrics</unittitle></did>
+                    </c03>
+                    <c03 level="subseries" id="Sheet Music">
+                        <did><unittitle>Sheet Music</unittitle></did>
+                    </c03>
+                </c02>
+            </c01>
+
+            <c01 level="series" id="ZinesAPAs">
+                <did><unittitle>Zines and APAs</unittitle></did>
+                <c02 level="subseries" id="A Few Subversive Ciphers by rap legend Jesse Dangerously and Friends">
+                    <did><unittitle>A Few Subversive Ciphers by rap legend Jesse Dangerously and Friends</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="FAN-tastic Filk Song and other Fannish Delights">
+                    <did><unittitle>FAN-tastic Filk Song and other Fannish Delights</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Frak">
+                    <did><unittitle>Frak</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Fresh Beaver Tales">
+                    <did><unittitle>Fresh Beaver Tales - Fan fiction zine</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Kantele">
+                    <did><unittitle>Kantele</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Philk Fee-Nom-Ee-Non (PFNEN)">
+                    <did><unittitle>Philk Fee-Nom-Ee-Non (PFNEN)</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Philly Philk Phlash">
+                    <did><unittitle>Philly Philk Phlash</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Rec Room Rhymes">
+                    <did><unittitle>Rec Room Rhymes</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="The Compleat Dirty Nelly">
+                    <did><unittitle>The Compleat Dirty Nelly</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="Xenofilkia">
+                    <did><unittitle>Xenofilkia</unittitle></did>
+                </c02>
+                <c02 level="subseries" id="APA-Filk">
+                    <did><unittitle>APA-Filk</unittitle></did>
+                </c02>
+            </c01>
+
+
             <c01 level="series">
                 <did>
                     <unittitle>Conventions</unittitle>
@@ -1191,128 +1313,6 @@
                     <did><unittitle>Stickers</unittitle></did>
                 </c02>
             </c01>
-
-            <c01 level="series" id="audio">
-                <did><unittitle>Audio</unittitle></did>
-                <c02 level="subseries" id="LivePerformance">
-                    <did><unittitle>Live Performance</unittitle></did>
-                    <c03 level="subseries" id="Concert">
-                        <did><unittitle>Concert</unittitle></did>
-                    </c03>
-                    <c03 level="subseries" id="FilkCircle">
-                        <did><unittitle>Filk Circle</unittitle></did>
-                    </c03>
-                    <c03 level="subseries" id="Performance Cirlce">
-                        <did><unittitle>Performance Circle</unittitle></did>
-                    </c03>
-                    <c03 level="subseries" id="Notes">
-                        <did><unittitle>Notes</unittitle></did>
-                    </c03>
-                </c02>
-                <c02 level="subseries" id="Digital Media">
-                    <did><unittitle>Digital Media</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="PhysicalMedia">
-                    <did><unittitle>Physical Media</unittitle></did>
-                </c02>
-            </c01>
-
-            <c01 level="series" id="LyricsAndSheetMusic">
-                <did><unittitle>Lyrics and Sheet Music</unittitle></did>
-                <c02 level="subseries" id="Binder">
-                    <did><unittitle>Binder/personal collections</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Songbooks">
-                    <did><unittitle>Songbooks</unittitle></did>
-
-                    <c03 level="file">
-
-                        <did>
-                            <unittitle><persname>Wallentinson, Denise</persname></unittitle>
-                        </did>
-                        <c04 level="item" id="phourplay">
-                            <did>
-                                <unittitle>Phourplay and Beyond: Phoenix Philkbook</unittitle>
-                                <unitdate>1991</unitdate>
-                                <abstract>Printed on orange paper. Staple bound, with illos</abstract>
-                                <physloc>Box 13</physloc>
-                                <physdesc>
-                                    <genreform source="local">Songbook</genreform>
-                                </physdesc>
-                                <dao linktype="simple" href="http://localhost:3000/filk/filk1.jpg"
-                                     actuate="onrequest" show="embed"/>
-                                <dao linktype="simple" href="http://localhost:3000/filk/filk2.jpg"
-                                     actuate="onrequest" show="new"/>
-                                <origination label="creator"><persname>Wallentinson, Denise</persname></origination>
-                            </did>
-                        </c04>
-                    </c03>
-                    <c03>
-                        <did>
-                            <unittitle>GAFilk</unittitle>
-                        </did>
-                        <c04 level="item" id="gafilkSongbook2014">
-                            <did>"
-                                <unittitle>Songbook</unittitle>
-                                <unitdate>2014</unitdate>
-                                <abstract>Limited edition run, 1/32 Green cover, spiral bound, winged GAFilka fish f</abstract>
-                                <physloc>Box 8</physloc>
-                                <physdesc>
-                                    <genreform source="local">Songbook</genreform>
-                                </physdesc>
-
-                            </did>
-                        </c04>
-                    </c03>
-                </c02>
-                <c02 level="subseries" id="SingleSongs">
-                    <did><unittitle>Single Songs</unittitle></did>
-                    <c03 level="subseries" id="Lyrics">
-                        <did><unittitle>Lyrics</unittitle></did>
-                    </c03>
-                    <c03 level="subseries" id="Sheet Music">
-                        <did><unittitle>Sheet Music</unittitle></did>
-                    </c03>
-                </c02>
-            </c01>
-
-            <c01 level="series" id="ZinesAPAs">
-                <did><unittitle>Zines and APAs</unittitle></did>
-                <c02 level="subseries" id="A Few Subversive Ciphers by rap legend Jesse Dangerously and Friends">
-                    <did><unittitle>A Few Subversive Ciphers by rap legend Jesse Dangerously and Friends</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="FAN-tastic Filk Song and other Fannish Delights">
-                    <did><unittitle>FAN-tastic Filk Song and other Fannish Delights</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Frak">
-                    <did><unittitle>Frak</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Fresh Beaver Tales">
-                    <did><unittitle>Fresh Beaver Tales - Fan fiction zine</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Kantele">
-                    <did><unittitle>Kantele</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Philk Fee-Nom-Ee-Non (PFNEN)">
-                    <did><unittitle>Philk Fee-Nom-Ee-Non (PFNEN)</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Philly Philk Phlash">
-                    <did><unittitle>Philly Philk Phlash</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Rec Room Rhymes">
-                    <did><unittitle>Rec Room Rhymes</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="The Compleat Dirty Nelly">
-                    <did><unittitle>The Compleat Dirty Nelly</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="Xenofilkia">
-                    <did><unittitle>Xenofilkia</unittitle></did>
-                </c02>
-                <c02 level="subseries" id="APA-Filk">
-                    <did><unittitle>APA-Filk</unittitle></did>
-                </c02>
-            </c01>
-
 
         </dsc>
     </archdesc>
