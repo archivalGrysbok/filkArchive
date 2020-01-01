@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader findaidstatus="in_progress" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+      <eadid countrycode="US">filk</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Harold Stein Filk Collection</titleproper>
+            <author>Finding aid prepared by Merav Hoffman and Stacy Haponik.</author>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            This finding aid was encoded by Stacy Haponik using a text editor on
+            30 November 2019
+            .
+         </creation>
+         <langusage>
+            <language>eng</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Overview</head>
+         <abstract label="Abstract">Harold Stein was an active member of the Filking community. He amassed a large collection of filk songs, zines, convention papers, and audio recordings.</abstract>
+         <langmaterial label="Language">
+            <language langcode="eng">English</language>
+         </langmaterial>
+         <physdesc label="Extent">
+            <extent type="box">34 boxes</extent>
+            <extent type="digital">unknown number of terabytes</extent>
+         </physdesc>
+         <physloc label="Location">Private residence</physloc>
+         <physloc label="Location">A different private residence</physloc>
+         <unitid countrycode="US" repositorycode="dgwl">sjb</unitid>
+         <unittitle label="Title">Harold Stein Filk Collection</unittitle>
+      </did>
+      <bioghist>
+         Harold Stein was...
+      </bioghist>
+      <scopecontent>
+         <head>Scope and Content</head>
+         The Harold Stein Filk Collection contains....
+      </scopecontent>
+      <arrangement>
+         <head>Arrangement</head>
+         <p >
+         
+            <emph render="bold">Series I: Conventions</emph>
+            Arranged first by convention, then in chronological order. Includes program booklets, promotional materials, schedules, and progress reports.
+         </p>
+      </arrangement>
+      <separatedmaterial id="ref8" />
+      <userestrict id="ref10">
+         <head>Restrictions on Use</head>
+         Most materials within the collection are within copyright. Permission to duplicate these materials is governed by United States copyright law.
+      </userestrict>
+      <acqinfo id="ref12">
+         <head>Acquisition Information</head>
+         The collection was...
+      </acqinfo>
+      <accessrestrict id="ref295">
+         <head>Access</head>
+         The collection is open and available for research.
+      </accessrestrict>
+      <relatedmaterial id="ref296">
+         <head>Related Material</head>
+         <p />
+      </relatedmaterial>
+      <dsc>
+
+            <c01 level="series">
+               <did>
+                  <unittitle>Conventions</unittitle>
+               </did>
+               
+               
+               <c02 level='subseries' id='Archon'><did><unittitle>Archon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Archon 39</unittitle>                                
+<unitdate normal='20151002/20151004' datechar='creation' type='inclusive'>02 Oct 2015 to 04 Oct 2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Archon 40</unittitle>                                
+<unitdate normal='20170929/20171001' datechar='creation' type='inclusive'>29 Sep 2017 to 01 Oct 2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Arisia'><did><unittitle>Arisia</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Arisia 2008</unittitle>                                
+<unitdate normal='20080118/20080121' datechar='creation' type='inclusive'>18 Jan 2008 to 21 Jan 2008</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Balticon'><did><unittitle>Balticon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Balticon 44</unittitle>                                
+<unitdate normal='20100528/20100531' datechar='creation' type='inclusive'>28 May 2010 to 31 May 2010</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Baltimore, MD</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Balticon 47</unittitle>                                
+<unitdate normal='20130524/20130527' datechar='creation' type='inclusive'>24 May 2013 to 27 May 2013</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Baltimore, MD</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='BayFilk'><did><unittitle>BayFilk</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Bayfilk 1</unittitle>                                
+<unitdate normal='19820305/19820307' datechar='creation' type='inclusive'>05 Mar 1982 to 07 Mar 1982</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Bayfilk II</unittitle>                                
+<unitdate normal='19840302/19840304' datechar='creation' type='inclusive'>02 Mar 1984 to 04 Mar 1984</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Bayfilk 5</unittitle>                                
+<unitdate normal='19890303/19890305' datechar='creation' type='inclusive'>03 Mar 1989 to 05 Mar 1989</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Boskone'><did><unittitle>Boskone</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Boskone 14</unittitle>                                
+<unitdate normal='19770218/19770220' datechar='creation' type='inclusive'>18 Feb 1977 to 20 Feb 1977</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Boskone 45</unittitle>                                
+<unitdate normal='20080215/20080217' datechar='creation' type='inclusive'>15 Feb 2008 to 17 Feb 2008</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Boskone 51</unittitle>                                
+<unitdate normal='20140214/20140216' datechar='creation' type='inclusive'>14 Feb 2014 to 16 Feb 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Boskone 52</unittitle>                                
+<unitdate normal='20150213/20150215' datechar='creation' type='inclusive'>13 Feb 2015 to 15 Feb 2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Boskone, February 15</unittitle>                                
+<unitdate normal='' datechar='creation'  type='single'></unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='British Filk Convention'><did><unittitle>British Filk Convention</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>14, Contabile Fortean</unittitle>                                
+<unitdate normal='20020201/20020203' datechar='creation' type='inclusive'>01 Feb 2002 to 03 Feb 2002</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>20, 2t0nic </unittitle>                                
+<unitdate normal='20080201/20080203' datechar='creation' type='inclusive'>01 Feb 2008 to 03 Feb 2008</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>23, Cre2c3ndo</unittitle>                                
+<unitdate normal='20110204/20110206' datechar='creation' type='inclusive'>04 Feb 2011 to 06 Feb 2011</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='ConCertino'><did><unittitle>ConCertino</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Concertino 2006</unittitle>                                
+<unitdate normal='20060616/20060618' datechar='creation' type='inclusive'>16 Jun 2006 to 18 Jun 2006</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Concertino 2018</unittitle>                                
+<unitdate normal='20180629/20180701' datechar='creation' type='inclusive'>29 Jun 2018 to 01 Jul 2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='ConChord'><did><unittitle>ConChord</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>ConChord 1</unittitle>                                
+<unitdate normal='19830311/19830313' datechar='creation' type='inclusive'>11 Mar 1983 to 13 Mar 1983</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>ConChord 2</unittitle>                                
+<unitdate normal='19850301/19850303' datechar='creation' type='inclusive'>01 Mar 1985 to 03 Mar 1985</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>ConChord 8</unittitle>                                
+<unitdate normal='19921002/19921004' datechar='creation' type='inclusive'>02 Oct 1992 to 04 Oct 1992</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Conflikt'><did><unittitle>Conflikt</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 3</unittitle>                                
+<unitdate normal='20100129/20100131' datechar='creation' type='inclusive'>29 Jan 2010 to 31 Jan 2010</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Washington (state)</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 4</unittitle>                                
+<unitdate normal='20110128/20110130' datechar='creation' type='inclusive'>28 Jan 2011 to 30 Jan 2011</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Washington (state)</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 7</unittitle>                                
+<unitdate normal='20140124/20140126' datechar='creation' type='inclusive'>24 Jan 2014 to 26 Jan 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 8</unittitle>                                
+<unitdate normal='20150130/20150201' datechar='creation' type='inclusive'>30 Jan 2015 to 01 Feb 2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 10</unittitle>                                
+<unitdate normal='20170127/20170129' datechar='creation' type='inclusive'>27 Jan 2017 to 29 Jan 2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 11</unittitle>                                
+<unitdate normal='20180126/20180128' datechar='creation' type='inclusive'>26 Jan 2018 to 28 Jan 2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 1</unittitle>                                
+<unitdate normal='20080125/20080127' datechar='creation' type='inclusive'>25 Jan 2008 to 27 Jan 2008</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Washington (state)</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conflikt 9</unittitle>                                
+<unitdate normal='20160129/20160131' datechar='creation' type='inclusive'>29 Jan 2016 to January 29-31, 2016</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Washington (state)</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Conglomeration'><did><unittitle>Conglomeration</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conglomeration, 2001</unittitle>                                
+<unitdate normal='20010810/20010812' datechar='creation' type='inclusive'>10 Aug 2001 to 12 Aug 2001</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Louisville, KY</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Consonance'><did><unittitle>Consonance</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1991</unittitle>                                
+<unitdate normal='19910301/19910303' datechar='creation' type='inclusive'>01 Mar 1991 to 03 Mar 1991</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1992</unittitle>                                
+<unitdate normal='19920306/19920308' datechar='creation' type='inclusive'>06 Mar 1992 to 08 Mar 1992</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1993</unittitle>                                
+<unitdate normal='19930305/19930307' datechar='creation' type='inclusive'>05 Mar 1993 to 07 Mar 1993</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1994</unittitle>                                
+<unitdate normal='19940304/19940306' datechar='creation' type='inclusive'>04 Mar 1994 to 06 Mar 1994</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1996</unittitle>                                
+<unitdate normal='19960301/19960303' datechar='creation' type='inclusive'>01 Mar 1996 to 03 Mar 1996</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1998</unittitle>                                
+<unitdate normal='19980306/19980308' datechar='creation' type='inclusive'>06 Mar 1998 to 08 Mar 1998</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 1999</unittitle>                                
+<unitdate normal='19990305/19990307' datechar='creation' type='inclusive'>05 Mar 1999 to 07 Mar 1999</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 2000 (Y2K)</unittitle>                                
+<unitdate normal='20000303/20000305' datechar='creation' type='inclusive'>03 Mar 2000 to 05 Mar 2000</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 2001: A Filk Odyssey</unittitle>                                
+<unitdate normal='20010302/20010304' datechar='creation' type='inclusive'>02 Mar 2001 to 04 Mar 2001</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 2002</unittitle>                                
+<unitdate normal='20020301/20020303' datechar='creation' type='inclusive'>01 Mar 2002 to 03 Mar 2002</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Consonance 2003</unittitle>                                
+<unitdate normal='20030307/20030309' datechar='creation' type='inclusive'>07 Mar 2003 to 09 Mar 2003</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Contata 2008</unittitle>                                
+<unitdate normal='20080620/20080622' datechar='creation' type='inclusive'>20 Jun 2008 to 22 Jun 2008</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Contata 2014</unittitle>                                
+<unitdate normal='20140620/20140622' datechar='creation' type='inclusive'>20 Jun 2014 to 22 Jun 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Contata 8 / NEFilk 27</unittitle>                                
+<unitdate normal='20170623/20170625' datechar='creation' type='inclusive'>23 Jun 2017 to 25 Jun 2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Conterpoint'><did><unittitle>Conterpoint</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Conterpoint Four</unittitle>                                
+<unitdate normal='20010622/20010624' datechar='creation' type='inclusive'>22 Jun 2001 to 24 Jun 2001</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>ConterPoint IX</unittitle>                                
+<unitdate normal='20160701/20160703' datechar='creation' type='inclusive'>01 Jul 2016 to 03 Jul 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id="D'Zenove"><did><unittitle>D'Zenove</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>D'Zenove</unittitle>                                
+<unitdate normal='' datechar='creation'  type='single'></unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Darkovercon'><did><unittitle>Darkovercon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Darkover 2005-2012</unittitle>                                
+<unitdate normal='' datechar='creation'  type='single'></unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02>
+<c02 level='file' id='Duckcon'><did><unittitle>Duckcon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Duckon 16</unittitle>                                
+<unitdate normal='20070608/20070610' datechar='creation' type='inclusive'>08 Jun 2007 to 10 Jun 2007</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Duckcon 19</unittitle>                                
+<unitdate normal='20100618/20100620' datechar='creation' type='inclusive'>18 Jun 2010 to 20 Jun 2010</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+</c02><c02 level='file' id='EclectiCon'><did><unittitle>EclectiCon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>EclectiCon 2006</unittitle>                                
+<unitdate normal='20061110/20061112' datechar='creation' type='inclusive'>10 Nov 2006 to 12 Nov 2006</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Newark, NJ</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='FilkONtario'><did><unittitle>FilkONtario</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilKONtario 12</unittitle>                                
+<unitdate normal='2002' datechar='creation'  type='single'>2002</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilKONtario 24</unittitle>                                
+<unitdate normal='2014' datechar='creation'  type='single'>2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilKONtario 25</unittitle>                                
+<unitdate normal='20150416/20150419' datechar='creation' type='inclusive'>16 Apr 2015 to 19 Apr 2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilKONtario 26</unittitle>                                
+<unitdate normal='20160408/20160410' datechar='creation' type='inclusive'>08 Apr 2016 to 10 Apr 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilKONtario 27</unittitle>                                
+<unitdate normal='20170421/20170423' datechar='creation' type='inclusive'>21 Apr 2017 to 23 Apr 2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilkONtario 7</unittitle>                                
+<unitdate normal='19970411/19970413' datechar='creation' type='inclusive'>11 Apr 1997also known as FKO to 13 Apr 1997</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilkONtario 28</unittitle>                                
+<unitdate normal='20180420/20180422' datechar='creation' type='inclusive'>20 Apr 2018 to 22 Apr 2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilKONtario 17</unittitle>                                
+<unitdate normal='20070323/20070325' datechar='creation' type='inclusive'>23 Mar 2007 to 25 Mar 2007</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FilkONtario 12</unittitle>                                
+<unitdate normal='20020329/20020331' datechar='creation' type='inclusive'>29 Mar 2002 to 31 Mar 2002</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='FuMPFest'><did><unittitle>FuMPFest</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>FuMPFest 2014</unittitle>                                
+<unitdate normal='2014' datechar='creation'  type='single'>2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='GAFilk'><did><unittitle>GAFilk</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>GAFilk 2008</unittitle>                                
+<unitdate normal='2008' datechar='creation'  type='single'>2008</unitdate>
+                            </did>                     <controlaccess>
+
+                            
+                    
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>GAFilk 2012</unittitle>                                
+<unitdate normal='2012' datechar='creation'  type='single'>2012</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+
+                            
+                            <c03 level="file">
+                        <did>
+                            <unitdate type="inclusive">2014 January 9-11</unitdate>
+                            <unittitle>16</unittitle>
+                            <abstract>Songbook from GAFilk 16 is available and filed with other songbooks.</abstract>
+                        </did>
+                        <c04 level="item">
+                            <did>
+                                <unittitle>Program book, soundboard copy</unittitle>
+                                <abstract>
+                                    Yellow booklet, Someone has written "Sound Board Copy Do Not Remove" on the front
+                                </abstract>
+                                <physloc>Box 8</physloc>
+                                <physdesc>
+                                    <genreform>Program book</genreform>
+                                </physdesc>
+
+                            </did>
+                        </c04>
+                    </c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>GAFilk 2016</unittitle>                                
+<unitdate normal='20160108/20160110' datechar='creation' type='inclusive'>08 Jan 2016 to 10 Jan 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>GaFilk 2017</unittitle>                                
+<unitdate normal='20170106/20170108' datechar='creation' type='inclusive'>06 Jan 2017 to 08 Jan 2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>GaFilk 2018</unittitle>                                
+<unitdate normal='20180105/20180107' datechar='creation' type='inclusive'>05 Jan 2018 to 07 Jan 2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+</c02>
+                <c02 level='file' id='Heliosphere'><did><unittitle>Heliosphere</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Heliosphere 2018</unittitle>                                
+<unitdate normal='2018' datechar='creation'  type='single'>2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='I-CON'><did><unittitle>I-CON</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>I-Con 8</unittitle>                                
+<unitdate normal='1989' datechar='creation'  type='single'>1989</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>I-Con 2008</unittitle>                                
+<unitdate normal='2008' datechar='creation'  type='single'>2008</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>I-CON 2011</unittitle>                                
+<unitdate normal='2011' datechar='creation'  type='single'>2011</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='InConJunction'><did><unittitle>InConJunction</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>InConJunction XIV</unittitle>                                
+<unitdate normal='19940701/19940703' datechar='creation' type='inclusive'>01 Jul 1994 to 03 Jul 1994</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Indianapolis, IN</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='LICon'><did><unittitle>LICon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>LICon 2014</unittitle>                                
+<unitdate normal='2014' datechar='creation'  type='single'>2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Lunacon'><did><unittitle>Lunacon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Lunacon 49</unittitle>                                
+<unitdate normal='20060317/20060320' datechar='creation' type='inclusive'>17 Mar 2006 to 20 Mar 2006</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Meadowlands, NJ</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Lunacon 50</unittitle>                                
+<unitdate normal='20070316/20070318' datechar='creation' type='inclusive'>16 Mar 2007 to 18 Mar 2007</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Rye Brook, NY.</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Lunacon 51</unittitle>                                
+<unitdate normal='20080314/20080316' datechar='creation' type='inclusive'>14 Mar 2008 to 16 Mar 2008</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Rye Brook, NY.</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Lunacon 2014</unittitle>                                
+<unitdate normal='20140314/20160316' datechar='creation' type='inclusive'>14 Mar 2014 to 16 Mar 2016</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Rye Brook, NY.</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Lunacon 2016</unittitle>                                
+<unitdate normal='20160318/20160320' datechar='creation' type='inclusive'>18 Mar 2016 to 20 Mar 2016</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Rye Brook, NY.</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Lunacon 2017</unittitle>                                
+<unitdate normal='20170407/20170409' datechar='creation' type='inclusive'>07 Apr 2017 to 09 Apr 2017</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Tarrytown, NY</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Marcon'><did><unittitle>Marcon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Marcon 29</unittitle>                                
+<unitdate normal='19940513/19940515' datechar='creation' type='inclusive'>13 May 1994 to 15 May 1994</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Columbus, OH</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Marcon 37</unittitle>                                
+<unitdate normal='20020524/20020526' datechar='creation' type='inclusive'>24 May 2002 to 26 May 2002</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Columbus, OH</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='MarsCon'><did><unittitle>MarsCon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>MarsCon 2008</unittitle>                                
+<unitdate normal='2008' datechar='creation'  type='single'>2008</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='MidAmericon'><did><unittitle>MidAmericon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>MidAmeriCon II</unittitle>                                
+<unitdate normal='20160817/20160821' datechar='creation' type='inclusive'>17 Aug 2016 to 21 Aug 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Minicon'><did><unittitle>Minicon</unittitle></did>
+                        
+</c02><c02 level='file' id='NASFic'><did><unittitle>NASFic</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NASFic 10: Reconstruction</unittitle>                                
+<unitdate normal='20100805/20100808' datechar='creation' type='inclusive'>05 Aug 2010NASFic occurs in years when WorldCon is held outside North America to 08 Aug 2010</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Raleigh, NC</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Detcon 1</unittitle>                                
+<unitdate normal='20140717/20140720' datechar='creation' type='inclusive'>17 Jul 2014 to 20 Jul 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='NEFilk'><did><unittitle>NEFilk</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 28: Concertino 2018</unittitle>                                
+<unitdate normal='2018' datechar='creation'  type='single'>2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 1: ConCerto 1990</unittitle>                                
+<unitdate normal='19900608/19900610' datechar='creation' type='inclusive'>08 Jun 1990 to 10 Jun 1990</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Cherry Hill, NJ</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 4: Contata 1994</unittitle>                                
+<unitdate normal='19940610/19940613' datechar='creation' type='inclusive'>10 Jun 1994 to 13 Jun 1994</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Secaucus, NJ	</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 13: ConCertino '03</unittitle>                                
+<unitdate normal='20030718/20030720' datechar='creation' type='inclusive'>18 Jul 2003 to 20 Jul 2003</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Worcester, MA</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 19:  ConCertino 2009 </unittitle>                                
+<unitdate normal='20090619/20090621' datechar='creation' type='inclusive'>19 Jun 2009 to 21 Jun 2009</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Worcester, MA</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 21: Contata 6</unittitle>                                
+<unitdate normal='20110701/20110703' datechar='creation' type='inclusive'>01 Jul 2011 to 03 Jul 2011</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Parsippany, NJ</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 22: ConCertino 2012</unittitle>                                
+<unitdate normal='20120629/20120701' datechar='creation' type='inclusive'>29 Jun 2012 to 01 Jul 2012</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Boxborough, MA</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 23: Conterpoint 2013</unittitle>                                
+<unitdate normal='20130621/20130623' datechar='creation' type='inclusive'>21 Jun 2013 to 23 Jun 2013</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Gaithersburg, MD</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 24: Contata 7</unittitle>                                
+<unitdate normal='20140620/20140622' datechar='creation' type='inclusive'>20 Jun 2014 to 22 Jun 2014</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Morristown, NJ</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 25: Concertino 2015</unittitle>                                
+<unitdate normal='20150619/20150621' datechar='creation' type='inclusive'>19 Jun 2015 to 21 Jun 2015</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Boxborough, MA</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 25: Concertino 2015</unittitle>                                
+<unitdate normal='20150619/20150621' datechar='creation' type='inclusive'>19 Jun 2015 to 21 Jun 2015</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Boxborough, MA</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 26: Conterpoint 2016</unittitle>                                
+<unitdate normal='20160701/20160703' datechar='creation' type='inclusive'>01 Jul 2016 to 03 Jul 2016</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Timonium, MD</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 27: Contata 8</unittitle>                                
+<unitdate normal='20170623/20170625' datechar='creation' type='inclusive'>23 Jun 2017 to 25 Jun 2017</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Morristown, NJ</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFilk 11: Conterpoint IV</unittitle>                                
+<unitdate normal='20010622/20010624' datechar='creation' type='inclusive'>22 Jun 2001 to 24 Jun 2001</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Rockville, MD</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>NEFIlk 17: Conterpoint 2007</unittitle>                                
+<unitdate normal='20070622/20070624' datechar='creation' type='inclusive'>22 Jun 2007 to 24 Jun 2007</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Rockville, MD</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Norwescon'><did><unittitle>Norwescon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Norwescon XXXIII</unittitle>                                
+<unitdate normal='20100401/20100404' datechar='creation' type='inclusive'>01 Apr 2010 to 04 Apr 2010</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Seattle, WA</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='OVFF'><did><unittitle>OVFF</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 1992</unittitle>                                
+<unitdate normal='1992' datechar='creation'  type='single'>1992</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 10</unittitle>                                
+<unitdate normal='1994' datechar='creation'  type='single'>1994</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Columbus, Ohio</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 2007</unittitle>                                
+<unitdate normal='2007' datechar='creation'  type='single'>2007</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 2012</unittitle>                                
+<unitdate normal='2012' datechar='creation'  type='single'>2012</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 2015</unittitle>                                
+<unitdate normal='2015' datechar='creation'  type='single'>2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 2016</unittitle>                                
+<unitdate normal='2016' datechar='creation'  type='single'>2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 2017</unittitle>                                
+<unitdate normal='2017' datechar='creation'  type='single'>2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 33</unittitle>                                
+<unitdate normal='2017' datechar='creation'  type='single'>2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 30</unittitle>                                
+<unitdate normal='20141024/20141026' datechar='creation' type='inclusive'>24 Oct 2014 to 26 Oct 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 31</unittitle>                                
+<unitdate normal='20151023/20151025' datechar='creation' type='inclusive'>23 Oct 2015 to 25 Oct 2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>OVFF 32</unittitle>                                
+<unitdate normal='20161104/20161108' datechar='creation' type='inclusive'>04 Nov 2016 to 08 Nov 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Philcon'><did><unittitle>Philcon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Philcon 2005</unittitle>                                
+<unitdate normal='2005' datechar='creation'  type='single'>2005</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Philcon 2011</unittitle>                                
+<unitdate normal='2011' datechar='creation'  type='single'>2011</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Philcon 2013</unittitle>                                
+<unitdate normal='2013' datechar='creation'  type='single'>2013</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Philcon 2014</unittitle>                                
+<unitdate normal='20141121/20141123' datechar='creation' type='inclusive'>21 Nov 2014 to 23 Nov 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Philcon 2016</unittitle>                                
+<unitdate normal='20161118/20161120' datechar='creation' type='inclusive'>18 Nov 2016 to 20 Nov 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Philcon 2017</unittitle>                                
+<unitdate normal='20171108/20171110' datechar='creation' type='inclusive'>08 Nov 2017 to 10 Nov 2017</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Pi-Con'><did><unittitle>Pi-Con</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>8 Pi-Con</unittitle>                                
+<unitdate normal='20140627/20140629' datechar='creation' type='inclusive'>27 Jun 2014 to 29 Jun 2014</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='RavenCon'><did><unittitle>RavenCon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>RavenCon 2011</unittitle>                                
+<unitdate normal='20160429/20160501' datechar='creation' type='inclusive'>29 Apr 2016 to 01 May 2016</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Relaxicon'><did><unittitle>Relaxicon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Harmuni, the Briitsh Filk Relaxicon</unittitle>                                
+<unitdate normal='20010814/20010826' datechar='creation' type='inclusive'>14 Aug 2001 to 26 Aug 2001</unitdate>
+                            </did>                     <controlaccess>
+<geogname>York University, Britain?</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Sasquan'><did><unittitle>Sasquan</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Sasquan, August 19-23, 2015</unittitle>                                
+<unitdate normal='20150819/20150823' datechar='creation' type='inclusive'>19 Aug 2015 to 23 Aug 2015</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+</c02><c02 level='file' id='SilverCon'><did><unittitle>SilverCon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>SilverCon 2</unittitle>                                
+<unitdate normal='19930401/19930403' datechar='creation' type='inclusive'>01 Apr 1993 to 03 Apr 1993</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Las Vegas, NV</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='UK Filk Convention'><did><unittitle>UK Filk Convention</unittitle></did>
+
+</c02><c02 level='file' id='Windycon'><did><unittitle>Windycon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>Windycon 33</unittitle>                                
+<unitdate normal='19940701/19940703' datechar='creation' type='inclusive'>01 Jul 1994 to 03 Jul 1994</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Chicago, IL</geogname>
+                     </controlaccess></c03>
+</c02><c02 level='file' id='Worldcon'><did><unittitle>Worldcon</unittitle></did>
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>53, Intersection</unittitle>                                
+<unitdate normal='19950824/19950828' datechar='creation' type='inclusive'>24 Aug 1995 to 28 Aug 1995</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Glasgow</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>59, Milennium Philcon</unittitle>                                
+<unitdate normal='20010830/20010903' datechar='creation' type='inclusive'>30 Aug 2001 to 03 Sep 2001</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>61, Torcon</unittitle>                                
+<unitdate normal='20030828/20030901' datechar='creation' type='inclusive'>28 Aug 2003 to 01 Sep 2003</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Toronto</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>64, LACon 4</unittitle>                                
+<unitdate normal='20060823/20060827' datechar='creation' type='inclusive'>23 Aug 2006 to 27 Aug 2006</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>67, Anticipation</unittitle>                                
+<unitdate normal='20090806/20090810' datechar='creation' type='inclusive'>06 Aug 2009 to 10 Aug 2009</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Montreal</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>70, Chicon 7</unittitle>                                
+<unitdate normal='20120830/20120903' datechar='creation' type='inclusive'>30 Aug 2012 to 03 Sep 2012</unitdate>
+                            </did>                     <controlaccess>
+<geogname>Chicago</geogname>
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>72, LonCon 3</unittitle>                                
+<unitdate normal='20130829/20130902' datechar='creation' type='inclusive'>29 Aug 2013 to 02 Sep 2013</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+
+                        <c03 level='file'>
+                            <did>
+                                <unittitle>76, Worldcon 76 in San Jose</unittitle>                                
+<unitdate normal='20180816/20180820' datechar='creation' type='inclusive'>16 Aug 2018 to 20 Aug 2018</unitdate>
+                            </did>                     <controlaccess>
+
+                     </controlaccess></c03>
+               
+               
+               
+               
+               
+
+
+               
+               
+               
+         </c02>
+               
+            </c01>
+            <c01 level="series">
+               <did>
+                  <unittitle>Music</unittitle>
+               </did>
+               <c02 level="series">
+                  <did>
+                     <unittitle>Paper</unittitle>
+                  </did>
+                  <c03 level="series">
+                     <did>
+                        <unittitle>songbooks</unittitle>
+                     </did>
+
+
+                      <c04 level="file">
+
+                      <did>
+                          <unittitle><persname>Wallentinson, Denise</persname></unittitle>
+                      </did>
+                      <c05 level="item" id="phourplay">
+                          <did>
+                              <unittitle>Phourplay and Beyond: Phoenix Philkbook</unittitle>
+                              <unitdate>1991</unitdate>
+                              <abstract>Printed on orange paper. Staple bound, with illos</abstract>
+                              <physloc>Box 13</physloc>
+                              <physdesc>
+                                  <genreform source="local">Songbook</genreform>
+                              </physdesc>
+                              <dao linktype="simple" href="http://localhost:3000/filk/filk1.jpg"
+                                   actuate="onrequest" show="embed"/>
+                              <dao linktype="simple" href="http://localhost:3000/filk/filk2.jpg"
+                                   actuate="onrequest" show="new"/>
+<origination label="creator"><persname>Wallentinson, Denise</persname></origination>
+                          </did>
+                      </c05>
+                      </c04>
+
+
+
+                     <c04>
+                        <did>
+                           <unittitle>GAFilk</unittitle>
+                        </did>
+                        <c05 level="item" id="gafilkSongbook2014">
+                           <did>"
+                              <unittitle>Songbook</unittitle>
+                              <unitdate>2014</unitdate>
+                              <abstract>Limited edition run, 1/32 Green cover, spiral bound, winged GAFilka fish f</abstract>
+                              <physloc>Box 8</physloc>
+                               <physdesc>
+                                   <genreform source="local">Songbook</genreform>
+                               </physdesc>
+
+                           </did>
+                        </c05>
+                     </c04>
+                  </c03>
+
+
+               </c02>
+            </c01>
+      </dsc>
+   </archdesc>
+</ead>
