@@ -1,120 +1,356 @@
-duke-rubenstein:
-  name: 'David M. Rubenstein Rare Book and Manuscript Library'
-  description: "The holdings of the Rubenstein Rare Book & Manuscript Library range from ancient papyri to records of modern advertising. They number more than 300,000 printed volumes and more than 20 million items in manuscript and archival collections."
-  building: 'Rubenstein Library'
-  address1: '411 Chapel Drive'
-  address2: ''
-  city: 'Durham'
-  state: 'NC'
-  zip: '27708'
-  country: 'USA'
-  phone: '919-660-5822'
-  contact_info: 'special-collections@duke.edu'
-  thumbnail_url: 'https://library.duke.edu/sites/default/files/rubenstein/arclight/duke-rubenstein.jpg'
-  url: 'https://library.duke.edu/rubenstein/'
+#nlm:
+#  name: 'National Library of Medicine. History of Medicine Division'
+#  description: 'NLM’s History of Medicine Division collects, preserves, makes available, and interprets for diverse audiences one of the world’s richest collections of historical material related to human health and disease.'
+#  building: 'Building 38, Room 1E-21'
+#  address1: '8600 Rockville Pike'
+#  address2: ''
+#  city: 'Bethesda'
+#  state: 'MD'
+#  zip: '20894'
+#  country: 'USA'
+#  phone: ''
+#  contact_info: 'hmdref@nlm.nih.gov'
+#  thumbnail_url: "http://localhost:3000/books.jpg"
+#  visit_note: ''
+#  request_types:
+#    google_form:
+#      request_url: 'https://docs.google.com/a/stanford.edu/forms/d/e/1FAIpQLSeOamhY_IcFw4sPnz0ddwWWkrPaHbM5wp7JVbOLOL_mIusEyw/viewform'
+#      request_mappings: "document_url=entry.1980510262&collection_name=entry.619150170&collection_creator=entry.14428541&eadid=entry.996397105&containers=entry.1125277048&title=entry.862815208"
 
-duke-ua:
-  name: 'Duke University Archives'
-  description: "The Duke University Archives is the official repository for records of Duke University and the gateway to its past. The role of the University Archives is to identify, acquire, manage, and preserve university records of enduring value and make them available for use in accordance with policies approved by Duke University's Board of Trustees, administration, and faculty."
-  building: 'Rubenstein Library'
-  address1: '411 Chapel Drive'
-  address2: 'Box 90185'
-  city: 'Durham'
-  state: 'NC'
-  zip: '27708'
-  country: 'USA'
-  phone: '919-660-5822'
-  contact_info: 'https://library.duke.edu/rubenstein/uarchives/ask'
-  thumbnail_url: 'https://library.duke.edu/sites/default/files/rubenstein/arclight/duke-ua.jpg'
-  url: 'https://library.duke.edu/rubenstein/uarchives'
 
-hoover:
-  name: 'Hoover Institution Archives'
-  description: 'Founded by Herbert Hoover in 1919, the Hoover Institution Library & Archives are dedicated to documenting war, revolution, and peace in the twentieth and twenty-first centuries. With nearly one million volumes and more than six thousand archival collections from 171 countries, Hoover supports a vibrant community of scholars and a broad public interested in the meaning and role of history.'
-  building: ''
-  address1: '434 Galvez Mall'
-  address2: 'Stanford University'
-  city: 'Stanford'
-  state: 'CA'
-  zip: '94305-6003'
-  phone: '650-723-1754'
-  contact_info: ''
-  thumbnail_url: 'https://www.hoover.org/sites/default/files/styles/one_by_one/public/library/slides/poster_rusu_02237.jpg'
-  visit_note: 'Archival holdings are brought from the stacks to the reading room at 9:00 a.m., 10:30 a.m., 11:30 a.m., 1:30 p.m., and 3:00 p.m. Some of the archives’ collections are stored off-site.'
+#statelib:   
+  #count: '596'
+  #name: 'Connecticut State Library, State Archives'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ccsu:
+#  name:  'Central Connecticut State University'
+#  description: ''
+#  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ecsu:
+#  name:  'Eastern Connecticut State University'
+#  description: ''
+#  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#scsu: 
+#  name:  'Southern Connecticut State University'
+#  description: ''
+#  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#wcsu:  
+  #name:  'Western Connecticut State University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#uconn:  
+#  name:  'University of Connecticut'
+#  description: ''
+#  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#litchfield:  
+  #name:  'Litchfield Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#vhp:  
 
-InU-Ar:
-  name: 'Indiana University Archives'
+  #name:  'Veterans History Project, Central Connecticut State University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+
+#yale/vrc:  
+
+
+#  name:  'Yale University fix'
+#  description: ''
+#  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#wesleyan:  
+  #name:  'Wesleyan Special Collections and Archives'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#CtHi:
+#  name:  'Connecticut Historical Society'
+#  description: ''
+#  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#CtFaHi:  
+  #name:  'Fairfield Museum and History Center'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctjhsh:  
+  #name:  'Historic New England Library and Archives'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#mystic: 
+
+  #name:  'Mystic River Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#hplhhc:  
+
+  #name:  'Hartford Public Library Hartford History Center'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctolfgm   :
+  #name:  'Florence Griswold Museum'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctwmhi:  
+
+  #name:  'Mattatuck Museu'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctcwlhs:  
+
+  #name:  'Cornwall Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##cthohs:  
+
+##  name:  'fix'
+##  description: ''
+##  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#cbict:  
+
+  #name:  'Congregation Beth Israel Archive'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#whartu:  
+
+  #name:  'University of Hartford'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctuh:  
+  #count: '4'
+  #name:  'Hartford Medical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctcntnm:  
+
+  #name:  'Canton Historical Society'
+  #description: 'Canton Historical Society'
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctvernhs:  
+
+  #name:  'Vernon Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctGrtAma:  
+
+  #name:  'Avery Memorial Association'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctFmHsm:  
+
+  #name:  'Hill-Stead Museum'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctRiverMuseum:  
+
+  #name:  'Connecticut River Museum'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctedglm:  
+
+  #name:  'Goodspeed Musicals'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#cthwsm:  
+
+  #name:  'Henry Whitfield State Museum'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctlebhs:  
+
+  #name:  'Lebanon Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctwlhs:  
+
+  #name:  'Wilton Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctwinbml:  
+
+  #name:  'Beardsley & Memorial Library'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctcpcm:  
+
+  #name:  'Prudence Crandall Museum'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctgr:  
+
+  #name: 'Groton Public Library'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctgrotach:  
+
+  #name:  'Avery-Copp House'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctavfpl:  
+
+  #name:  'Avon Free Public Library'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctcovhs:  
+
+  #name:  'Coventry Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctivory:  
+
+  #name:  'Ivoryton Library Association'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctwarwhs:  
+
+  #name:  'Warren Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctwspwhs:  
+
+  #name: 'Westport Historical Societ'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctelyhs:  
+
+  #name:  'East Lyme Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#cthamhi:  
+
+  #name:  'Hamden Historical Society'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#cthhbsc:  
+
+  #name:  'Harriet Beecher Stowe Center'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctwwhpt:  
+
+  #name:  'Wallingford Historical'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#CtB:  
+
+  #name:  'Bridgeport History Center, Bridgeport Public Library'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+#ctsobm:  
+
+  #name:  'Barnes Museum'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+  
+#US-CtNIC:
+
+  #name:  'Linda Lear Center for Special Collections and Archives'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/arts:  
+
+  #name:  'Haas Family Arts Library, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/ycba:  
+
+  #name:  'Center for British Art, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/beinecke:  
+
+##  name:  'Beinecke Rare Book and Manuscript Library, Yale University'
+##  description: ''
+##  thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/divinity:  
+
+  #name:  'Divinity School Library, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/walpole:  
+
+  #name:  'The Lewis Walpole Library, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/med:  
+
+  #name:  'Medical History Library, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/mssa:  
+
+  #name:  'Manuscripts and Archives, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/music:  
+
+  #name:  'Gilmore Music Library, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+##yale/peabody:  
+
+  #name:  'Peabody Musum of Natural History, Yale University'
+  #description: ''
+  #thumbnail_url: 'http://localhost:3000/books.jpg'
+  
+  
+filk:  
+  name:  'Harold Stein Filk Archive'
   description: ''
-  building: 'Herman B Wells Library E460'
-  address1: '320 East Tenth Street'
-  address2: ''
-  city: 'Bloomington'
-  state: 'IN'
-  zip: '47405-7000'
-  phone: '812-855-1127'
-  contact_info: 'archives@indiana.edu'
-  thumbnail_url: 'https://libraries.indiana.edu/sites/default/files/styles/iu_one_third_standard/public/LARGE_archives.jpg'
-  url: 'https://libraries.indiana.edu/university-archives'
-
-InU-aaamc:
-  name: 'Indiana University, Archives of African American Music and Culture (AAAMC)'
-  description: ''
-  building: 'Smith Research Center, Rooms 180-181'
-  address1: '2805 E. 10th St.'
-  address2: ''
-  city: 'Bloomington'
-  state: 'IN'
-  zip: '47408-2601'
-  phone: '812-855-8547'
-  contact_info: 'aaamc@indiana.edu'
-  thumbnail_url: 'https://lh5.googleusercontent.com/p/AF1QipMVL1KyiNyXC-CbBFDAmvyagCCIV3ioFFCg0POu=w160-h160-k-no'
-  url: 'https://aaamc.indiana.edu/'
-
-InU-cshm:
-  name: 'Indiana University, Center for Documentary Research and Practice'
-  description: ''
-  building: 'Radio-TV Building, Room 314'
-  address1: '1229 E 7th Street'
-  address2: ''
-  city: 'Bloomington'
-  state: 'IN'
-  zip: '47405'
-  phone: '812/855-2856'
-  contact_info: 'ohrc@indiana.edu'
-  thumbnail_url: 'https://yt3.ggpht.com/a/AGF-l79Ki99JsXsshs5dZ_e2tAtX-OXBJM--XEbhIA=s288-c-k-c0xffffffff-no-rj-mo'
-  url: 'https://cdrp.mediaschool.indiana.edu/'
-
-InU-ewv:
-  name: 'Indiana University, Erminie Wheeler-Voegelin Archives'
-  description: ''
-  building: 'Glenn A. Black Laboratory of Archaeology'
-  address1: '423 N. Fess St.'
-  address2: ''
-  city: 'Bloomington'
-  state: 'IN'
-  zip: '47408'
-  phone: '812-855-9544'
-  contact_info: 'gbl@indiana.edu'
-  thumbnail_url: 'https://www.iu.edu/~images/dams/441689_w296.jpg'
-  url: 'http://webapp1.dlib.indiana.edu/findingaids/search?repository=ewv&sort=title'
-
-InU-Li:
-  name: 'Lilly Library (Indiana University, Bloomington)'
-  description: ''
-  building: ''
-  address1: '1200 E. Seventh St.'
-  address2: ''
-  city: 'Bloomington'
-  state: 'IN'
-  zip: '47405-5500'
-  phone: '812-855-2452'
-  contact_info: 'liblilly@indiana.edu'
-  thumbnail_url: 'https://libraries.indiana.edu/sites/default/files/styles/iu_one_third_standard/public/Lilly_CmpExt5014b_compressed.jpg?itok=EjPIQ7bV'
-  url: 'https://libraries.indiana.edu/lilly-library'
-
-nlm:
-  name: 'National Library of Medicine. History of Medicine Division'
-  description: 'NLM’s History of Medicine Division collects, preserves, makes available, and interprets for diverse audiences one of the world’s richest collections of historical material related to human health and disease.'
+  thumbnail_url: 'http://localhost:3000/books.jpg'
   building: 'Building 38, Room 1E-21'
   address1: '8600 Rockville Pike'
   address2: ''
@@ -124,114 +360,12 @@ nlm:
   country: 'USA'
   phone: ''
   contact_info: 'hmdref@nlm.nih.gov'
-  thumbnail_url: "https://collections.nlm.nih.gov/pageturnerserver/ajaxp?theurl=http://localhost:8080/fedora/get/nlm:nlmuid-101421040-img/THUMB"
-  request_types:
-    google_form:
-      request_url: 'https://docs.google.com/a/stanford.edu/forms/d/e/1FAIpQLSeOamhY_IcFw4sPnz0ddwWWkrPaHbM5wp7JVbOLOL_mIusEyw/viewform'
-      request_mappings: "document_url=entry.1980510262&collection_name=entry.619150170&collection_creator=entry.14428541&eadid=entry.996397105&containers=entry.1125277048&title=entry.862815208"
-
-sul-ars:
-  name: 'Stanford University Libraries. Archive of Recorded Sound'
-  visit_note: 'The Archive’s materials are for on-site use only. It is advised that visitors contact the Archive in advance so that required materials can be prepared.'
-  description: 'The Archive of Recorded Sound’s collection contains over 400,000 items that span sound recording history--from its beginnings to the present day. Nearly all formats ever developed to record sound are represented: piano rolls; wax cylinders; shellac, acetate, aluminum, and vinyl discs; magnetic wire and tape recordings; compact discs. Collections are particularly strong in the areas of jazz and opera.'
-  building: 'Braun Music Center'
-  address1: '541 Lasuen Mall'
-  address2: ''
-  city: 'Stanford'
-  state: 'CA'
-  zip: '94305-3076'
-  country: 'USA'
-  phone: ''
-  contact_info: 'soundarchive@stanford.edu'
-  thumbnail_url: 'https://library.stanford.edu/sites/default/files/styles/150x150/public/branch/image/Edison_002LowRes.jpg'
-
-sul-cubb:
-  name: 'Stanford University Libraries. Cubberley Education Library'
+  thumbnail_url: "http://localhost:3000/books.jpg"
   visit_note: ''
-  description: 'Cubberley Education Library supports the research and teaching needs of those interested in education at all levels with a collection of over 170,000 volumes and some 1100 journals. Part of this collection is stored off campus in SAL3 for preservation and must be paged to campus. We have a current curriculum collection (including children’s books), plus historical collections of textbooks and college catalogs.'
-  building: 'Education Building'
-  address1: '485 Lasuen Mall'
-  address2: ''
-  city: 'Stanford'
-  state: 'CA'
-  zip: '94305-3076'
-  country: 'USA'
-  phone: ''
-  contact_info: 'cubberley@stanford.edu'
-  thumbnail_url: 'http://library.stanford.edu/sites/default/files/styles/150x150/public/branch/image/ed%20main.jpg'
+  #  request_types:
+  #    google_form:
+  #      request_url: 'https://docs.google.com/a/stanford.edu/forms/d/e/1FAIpQLSeOamhY_IcFw4sPnz0ddwWWkrPaHbM5wp7JVbOLOL_mIusEyw/viewform'
+  #      request_mappings: "document_url=entry.1980510262&collection_name=entry.619150170&collection_creator=entry.14428541&eadid=entry.996397105&containers=entry.1125277048&title=entry.862815208"
 
-sul-spec:
-  name: 'Stanford University Libraries. Special Collections and University Archives'
-  visit_note: 'Special Collections and University Archives materials are stored offsite and must be paged 36 hours in advance.'
-  description: 'The Special Collections and University Archives Department of Stanford University Libraries is committed to acquiring, preserving, and providing access to primary source materials that support the research needs of the Stanford community and beyond. There are three distinct divisions in our department: Manuscripts, Rare Books and University Archives. We welcome all students, scholars and members of the general public to the Field Reading Room. Learn more about using and accessing our collections.'
-  building: 'Green Library'
-  address1: '557 Escondido Mall'
-  address2: ''
-  city: 'Stanford'
-  state: 'CA'
-  zip: '94305'
-  country: 'USA'
-  phone: '(650) 725-1022'
-  contact_info: 'specialcollections@stanford.edu'
-  thumbnail_url: 'https://library.stanford.edu/sites/default/files/styles/150x150/public/collection/image/Collections-Super-Enlight.jpg'
 
-umich-bhl:
-  name: 'University of Michigan. Bentley Historical Library'
-  description: 'The Bentley Historical Library collects the materials for and promotes the study of the histories of two great, intertwined institutions, the State of Michigan and the University of Michigan. The Library is open without fee to the public, and we welcome researchers regardless of academic or professional affiliation.'
-  building: ''
-  address1: '1150 Beal Ave'
-  address2: ''
-  city: 'Ann Arbor'
-  state: 'MI'
-  zip: '48109-2113'
-  country: 'USA'
-  phone: '(734) 764-3482'
-  contact_info: 'bentley.ref@umich.edu'
-  thumbnail_url: 'https://pbs.twimg.com/profile_images/1110568415046107137/Sdu9v141_400x400.png'
-
-umich-scrc:
-  name: 'University of Michigan. Special Collections Research Center'
-  description: 'In keeping with the University Library’s mission to collect, describe, preserve, and make available the record of human knowledge, the Special Collections Research Center acquires, cares for, interprets, and promotes the use of important collections of unique, rare, primary source, and other material in all formats and in a variety of subject areas.'
-  building: 'Harlan Hatcher Graduate Library (South)'
-  address1: '913 S. University Avenue'
-  address2: ''
-  city: 'Ann Arbor'
-  state: 'MI'
-  zip: '48109-1190'
-  country: 'USA'
-  phone: ''
-  contact_info: 'special.collections@umich.edu'
-  thumbnail_url: 'https://pbs.twimg.com/media/EDjQV2-W4AE4Amf.jpg'
-  request_types:
-    aeon_web_ead:
-      request_url: 'https://iris.lib.umich.edu/aeon/aeon.dll'
-      request_mappings: 'Action=10&Form=31&Value=ead_url'
-
-umich-wlcl:
-  name: 'University of Michigan. William L. Clements Library'
-  description: 'The William L. Clements Library is a rare book and manuscript repository located on the University of Michigan’s central campus in Ann Arbor, Michigan.'
-  building: ''
-  address1: '909 South University Avenue'
-  address2: ''
-  city: 'Ann Arbor'
-  state: 'MI'
-  zip: '48109'
-  country: 'USA'
-  phone: ''
-  contact_info: 'clements-reference@umich.edu'
-  thumbnail_url: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/University_of_Michigan_August_2013_179_%28William_L._Clements_Library%29.jpg'
-
-cmu-clark:
-  name: 'Central Michigan University Clarke Historical Library'
-  description: 'Clarke Historical Library was founded in 1954, when Dr. Norman C. Clarke, Sr. donated his collection of historical books and other materials to his alma mater, Central Michigan University. The Clarke Historical Library mainly collects and makes available to researchers both primary and secondary source collections documenting the history of Michigan, children’s literature, and Central Michigan University.'
-  building: 'Park Library'
-  address1: '250 East Preston Street'
-  address2: ''
-  city: 'Mount Pleasant'
-  state: 'MI'
-  zip: '48859'
-  country: 'USA'
-  phone: ''
-  contact_info: 'clarke@cmich.edu'
-  thumbnail_url: 'https://quod.lib.umich.edu/c/clarke/graphics/repo_20191001.jpg'
   
