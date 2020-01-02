@@ -183,8 +183,10 @@
                     <did><unittitle>The Compleat Dirty Nelly</unittitle></did>
                 </c02>
                 <c02 level="subseries" id="Xenofilkia">
-                    <did><unittitle>Xenofilkia</unittitle></did>
-
+                    <did><unittitle>Xenofilkia</unittitle>
+                    <abstract>Xenofilkia is a bimonthly fan zine run by <persname>Lee Gold</persname>. It is in print and information about subscribing or purchasing issues can be found at
+                        <a href="https://www.conchord.org/xeno/#indexes">https://www.conchord.org/xeno/</a>.  </abstract>
+                </did>
 
 
                     <c level='item'> <did> <unittitle>Xenofilkia, April #166 Filk's Daze</unittitle>
@@ -192,24 +194,22 @@
                         <physdesc> <genreform source='local'>APA</genreform>
                             A filk APA produced by Lee Gold
                             <extent>1 copy</extent></physdesc>
-                       <container type="box">2</container>
-                        <dao linktype='simple' title='' href='' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/><origination label='publisher'><persname>Gold, Lee</persname></origination> </did>
-                    </c>
+                        <container type="box">2</container></did>
+</c>
                     <c level='item'> <did> <unittitle>Xenofilkia, #60, August</unittitle>
                         <unitdate normal=''></unitdate><abstract>Yellow covered issue with a dragon listening to a phonograph record.</abstract>
                         <physdesc> <genreform source='local'>APA</genreform>
                             Yellow covered issue with a dragon listening to a phonograph record.
                             <extent>1 copy</extent></physdesc>
-                       <container type="box">2</container>
-                        <dao linktype='simple' title='' href='' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/><origination label='publisher'><persname>Gold, Lee</persname></origination> </did>
-                    </c>
+                        <container type="box">2</container></did>
+</c>
                     <c level='item'> <did> <unittitle>Xenofilkia #1</unittitle>
                         <unitdate normal='19881001'>1 Oct 1988</unitdate><abstract>Blue cover with dragon with hexagon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
                             Blue cover with dragon with hexagon
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #2</unittitle>
                         <unitdate normal='19881201'>1 Dec 1988</unitdate><abstract>Yellow cover with keyboard with cats meowing and people milling around</abstract>
@@ -217,7 +217,7 @@
                             Yellow cover with keyboard with cats meowing and people milling around
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #3</unittitle>
                         <unitdate normal='19890201'>1 Feb 1989</unitdate><abstract>Pink cover with person with scimitar on a flying horse</abstract>
@@ -225,7 +225,7 @@
                             Pink cover with person with scimitar on a flying horse
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #4</unittitle>
                         <unitdate normal='19890401'>1 Apr 1989</unitdate><abstract>Blue cover with aliens and mushrooms, inside it says March, 1989</abstract>
@@ -233,7 +233,7 @@
                             Blue cover with aliens and mushrooms, inside it says March, 1989
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #5</unittitle>
                         <unitdate normal='19890601'>1 Jun 1989</unitdate><abstract>Pink cover with lizard person riding a feathered biped. Date inside says May, 1989</abstract>
@@ -241,7 +241,7 @@
                             Pink cover with lizard person riding a feathered biped. Date inside says May, 1989
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #6</unittitle>
                         <unitdate normal='19890801'>1 Aug 1989</unitdate><abstract>Blue cover with Elfquest style elf</abstract>
@@ -249,7 +249,7 @@
                             Blue cover with Elfquest style elf
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #7</unittitle>
                         <unitdate normal='19891001'>1 Oct 1989</unitdate><abstract>Pink cover with mysterious hooded figure and plant</abstract>
@@ -257,7 +257,7 @@
                             Pink cover with mysterious hooded figure and plant
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #8</unittitle>
                         <unitdate normal='19891201'>1 Dec 1989</unitdate><abstract>Light pink cover with carousel hippogryph</abstract>
@@ -265,7 +265,7 @@
                             Light pink cover with carousel hippogryph
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #9</unittitle>
                         <unitdate normal='19900201'>1 Feb 1990</unitdate><abstract>Yellow cover with flying machine with a frog and winged person and operator, possible pyramid in back.</abstract>
@@ -273,7 +273,7 @@
                             Yellow cover with flying machine with a frog and winged person and operator, possible pyramid in back.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #10</unittitle>
                         <unitdate normal='19900401'>1 Apr 1990</unitdate><abstract>White cover with dark elf with sunshades with staff</abstract>
@@ -281,7 +281,7 @@
                             White cover with dark elf with sunshades with staff
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #11</unittitle>
                         <unitdate normal='19900601'>1 Jun 1990</unitdate><abstract>Blue cover with tavern with wizards and frogs and bipedal mammals</abstract>
@@ -289,7 +289,7 @@
                             Blue cover with tavern with wizards and frogs and bipedal mammals
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #12</unittitle>
                         <unitdate normal='19900801'>1 Aug 1990</unitdate><abstract>Green cover with a dancer in flowing clothes with a two horned creature</abstract>
@@ -297,7 +297,7 @@
                             Green cover with a dancer in flowing clothes with a two horned creature
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #13</unittitle>
                         <unitdate normal='19901001'>1 Oct 1990</unitdate><abstract>Green cover with six-armed dancer</abstract>
@@ -305,7 +305,7 @@
                             Green cover with six-armed dancer
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #14</unittitle>
                         <unitdate normal='19901201'>1 Dec 1990</unitdate><abstract>Blue cover with hooded person with alien/fantasy backdrop</abstract>
@@ -313,7 +313,7 @@
                             Blue cover with hooded person with alien/fantasy backdrop
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #15</unittitle>
                         <unitdate normal='19910201'>1 Feb 1991</unitdate><abstract>Yellow cover with adventuring party with giant cats/gryphons?</abstract>
@@ -321,7 +321,7 @@
                             Yellow cover with adventuring party with giant cats/gryphons?
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #16</unittitle>
                         <unitdate normal='19910401'>1 Apr 1991</unitdate><abstract>Blue cover with warrior with eagle and long peacock ribbon</abstract>
@@ -329,7 +329,7 @@
                             Blue cover with warrior with eagle and long peacock ribbon
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #17</unittitle>
                         <unitdate normal='19910601'>1 Jun 1991</unitdate><abstract>Pink cover with anthropomorphic jackel</abstract>
@@ -337,7 +337,7 @@
                             Pink cover with anthropomorphic jackel
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #18</unittitle>
                         <unitdate normal='19910801'>1 Aug 1991</unitdate><abstract>Goldenrod cover</abstract>
@@ -345,7 +345,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #18</unittitle>
                         <unitdate normal='19910801'>1 Aug 1991</unitdate><abstract>Orange cover with Bugs Bunny in knight outfit riding a horse "Toon Knight"</abstract>
@@ -353,7 +353,7 @@
                             Orange cover with Bugs Bunny in knight outfit riding a horse "Toon Knight"
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #19</unittitle>
                         <unitdate normal='19911001'>1 Oct 1991</unitdate><abstract>Yellow cover with warrior with long braid and staff. Warrior has bird-like arms and hooves.</abstract>
@@ -361,7 +361,7 @@
                             Yellow cover with warrior with long braid and staff. Warrior has bird-like arms and hooves.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #20</unittitle>
                         <unitdate normal='19911201'>1 Dec 1991</unitdate><abstract>Yellow cover with thin person in crop top and suspenders with phoenix in the background.</abstract>
@@ -369,7 +369,7 @@
                             Yellow cover with thin person in crop top and suspenders with phoenix in the background.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #21</unittitle>
                         <unitdate normal='19920201'>1 Feb 1992</unitdate><abstract>Green cover with snake charmer who is a snake charming a human out of a basket</abstract>
@@ -377,7 +377,7 @@
                             Green cover with snake charmer who is a snake charming a human out of a basket
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #22</unittitle>
                         <unitdate normal='19920401'>1 Apr 1992</unitdate><abstract>Orange cover with a insectoid rock star with guitar</abstract>
@@ -385,7 +385,7 @@
                             Orange cover with a insectoid rock star with guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #23</unittitle>
                         <unitdate normal='19920601'>1 Jun 1992</unitdate><abstract>Blue cover with sea monster</abstract>
@@ -393,7 +393,7 @@
                             Blue cover with sea monster
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #24</unittitle>
                         <unitdate normal='19920801'>1 Aug 1992</unitdate><abstract>White cover with person riding a floating horse?</abstract>
@@ -401,7 +401,7 @@
                             White cover with person riding a floating horse?
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #25</unittitle>
                         <unitdate normal='19921001'>1 Oct 1992</unitdate><abstract>Yellow cover</abstract>
@@ -409,7 +409,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #25</unittitle>
                         <unitdate normal='19921001'>1 Oct 1992</unitdate><abstract>Yellow cover with teddy bear organist playing in a church</abstract>
@@ -417,7 +417,7 @@
                             Yellow cover with teddy bear organist playing in a church
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #26</unittitle>
                         <unitdate normal='19921201'>1 Dec 1992</unitdate><abstract>White cover</abstract>
@@ -425,7 +425,7 @@
                             White cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #26</unittitle>
                         <unitdate normal='19921201'>1 Dec 1992</unitdate><abstract>White cover with an Old Time Religion joke</abstract>
@@ -433,7 +433,7 @@
                             White cover with an Old Time Religion joke
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #27</unittitle>
                         <unitdate normal='19930201'>1 Feb 1993</unitdate><abstract>Blue green cover mermaid</abstract>
@@ -442,7 +442,7 @@
                             <extent>2 copies</extent></physdesc>
                        <container type="box">10</container>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #28</unittitle>
                         <unitdate normal='19930401'>1 Apr 1993</unitdate><abstract>Pink cover with person with firelizard</abstract>
@@ -450,7 +450,7 @@
                             Pink cover with person with firelizard
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #29</unittitle>
                         <unitdate normal='19930601'>1 Jun 1993</unitdate><abstract>Orange cover with furry cat person </abstract>
@@ -458,7 +458,7 @@
                             Orange cover with furry cat person
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #30</unittitle>
                         <unitdate normal='19930801'>1 Aug 1993</unitdate><abstract>Blue cover with mystical person with geometric tights</abstract>
@@ -466,7 +466,7 @@
                             Blue cover with mystical person with geometric tights
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #31</unittitle>
                         <unitdate normal='19931001'>1 Oct 1993</unitdate><abstract>Blue cover with lion-tailed humanoid person</abstract>
@@ -474,7 +474,7 @@
                             Blue cover with lion-tailed humanoid person
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #32</unittitle>
                         <unitdate normal='19931201'>1 Dec 1993</unitdate><abstract>White cover with Llamas night joke (referencing the Mercedes Lackey song Lammas Night)</abstract>
@@ -482,7 +482,7 @@
                             White cover with Llamas night joke (referencing the Mercedes Lackey song Lammas Night)
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #33</unittitle>
                         <unitdate normal='19940201'>1 Feb 1994</unitdate><abstract>Pink cover with "Toyminator"</abstract>
@@ -490,7 +490,7 @@
                             Pink cover with "Toyminator"
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #34</unittitle>
                         <unitdate normal='19940401'>1 Apr 1994</unitdate><abstract>Blue cover with lizard playing guitar and wearing a beanie "Filkasaurus"</abstract>
@@ -498,7 +498,7 @@
                             Blue cover with lizard playing guitar and wearing a beanie "Filkasaurus"
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #35</unittitle>
                         <unitdate normal='19940601'>1 Jun 1994</unitdate><abstract>Yellow cover with web-footed onesie next to frog person who is staring.</abstract>
@@ -506,7 +506,7 @@
                             Yellow cover with web-footed onesie next to frog person who is staring.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #36</unittitle>
                         <unitdate normal='19940801'>1 Aug 1994</unitdate><abstract>Pink cover with alien with beer and guitar</abstract>
@@ -514,7 +514,7 @@
                             Pink cover with alien with beer and guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #37</unittitle>
                         <unitdate normal='19941001'>1 Oct 1994</unitdate><abstract>Blue cover with person with Princess Leia hair stepping through a circular portal.</abstract>
@@ -522,7 +522,7 @@
                             Blue cover with person with Princess Leia hair stepping through a circular portal.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #38</unittitle>
                         <unitdate normal='19941201'>1 Dec 1994</unitdate><abstract>Yellow cover with a centaur with a stein and a dog with a bone</abstract>
@@ -530,7 +530,7 @@
                             Yellow cover with a centaur with a stein and a dog with a bone
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #39</unittitle>
                         <unitdate normal='19950201'>1 Feb 1995</unitdate><abstract>Green cover with dragon with black wings</abstract>
@@ -538,7 +538,7 @@
                             Green cover with dragon with black wings
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #40</unittitle>
                         <unitdate normal='19950401'>1 Apr 1995</unitdate><abstract>Pink cover with alien beauty contestant</abstract>
@@ -546,7 +546,7 @@
                             Pink cover with alien beauty contestant
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #41</unittitle>
                         <unitdate normal='19950601'>1 Jun 1995</unitdate><abstract>Blue cover with person playing with three kitties while wearing thigh high boots and low cut top.</abstract>
@@ -554,7 +554,7 @@
                             Blue cover with person playing with three kitties while wearing thigh high boots and low cut top.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #42</unittitle>
                         <unitdate normal='19950801'>1 Aug 1995</unitdate><abstract>Yellow cover with lionfish mermaid (early <persname  normal="McGuire, Seanan">Seanan McGuire</persname> art)</abstract>
@@ -563,7 +563,7 @@
                             <extent>2 copies</extent></physdesc>
                         <container type="box">10</container>
                         <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #59</unittitle>
                         <unitdate normal='19980601'>1 Jun 1998</unitdate><abstract>Bluish green cover with scorpion-esque creature</abstract>
@@ -571,7 +571,7 @@
                             Bluish green cover with scorpion-esque creature
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #60</unittitle>
                         <unitdate normal='19980801'>1 Aug 1998</unitdate><abstract>Orange cover with "His Master's Voice" with a dragon</abstract>
@@ -579,7 +579,7 @@
                             Orange cover with "His Master's Voice" with a dragon
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #61</unittitle>
                         <unitdate normal='19981001'>1 Oct 1998</unitdate><abstract>Pink cover with dancing centaur on an island</abstract>
@@ -587,7 +587,7 @@
                             Pink cover with dancing centaur on an island
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #62</unittitle>
                         <unitdate normal='19981201'>1 Dec 1998</unitdate><abstract>Yellow cover with dragon and human with dragon horde of various collectibles</abstract>
@@ -595,7 +595,7 @@
                             Yellow cover with dragon and human with dragon horde of various collectibles
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #64</unittitle>
                         <unitdate normal='19990401'>1 Apr 1999</unitdate><abstract>Pink cover with gairy and hummingbird at a liquid bird feeder</abstract>
@@ -604,7 +604,7 @@
                             <extent>2 copies</extent></physdesc>
                        <container type="box">14</container>                       <container type="box">15</container>
 
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #65</unittitle>
                         <unitdate normal='19990601'>1 Jun 1999</unitdate><abstract>Goldenrod cover waltzing foxes in human clothes</abstract>
@@ -613,7 +613,7 @@
                             <extent>2 copies</extent></physdesc>
                        <container type="box">14</container>                       <container type="box">15</container>
 
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
 
                     <c level='item'> <did> <unittitle>Xenofilkia #66</unittitle>
@@ -623,7 +623,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>                       <container type="box">15</container>
 
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
 
                     <c level='item'> <did> <unittitle>Xenofilkia #67</unittitle>
@@ -633,7 +633,7 @@
                             <extent>2 copies</extent></physdesc>
                        <container type="box">14</container>                       <container type="box">10</container>
 
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #68</unittitle>
                         <unitdate normal='19991201'>1 Dec 1999</unitdate><abstract>Blue cover</abstract>
@@ -641,7 +641,7 @@
                             Blue cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #68</unittitle>
                         <unitdate normal='19991201'>1 Dec 1999</unitdate><abstract>Blue cover with Alien guitarist at open mike</abstract>
@@ -649,7 +649,7 @@
                             Blue cover with Alien guitarist at open mike
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #69</unittitle>
                         <unitdate normal='20000201'>1 Feb 2000</unitdate><abstract>Pink cover</abstract>
@@ -657,7 +657,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #69</unittitle>
                         <unitdate normal='20000201'>1 Feb 2000</unitdate><abstract>Pink cover with "there goes the neighbourhood" cartoon of faries leaving because of construction of a Walmart</abstract>
@@ -665,7 +665,7 @@
                             Pink cover with "there goes the neighbourhood" cartoon of faries leaving because of construction of a Walmart
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #70</unittitle>
                         <unitdate normal='20000401'>1 Apr 2000</unitdate><abstract>Green cover</abstract>
@@ -673,7 +673,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #70</unittitle>
                         <unitdate normal='20000401'>1 Apr 2000</unitdate><abstract>Green cover with a demon, or maybe a faun.</abstract>
@@ -681,7 +681,7 @@
                             Green cover with a demon, or maybe a faun.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #71</unittitle>
                         <unitdate normal='20000601'>1 Jun 2000</unitdate><abstract>Pink cover</abstract>
@@ -689,7 +689,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #71</unittitle>
                         <unitdate normal='20000601'>1 Jun 2000</unitdate><abstract>Pink cover with Xena joke</abstract>
@@ -697,7 +697,7 @@
                             Pink cover with Xena joke
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #72</unittitle>
                         <unitdate normal='20000801'>1 Aug 2000</unitdate><abstract>Yellow cover</abstract>
@@ -705,7 +705,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #72</unittitle>
                         <unitdate normal='20000801'>1 Aug 2000</unitdate><abstract>Yellow cover with person in blousy pants</abstract>
@@ -713,7 +713,7 @@
                             Yellow cover with person in blousy pants
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #73</unittitle>
                         <unitdate normal='20001001'>1 Oct 2000</unitdate><abstract>Green cover</abstract>
@@ -721,7 +721,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #73</unittitle>
                         <unitdate normal='20001001'>1 Oct 2000</unitdate><abstract>Green cover with person riding a sea horse and fighting a hammerhead shark with a trident</abstract>
@@ -729,7 +729,7 @@
                             Green cover with person riding a sea horse and fighting a hammerhead shark with a trident
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #74</unittitle>
                         <unitdate normal='20001201'>1 Dec 2000</unitdate><abstract>Goldenrod cover</abstract>
@@ -737,7 +737,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #74</unittitle>
                         <unitdate normal='20001201'>1 Dec 2000</unitdate><abstract>Goldenrod cover with unicorn head</abstract>
@@ -745,7 +745,7 @@
                             Goldenrod cover with unicorn head
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #75</unittitle>
                         <unitdate normal='20010201'>1 Feb 2001</unitdate><abstract>Green cover</abstract>
@@ -753,7 +753,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #75</unittitle>
                         <unitdate normal='20010201'>1 Feb 2001</unitdate><abstract>Green cover with future cityscape and flying car</abstract>
@@ -761,7 +761,7 @@
                             Green cover with future cityscape and flying car
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #76</unittitle>
                         <unitdate normal='20010401'>1 Apr 2001</unitdate><abstract>Yellow cover</abstract>
@@ -769,7 +769,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #76</unittitle>
                         <unitdate normal='20010401'>1 Apr 2001</unitdate><abstract>Yellow cover with cartoon of chthuloid activity</abstract>
@@ -777,7 +777,7 @@
                             Yellow cover with cartoon of chthuloid activity
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #77</unittitle>
                         <unitdate normal='20010601'>1 Jun 2001</unitdate><abstract>Goldenrod cover</abstract>
@@ -785,7 +785,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #77</unittitle>
                         <unitdate normal='20010601'>1 Jun 2001</unitdate><abstract>Goldenrod cover with dragon cartoon</abstract>
@@ -793,7 +793,7 @@
                             Goldenrod cover with dragon cartoon
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #87</unittitle>
                         <unitdate normal='20010801'>1 Aug 2001</unitdate><abstract>Light green cover</abstract>
@@ -801,7 +801,7 @@
                             Light green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #78</unittitle>
                         <unitdate normal='20010801'>1 Aug 2001</unitdate><abstract>Green cover with a cat physicist lecturing on String Theory</abstract>
@@ -809,7 +809,7 @@
                             Green cover with a cat physicist lecturing on String Theory
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #79</unittitle>
                         <unitdate normal='20011001'>1 Oct 2001</unitdate><abstract>Yellow cover</abstract>
@@ -817,7 +817,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #79</unittitle>
                         <unitdate normal='20011001'>1 Oct 2001</unitdate><abstract>Yellow cover with pumpkinhead judge judging jack-o-lanterns</abstract>
@@ -825,7 +825,7 @@
                             Yellow cover with pumpkinhead judge judging jack-o-lanterns
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #80</unittitle>
                         <unitdate normal='20011201'>1 Dec 2001</unitdate><abstract>White cover</abstract>
@@ -833,7 +833,7 @@
                             White cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #80</unittitle>
                         <unitdate normal='20011201'>1 Dec 2001</unitdate><abstract>White cover with American Eagle and broken hearted singers. On the interior the date is given as November, not December</abstract>
@@ -841,7 +841,7 @@
                             White cover with American Eagle and broken hearted singers. On the interior the date is given as November, not December
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #81</unittitle>
                         <unitdate normal='20020201'>1 Feb 2002</unitdate><abstract>Pink cover</abstract>
@@ -849,7 +849,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #82</unittitle>
                         <unitdate normal='20020301'>1 Mar 2002</unitdate><abstract>Green cover with alien and insectoid alien, the interior says March, 2002</abstract>
@@ -857,7 +857,7 @@
                             Green cover with alien and insectoid alien, the interior says March, 2002
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #82</unittitle>
                         <unitdate normal='20020401'>1 Apr 2002</unitdate><abstract>Green cover</abstract>
@@ -865,7 +865,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #83</unittitle>
                         <unitdate normal='20020601'>1 Jun 2002</unitdate><abstract>Goldenrod cover</abstract>
@@ -873,7 +873,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #83</unittitle>
                         <unitdate normal='20020601'>1 Jun 2002</unitdate><abstract>Orange cover with band from Argo playing for frog people</abstract>
@@ -881,7 +881,7 @@
                             Orange cover with band from Argo playing for frog people
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #84</unittitle>
                         <unitdate normal='20020801'>1 Aug 2002</unitdate><abstract>Yellow cover</abstract>
@@ -889,7 +889,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #84</unittitle>
                         <unitdate normal='20020801'>1 Aug 2002</unitdate><abstract>Yellow cover with musical top hat ejecting a tortoise and hare</abstract>
@@ -897,7 +897,7 @@
                             Yellow cover with musical top hat ejecting a tortoise and hare
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #85</unittitle>
                         <unitdate normal='20021001'>1 Oct 2002</unitdate><abstract>Green cover</abstract>
@@ -905,7 +905,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #85</unittitle>
                         <unitdate normal='20021001'>1 Oct 2002</unitdate><abstract>Green cover with dragon, guitarist and a wizard</abstract>
@@ -913,7 +913,7 @@
                             Green cover with dragon, guitarist and a wizard
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #86</unittitle>
                         <unitdate normal='20021201'>1 Dec 2002</unitdate><abstract>Orange cover</abstract>
@@ -921,7 +921,7 @@
                             Orange cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #87</unittitle>
                         <unitdate normal='20030201'>1 Feb 2003</unitdate><abstract>Yellow cover</abstract>
@@ -929,7 +929,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #87</unittitle>
                         <unitdate normal='20030201'>1 Feb 2003</unitdate><abstract>Yellow cover with bird legged, tentacled, humanoid with tennis racquet?</abstract>
@@ -937,7 +937,7 @@
                             Yellow cover with bird legged, tentacled, humanoid with tennis racquet?
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #88</unittitle>
                         <unitdate normal='20030401'>1 Apr 2003</unitdate><abstract>Yellow cover</abstract>
@@ -945,7 +945,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #88</unittitle>
                         <unitdate normal='20030401'>1 Apr 2003</unitdate><abstract>Yellow cover with cat and dog on piano, playing and singing</abstract>
@@ -953,7 +953,7 @@
                             Yellow cover with cat and dog on piano, playing and singing
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #89</unittitle>
                         <unitdate normal='20030601'>1 Jun 2003</unitdate><abstract>Green cover</abstract>
@@ -961,7 +961,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #89</unittitle>
                         <unitdate normal='20030601'>1 Jun 2003</unitdate><abstract>Green cover with abstract of a person singing and playing guitar</abstract>
@@ -969,7 +969,7 @@
                             Green cover with abstract of a person singing and playing guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #90</unittitle>
                         <unitdate normal='20030801'>1 Aug 2003</unitdate><abstract>Pink cover</abstract>
@@ -977,7 +977,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #90</unittitle>
                         <unitdate normal='20030801'>1 Aug 2003</unitdate><abstract>Pink cover with adventurers and a dog and cat around a table</abstract>
@@ -985,7 +985,7 @@
                             Pink cover with adventurers and a dog and cat around a table
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #91</unittitle>
                         <unitdate normal='20031001'>1 Oct 2003</unitdate><abstract>Yellow cover with cat person drinking from a bottle, leaning against a wall</abstract>
@@ -993,7 +993,7 @@
                             Yellow cover with cat person drinking from a bottle, leaning against a wall
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #91</unittitle>
                         <unitdate normal='20031001'>1 Oct 2003</unitdate><abstract>Yellow cover with cat person drinking from a bottle, leaning against a wall</abstract>
@@ -1001,7 +1001,7 @@
                             Yellow cover with cat person drinking from a bottle, leaning against a wall
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #92</unittitle>
                         <unitdate normal='20031201'>1 Dec 2003</unitdate><abstract>Green cover with maestro conducting daffodils</abstract>
@@ -1009,7 +1009,7 @@
                             Green cover with maestro conducting daffodils
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #92</unittitle>
                         <unitdate normal='20031201'>1 Dec 2003</unitdate><abstract>Green cover with maestro conducting daffodils</abstract>
@@ -1017,7 +1017,7 @@
                             Green cover with maestro conducting daffodils
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #94</unittitle>
                         <unitdate normal='20040401'>1 Apr 2004</unitdate><abstract>Green cover with wizard in robes</abstract>
@@ -1025,7 +1025,7 @@
                             Green cover with wizard in robes
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #94</unittitle>
                         <unitdate normal='20040401'>1 Apr 2004</unitdate><abstract>Green cover with wizard in robes</abstract>
@@ -1033,7 +1033,7 @@
                             Green cover with wizard in robes
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #95</unittitle>
                         <unitdate normal='20040601'>1 Jun 2004</unitdate><abstract>Yellow cover with ghosts and adventurers in battle</abstract>
@@ -1041,7 +1041,7 @@
                             Yellow cover with ghosts and adventurers in battle
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #95</unittitle>
                         <unitdate normal='20040601'>1 Jun 2004</unitdate><abstract>Yellow cover with ghosts and adventurers in battle</abstract>
@@ -1049,7 +1049,7 @@
                             Yellow cover with ghosts and adventurers in battle
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #96</unittitle>
                         <unitdate normal='20040801'>1 Aug 2004</unitdate><abstract>Blue cover with pegasus and guitarist</abstract>
@@ -1057,7 +1057,7 @@
                             Blue cover with pegasus and guitarist
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #96</unittitle>
                         <unitdate normal='20040801'>1 Aug 2004</unitdate><abstract>Blue cover with pegasus and guitarist</abstract>
@@ -1065,7 +1065,7 @@
                             Blue cover with pegasus and guitarist
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #97</unittitle>
                         <unitdate normal='20041001'>1 Oct 2004</unitdate><abstract>Orange cover with paper crane and guy with gong</abstract>
@@ -1073,7 +1073,7 @@
                             Orange cover with paper crane and guy with gong
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #97</unittitle>
                         <unitdate normal='20041001'>1 Oct 2004</unitdate><abstract>Orange cover with paper crane and guy with gong</abstract>
@@ -1081,7 +1081,7 @@
                             Orange cover with paper crane and guy with gong
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #98</unittitle>
                         <unitdate normal='20041201'>1 Dec 2004</unitdate><abstract>Yellow cover with cartoon of blood mobile person</abstract>
@@ -1089,7 +1089,7 @@
                             Yellow cover with cartoon of blood mobile person
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #98</unittitle>
                         <unitdate normal='20041201'>1 Dec 2004</unitdate><abstract>Yellow cover with cartoon of blood mobile person</abstract>
@@ -1097,7 +1097,7 @@
                             Yellow cover with cartoon of blood mobile person
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #104</unittitle>
                         <unitdate normal='20041201'>1 Dec 2004</unitdate><abstract>White cover</abstract>
@@ -1105,7 +1105,7 @@
                             White cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #105</unittitle>
                         <unitdate normal='20050201'>1 Feb 2005</unitdate><abstract>Green cover</abstract>
@@ -1113,7 +1113,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #99</unittitle>
                         <unitdate normal='20050220'>20 Feb 2005</unitdate><abstract>White cover with comedy and tragedy masks in a scale</abstract>
@@ -1121,7 +1121,7 @@
                             White cover with comedy and tragedy masks in a scale
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #100</unittitle>
                         <unitdate normal='20050401'>1 Apr 2005</unitdate><abstract>Pink cover</abstract>
@@ -1129,7 +1129,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #100</unittitle>
                         <unitdate normal='20050401'>1 Apr 2005</unitdate><abstract>Pink cover, adventuring party encounters a furby</abstract>
@@ -1137,7 +1137,7 @@
                             Pink cover, adventuring party encounters a furby
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #101</unittitle>
                         <unitdate normal='20050601'>1 Jun 2005</unitdate><abstract>Goldenrod cover</abstract>
@@ -1145,7 +1145,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #101</unittitle>
                         <unitdate normal='20050601'>1 Jun 2005</unitdate><abstract>Orange cover with soldiers in formation</abstract>
@@ -1153,7 +1153,7 @@
                             Orange cover with soldiers in formation
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #102</unittitle>
                         <unitdate normal='20050801'>1 Aug 2005</unitdate><abstract>Yellow cover</abstract>
@@ -1161,7 +1161,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #102</unittitle>
                         <unitdate normal='20050801'>1 Aug 2005</unitdate><abstract>Yellow cover with cat with microscope</abstract>
@@ -1169,7 +1169,7 @@
                             Yellow cover with cat with microscope
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #103</unittitle>
                         <unitdate normal='20051001'>1 Oct 2005</unitdate><abstract>Goldenrod cover</abstract>
@@ -1177,7 +1177,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #103</unittitle>
                         <unitdate normal='20051001'>1 Oct 2005</unitdate><abstract>Orange cover with masked guitarist and skeleton standing on pumpkin with black cat</abstract>
@@ -1185,7 +1185,7 @@
                             Orange cover with masked guitarist and skeleton standing on pumpkin with black cat
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #104</unittitle>
                         <unitdate normal='20051201'>1 Dec 2005</unitdate><abstract>White color with penguins singing</abstract>
@@ -1193,7 +1193,7 @@
                             White color with penguins singing
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #105</unittitle>
                         <unitdate normal='20060201'>1 Feb 2006</unitdate><abstract>Green cover with sorceror with staff</abstract>
@@ -1201,7 +1201,7 @@
                             Green cover with sorceror with staff
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #106</unittitle>
                         <unitdate normal='20060401'>1 Apr 2006</unitdate><abstract>Yellow cover</abstract>
@@ -1209,7 +1209,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #106</unittitle>
                         <unitdate normal='20060401'>1 Apr 2006</unitdate><abstract>Yellow cover with siren with harp and ship in distance</abstract>
@@ -1217,7 +1217,7 @@
                             Yellow cover with siren with harp and ship in distance
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #107</unittitle>
                         <unitdate normal='20060601'>1 Jun 2006</unitdate><abstract>Blue cover</abstract>
@@ -1225,7 +1225,7 @@
                             Blue cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #107</unittitle>
                         <unitdate normal='20060601'>1 Jun 2006</unitdate><abstract>Light blue cover with stars, musical notes and sun</abstract>
@@ -1233,7 +1233,7 @@
                             Light blue cover with stars, musical notes and sun
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #108</unittitle>
                         <unitdate normal='20060801'>1 Aug 2006</unitdate><abstract>Goldenrod cover</abstract>
@@ -1241,7 +1241,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #108</unittitle>
                         <unitdate normal='20060801'>1 Aug 2006</unitdate><abstract>Goldenrod cover with lion and cat in window looking at indigistinguishable planet or moon.</abstract>
@@ -1249,7 +1249,7 @@
                             Goldenrod cover with lion and cat in window looking at indigistinguishable planet or moon.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #109</unittitle>
                         <unitdate normal='20061001'>1 Oct 2006</unitdate><abstract>White cover with cats on a satelite with musical instruments</abstract>
@@ -1257,7 +1257,7 @@
                             White cover with cats on a satelite with musical instruments
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #109</unittitle>
                         <unitdate normal='20061001'>1 Oct 2006</unitdate><abstract>White cover with cats on a satelite with musical instruments</abstract>
@@ -1265,7 +1265,7 @@
                             White cover with cats on a satelite with musical instruments
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #110</unittitle>
                         <unitdate normal='20061201'>1 Dec 2006</unitdate><abstract>Green cover with hockey player and figure skating guitarist</abstract>
@@ -1273,7 +1273,7 @@
                             Green cover with hockey player and figure skating guitarist
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #110</unittitle>
                         <unitdate normal='20061201'>1 Dec 2006</unitdate><abstract>Green cover with hockey player and figure skating guitarist</abstract>
@@ -1281,7 +1281,7 @@
                             Green cover with hockey player and figure skating guitarist
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #111</unittitle>
                         <unitdate normal='20070201'>1 Feb 2007</unitdate><abstract>Pink cover with singing Mount Rushmore</abstract>
@@ -1289,7 +1289,7 @@
                             Pink cover with singing Mount Rushmore
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #111</unittitle>
                         <unitdate normal='20070201'>1 Feb 2007</unitdate><abstract>Pink cover with singing Mount Rushmore</abstract>
@@ -1297,7 +1297,7 @@
                             Pink cover with singing Mount Rushmore
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #112</unittitle>
                         <unitdate normal='20070401'>1 Apr 2007</unitdate><abstract>Blue cover with cat in a window looking at the earth</abstract>
@@ -1305,7 +1305,7 @@
                             Blue cover with cat in a window looking at the earth
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #112</unittitle>
                         <unitdate normal='20070401'>1 Apr 2007</unitdate><abstract>Blue cover with cat in a window looking at the earth</abstract>
@@ -1313,7 +1313,7 @@
                             Blue cover with cat in a window looking at the earth
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #113</unittitle>
                         <unitdate normal='20070601'>1 Jun 2007</unitdate><abstract>Yellow cover with birds and flowers</abstract>
@@ -1321,7 +1321,7 @@
                             Yellow cover with birds and flowers
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #113</unittitle>
                         <unitdate normal='20070601'>1 Jun 2007</unitdate><abstract>Yellow cover with birds and flowers</abstract>
@@ -1329,7 +1329,7 @@
                             Yellow cover with birds and flowers
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #114</unittitle>
                         <unitdate normal='20070801'>1 Aug 2007</unitdate><abstract>Orange cover with a chef playing a harp and a metal fork being a tuning fork</abstract>
@@ -1337,7 +1337,7 @@
                             Orange cover with a chef playing a harp and a metal fork being a tuning fork
                             <extent>2 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #114</unittitle>
                         <unitdate normal='20070801'>1 Aug 2007</unitdate><abstract>Orange cover with a chef playing a harp and a metal fork being a tuning fork</abstract>
@@ -1345,7 +1345,7 @@
                             Orange cover with a chef playing a harp and a metal fork being a tuning fork
                             <extent>2 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #115</unittitle>
                         <unitdate normal='20071001'>1 Oct 2007</unitdate><abstract>Green cover with owl</abstract>
@@ -1353,7 +1353,7 @@
                             Green cover with owl
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #115</unittitle>
                         <unitdate normal='20071001'>1 Oct 2007</unitdate><abstract>Green cover with owl</abstract>
@@ -1361,7 +1361,7 @@
                             Green cover with owl
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #116</unittitle>
                         <unitdate normal='20071201'>1 Dec 2007</unitdate><abstract>Pink cover, musical conucopia</abstract>
@@ -1369,7 +1369,7 @@
                             Pink cover, musical conucopia
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #116</unittitle>
                         <unitdate normal='20071201'>1 Dec 2007</unitdate><abstract>Pink cover, musical conucopia</abstract>
@@ -1377,7 +1377,7 @@
                             Pink cover, musical conucopia
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #117</unittitle>
                         <unitdate normal='20080201'>1 Feb 2008</unitdate><abstract>Blue cover with telescope</abstract>
@@ -1385,7 +1385,7 @@
                             Blue cover with telescope
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #117</unittitle>
                         <unitdate normal='20080201'>1 Feb 2008</unitdate><abstract>Blue cover with telescope</abstract>
@@ -1393,7 +1393,7 @@
                             Blue cover with telescope
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #118</unittitle>
                         <unitdate normal='20080401'>1 Apr 2008</unitdate><abstract>Pink cover with very small person in ball in clawed hand</abstract>
@@ -1401,7 +1401,7 @@
                             Pink cover with very small person in ball in clawed hand
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #118</unittitle>
                         <unitdate normal='20080401'>1 Apr 2008</unitdate><abstract>Pink cover with very small person in ball in clawed hand</abstract>
@@ -1409,7 +1409,7 @@
                             Pink cover with very small person in ball in clawed hand
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #119</unittitle>
                         <unitdate normal='20080601'>1 Jun 2008</unitdate><abstract>Green cover with mime with two masks holding a guitar in an archway</abstract>
@@ -1417,7 +1417,7 @@
                             Green cover with mime with two masks holding a guitar in an archway
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #119</unittitle>
                         <unitdate normal='20080601'>1 Jun 2008</unitdate><abstract>Green cover with mime with two masks holding a guitar in an archway</abstract>
@@ -1425,7 +1425,7 @@
                             Green cover with mime with two masks holding a guitar in an archway
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #120</unittitle>
                         <unitdate normal='20080801'>1 Aug 2008</unitdate><abstract>Orange cover with spaceman and cherub beating drum, celebrating 20 years of Xenofilkia</abstract>
@@ -1433,7 +1433,7 @@
                             Orange cover with spaceman and cherub beating drum, celebrating 20 years of Xenofilkia
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #120</unittitle>
                         <unitdate normal='20080801'>1 Aug 2008</unitdate><abstract>Orange cover with spaceman and cherub beating drum, celebrating 20 years of Xenofilkia</abstract>
@@ -1441,7 +1441,7 @@
                             Orange cover with spaceman and cherub beating drum, celebrating 20 years of Xenofilkia
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #121</unittitle>
                         <unitdate normal='20081001'>1 Oct 2008</unitdate><abstract>Yellow cover with fiddling cat</abstract>
@@ -1449,7 +1449,7 @@
                             Yellow cover with fiddling cat
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #121</unittitle>
                         <unitdate normal='20081001'>1 Oct 2008</unitdate><abstract>Yellow cover with fiddling cat</abstract>
@@ -1457,7 +1457,7 @@
                             Yellow cover with fiddling cat
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #122</unittitle>
                         <unitdate normal='20081201'>1 Dec 2008</unitdate><abstract>Blue cover with reindeer and snowman caroling</abstract>
@@ -1465,7 +1465,7 @@
                             Blue cover with reindeer and snowman caroling
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #122</unittitle>
                         <unitdate normal='20081201'>1 Dec 2008</unitdate><abstract>Blue cover with reindeer and snowman caroling</abstract>
@@ -1473,7 +1473,7 @@
                             Blue cover with reindeer and snowman caroling
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #123</unittitle>
                         <unitdate normal='20090201'>1 Feb 2009</unitdate><abstract>Yellow cover with harp, Tully and guitar in shopping cart</abstract>
@@ -1481,7 +1481,7 @@
                             Yellow cover with harp, Tully and guitar in shopping cart
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #123</unittitle>
                         <unitdate normal='20090201'>1 Feb 2009</unitdate><abstract>Yellow cover with harp, Tully and guitar in shopping cart</abstract>
@@ -1489,7 +1489,7 @@
                             Yellow cover with harp, Tully and guitar in shopping cart
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #124</unittitle>
                         <unitdate normal='20090401'>1 Apr 2009</unitdate><abstract>Blue cover with angels guarding a cat from the rain with umbrellas</abstract>
@@ -1497,7 +1497,7 @@
                             Blue cover with angels guarding a cat from the rain with umbrellas
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #124</unittitle>
                         <unitdate normal='20090401'>1 Apr 2009</unitdate><abstract>Blue cover with angels guarding a cat from the rain with umbrellas</abstract>
@@ -1505,7 +1505,7 @@
                             Blue cover with angels guarding a cat from the rain with umbrellas
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #125</unittitle>
                         <unitdate normal='20090601'>1 Jun 2009</unitdate><abstract>Yellow cover with "Bagelpipe"</abstract>
@@ -1513,7 +1513,7 @@
                             Yellow cover with "Bagelpipe"
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #125</unittitle>
                         <unitdate normal='20090601'>1 Jun 2009</unitdate><abstract>Yellow cover with "Bagelpipe"</abstract>
@@ -1521,7 +1521,7 @@
                             Yellow cover with "Bagelpipe"
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #126</unittitle>
                         <unitdate normal='20090801'>1 Aug 2009</unitdate><abstract>Blue cover with cat harpist</abstract>
@@ -1529,7 +1529,7 @@
                             Blue cover with cat harpist
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #126</unittitle>
                         <unitdate normal='20090801'>1 Aug 2009</unitdate><abstract>Blue cover with cat harpist</abstract>
@@ -1537,7 +1537,7 @@
                             Blue cover with cat harpist
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #127</unittitle>
                         <unitdate normal='20091001'>1 Oct 2009</unitdate><abstract>Yellow cover with rhyming dog</abstract>
@@ -1545,7 +1545,7 @@
                             Yellow cover with rhyming dog
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #127</unittitle>
                         <unitdate normal='20091001'>1 Oct 2009</unitdate><abstract>Yellow cover with rhyming dog</abstract>
@@ -1553,7 +1553,7 @@
                             Yellow cover with rhyming dog
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #128</unittitle>
                         <unitdate normal='20091201'>1 Dec 2009</unitdate><abstract>Green cover with hummingbird and guitarist in a duel the death</abstract>
@@ -1561,7 +1561,7 @@
                             Green cover with hummingbird and guitarist in a duel the death
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #128</unittitle>
                         <unitdate normal='20091201'>1 Dec 2009</unitdate><abstract>Green cover with hummingbird and guitarist in a duel the death</abstract>
@@ -1569,7 +1569,7 @@
                             Green cover with hummingbird and guitarist in a duel the death
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #129</unittitle>
                         <unitdate normal='20100201'>1 Feb 2010</unitdate><abstract>White cover with snowman playing guitar</abstract>
@@ -1577,7 +1577,7 @@
                             White cover with snowman playing guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #129</unittitle>
                         <unitdate normal='20100201'>1 Feb 2010</unitdate><abstract>White cover with snowman playing guitar</abstract>
@@ -1585,7 +1585,7 @@
                             White cover with snowman playing guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #130</unittitle>
                         <unitdate normal='20100401'>1 Apr 2010</unitdate><abstract>Green cover with tulip playing harp</abstract>
@@ -1593,7 +1593,7 @@
                             Green cover with tulip playing harp
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #131</unittitle>
                         <unitdate normal='20100601'>1 Jun 2010</unitdate><abstract>Yellow cover with personification of the sun playing guitar</abstract>
@@ -1601,7 +1601,7 @@
                             Yellow cover with personification of the sun playing guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #131</unittitle>
                         <unitdate normal='20100601'>1 Jun 2010</unitdate><abstract>Yellow cover with personification of the sun playing guitar</abstract>
@@ -1609,7 +1609,7 @@
                             Yellow cover with personification of the sun playing guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #132</unittitle>
                         <unitdate normal='20100801'>1 Aug 2010</unitdate><abstract>Green cover with children playing go fish with a fairy</abstract>
@@ -1617,7 +1617,7 @@
                             Green cover with children playing go fish with a fairy
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #132</unittitle>
                         <unitdate normal='20100801'>1 Aug 2010</unitdate><abstract>Green cover with children playing go fish with a fairy</abstract>
@@ -1625,7 +1625,7 @@
                             Green cover with children playing go fish with a fairy
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #133</unittitle>
                         <unitdate normal='20101001'>1 Oct 2010</unitdate><abstract>Orange cover with cat and skeleton doing an el kabong with a guitar around a cauldron</abstract>
@@ -1633,7 +1633,7 @@
                             Orange cover with cat and skeleton doing an el kabong with a guitar around a cauldron
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #133</unittitle>
                         <unitdate normal='20101001'>1 Oct 2010</unitdate><abstract>Orange cover with cat and skeleton doing an el kabong with a guitar around a cauldron</abstract>
@@ -1641,7 +1641,7 @@
                             Orange cover with cat and skeleton doing an el kabong with a guitar around a cauldron
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #134</unittitle>
                         <unitdate normal='20101201'>1 Dec 2010</unitdate><abstract>Blue cover with Antarctic Summer Solistic Caroling with penguin</abstract>
@@ -1649,7 +1649,7 @@
                             Blue cover with Antarctic Summer Solistic Caroling with penguin
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #134</unittitle>
                         <unitdate normal='20101201'>1 Dec 2010</unitdate><abstract>Blue cover with Antarctic Summer Solistic Caroling with penguin</abstract>
@@ -1657,7 +1657,7 @@
                             Blue cover with Antarctic Summer Solistic Caroling with penguin
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #135</unittitle>
                         <unitdate normal='20110201'>1 Feb 2011</unitdate><abstract>Pink cover with valentine snowman with guitar</abstract>
@@ -1665,7 +1665,7 @@
                             Pink cover with valentine snowman with guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #135</unittitle>
                         <unitdate normal='20110201'>1 Feb 2011</unitdate><abstract>Pink cover with valentine snowman with guitar</abstract>
@@ -1673,7 +1673,7 @@
                             Pink cover with valentine snowman with guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #136</unittitle>
                         <unitdate normal='20110401'>1 Apr 2011</unitdate><abstract>Green cover with guitarist and dog hiking the stairway to heaven</abstract>
@@ -1681,7 +1681,7 @@
                             Green cover with guitarist and dog hiking the stairway to heaven
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #136</unittitle>
                         <unitdate normal='20110401'>1 Apr 2011</unitdate><abstract>Green cover with guitarist and dog hiking the stairway to heaven</abstract>
@@ -1689,7 +1689,7 @@
                             Green cover with guitarist and dog hiking the stairway to heaven
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #137</unittitle>
                         <unitdate normal='20110601'>1 Jun 2011</unitdate><abstract>Orange cover with cute animals, balloons and moon</abstract>
@@ -1697,7 +1697,7 @@
                             Orange cover with cute animals, balloons and moon
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #137</unittitle>
                         <unitdate normal='20110601'>1 Jun 2011</unitdate><abstract>Orange cover with cute animals, balloons and moon</abstract>
@@ -1705,7 +1705,7 @@
                             Orange cover with cute animals, balloons and moon
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #138</unittitle>
                         <unitdate normal='20110801'>1 Aug 2011</unitdate><abstract>Pirate flag pole with guitars a la maypole and a dog and cat</abstract>
@@ -1713,7 +1713,7 @@
                             Pirate flag pole with guitars a la maypole and a dog and cat
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #138</unittitle>
                         <unitdate normal='20110801'>1 Aug 2011</unitdate><abstract>Pirate flag pole with guitars a la maypole and a dog and cat</abstract>
@@ -1721,7 +1721,7 @@
                             Pirate flag pole with guitars a la maypole and a dog and cat
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #139</unittitle>
                         <unitdate normal='20111001'>1 Oct 2011</unitdate><abstract>Blue cover with cats in a basket and three mice (two are computer mice)</abstract>
@@ -1729,7 +1729,7 @@
                             Blue cover with cats in a basket and three mice (two are computer mice)
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #139</unittitle>
                         <unitdate normal='20111001'>1 Oct 2011</unitdate><abstract>Blue cover with cats in a basket and three mice (two are computer mice)</abstract>
@@ -1737,7 +1737,7 @@
                             Blue cover with cats in a basket and three mice (two are computer mice)
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #140</unittitle>
                         <unitdate normal='20111201'>1 Dec 2011</unitdate><abstract>White cover with musical notes snowing out of clouds onto trees</abstract>
@@ -1745,7 +1745,7 @@
                             White cover with musical notes snowing out of clouds onto trees
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #140</unittitle>
                         <unitdate normal='20111201'>1 Dec 2011</unitdate><abstract>White cover with musical notes snowing out of clouds onto trees</abstract>
@@ -1753,7 +1753,7 @@
                             White cover with musical notes snowing out of clouds onto trees
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #141</unittitle>
                         <unitdate normal='20120201'>1 Feb 2012</unitdate><abstract>Orange cover with Santa with guitar and reindeer</abstract>
@@ -1761,7 +1761,7 @@
                             Orange cover with Santa with guitar and reindeer
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #141</unittitle>
                         <unitdate normal='20120201'>1 Feb 2012</unitdate><abstract>Orange cover with Santa with guitar and reindeer</abstract>
@@ -1769,7 +1769,7 @@
                             Orange cover with Santa with guitar and reindeer
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #142</unittitle>
                         <unitdate normal='20120401'>1 Apr 2012</unitdate><abstract>Blue cover with guitarist on cloud with dog and sun and birds</abstract>
@@ -1777,7 +1777,7 @@
                             Blue cover with guitarist on cloud with dog and sun and birds
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #143</unittitle>
                         <unitdate normal='20120601'>1 Jun 2012</unitdate><abstract>Yellow cover with guitarist, moon and balloons</abstract>
@@ -1785,7 +1785,7 @@
                             Yellow cover with guitarist, moon and balloons
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #144</unittitle>
                         <unitdate normal='20120801'>1 Aug 2012</unitdate><abstract>Goldenrod cover with musical notes and Ceasar Augustus</abstract>
@@ -1793,7 +1793,7 @@
                             Goldenrod cover with musical notes and Ceasar Augustus
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #145</unittitle>
                         <unitdate normal='20121001'>1 Oct 2012</unitdate><abstract>Pink cover with people singing to the Mars Rover</abstract>
@@ -1801,7 +1801,7 @@
                             Pink cover with people singing to the Mars Rover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #146</unittitle>
                         <unitdate normal='20121201'>1 Dec 2012</unitdate><abstract>Yellow cover with giant turkey hovering over two vegetable farmers with guitars as only defense.</abstract>
@@ -1809,7 +1809,7 @@
                             Yellow cover with giant turkey hovering over two vegetable farmers with guitars as only defense.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #146</unittitle>
                         <unitdate normal='20121201'>1 Dec 2012</unitdate><abstract>Yellow cover with giant turkey hovering over two vegetable farmers with guitars as only defense.</abstract>
@@ -1817,7 +1817,7 @@
                             Yellow cover with giant turkey hovering over two vegetable farmers with guitars as only defense.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #147</unittitle>
                         <unitdate normal='20130201'>1 Feb 2013</unitdate><abstract>Blue cover with reindeer and snowman and guitarist in snow</abstract>
@@ -1825,7 +1825,7 @@
                             Blue cover with reindeer and snowman and guitarist in snow
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #147</unittitle>
                         <unitdate normal='20130201'>1 Feb 2013</unitdate><abstract>Blue cover with reindeer and snowman and guitarist in snow</abstract>
@@ -1833,7 +1833,7 @@
                             Blue cover with reindeer and snowman and guitarist in snow
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #148</unittitle>
                         <unitdate normal='20130401'>1 Apr 2013</unitdate><abstract>Pink cover with dog, cat, musical instruments butterfly and bird.</abstract>
@@ -1841,7 +1841,7 @@
                             Pink cover with dog, cat, musical instruments butterfly and bird.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #149</unittitle>
                         <unitdate normal='20130501'>1 May 2013</unitdate><abstract>Green cover with tiny people dancing with music, with birds and dog</abstract>
@@ -1849,7 +1849,7 @@
                             Green cover with tiny people dancing with music, with birds and dog
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #150</unittitle>
                         <unitdate normal='20130801'>1 Aug 2013</unitdate><abstract>Orange cover with Guitarist and cat at window and carolers.</abstract>
@@ -1857,7 +1857,7 @@
                             Orange cover with Guitarist and cat at window and carolers.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #151</unittitle>
                         <unitdate normal='20131001'>1 Oct 2013</unitdate><abstract>Blue cover with figures singing, including ghosts and skeleton</abstract>
@@ -1865,7 +1865,7 @@
                             Blue cover with figures singing, including ghosts and skeleton
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #152</unittitle>
                         <unitdate normal='20131201'>1 Dec 2013</unitdate><abstract>Pink cover with people fighting over guitar</abstract>
@@ -1873,7 +1873,7 @@
                             Pink cover with people fighting over guitar
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #153</unittitle>
                         <unitdate normal='20140201'>1 Feb 2014</unitdate><abstract>White cover with vase and faces illusion and musical notes.</abstract>
@@ -1881,7 +1881,7 @@
                             White cover with vase and faces illusion and musical notes.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #154</unittitle>
                         <unitdate normal='20140401'>1 Apr 2014</unitdate><abstract>Pink cover with mime and geometric shapes.</abstract>
@@ -1889,7 +1889,7 @@
                             Pink cover with mime and geometric shapes.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #155</unittitle>
                         <unitdate normal='20140601'>1 Jun 2014</unitdate><abstract>Goldenrod cover, musical sun</abstract>
@@ -1897,7 +1897,7 @@
                             Goldenrod cover, musical sun
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #156</unittitle>
                         <unitdate normal='20140801'>1 Aug 2014</unitdate><abstract>Yellow cover with collie and cat, with musical psychadelic roads</abstract>
@@ -1905,7 +1905,7 @@
                             Yellow cover with collie and cat, with musical psychadelic roads
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #157</unittitle>
                         <unitdate normal='20141001'>1 Oct 2014</unitdate><abstract>Blue cover with scale weighing earth and music</abstract>
@@ -1913,7 +1913,7 @@
                             Blue cover with scale weighing earth and music
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #158</unittitle>
                         <unitdate normal='20141201'>1 Dec 2014</unitdate><abstract>Goldenrod cover</abstract>
@@ -1921,7 +1921,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #159</unittitle>
                         <unitdate normal='20150201'>1 Feb 2015</unitdate><abstract>Yellow cover</abstract>
@@ -1929,7 +1929,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #161</unittitle>
                         <unitdate normal='20150601'>1 Jun 2015</unitdate><abstract>Blue cover</abstract>
@@ -1937,7 +1937,7 @@
                             Blue cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">8</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #162</unittitle>
                         <unitdate normal='20150801'>1 Aug 2015</unitdate><abstract>Salmon cover</abstract>
@@ -1945,7 +1945,7 @@
                             Salmon cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #163</unittitle>
                         <unitdate normal='20151001'>1 Oct 2015</unitdate><abstract>Goldenrod cover</abstract>
@@ -1953,7 +1953,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #164</unittitle>
                         <unitdate normal='20151201'>1 Dec 2015</unitdate><abstract>Green cover</abstract>
@@ -1961,7 +1961,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">8</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #165</unittitle>
                         <unitdate normal='20160201'>1 Feb 2016</unitdate><abstract>Goldenrod cover</abstract>
@@ -1969,7 +1969,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">9</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #167</unittitle>
                         <unitdate normal='20160601'>1 Jun 2016</unitdate><abstract>Yellow cover</abstract>
@@ -1977,7 +1977,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #168</unittitle>
                         <unitdate normal='20160801'>1 Aug 2016</unitdate><abstract>Green cover</abstract>
@@ -1985,7 +1985,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #169</unittitle>
                         <unitdate normal='20161001'>1 Oct 2016</unitdate><abstract>Goldenrod cover</abstract>
@@ -1993,7 +1993,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #170</unittitle>
                         <unitdate normal='20161201'>1 Dec 2016</unitdate><abstract>Green cover</abstract>
@@ -2001,7 +2001,7 @@
                             Green cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #171</unittitle>
                         <unitdate normal='20170201'>1 Feb 2017</unitdate><abstract>White cover</abstract>
@@ -2009,7 +2009,7 @@
                             White cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #172</unittitle>
                         <unitdate normal='20170401'>1 Apr 2017</unitdate><abstract>Pink cover</abstract>
@@ -2017,7 +2017,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #173</unittitle>
                         <unitdate normal='20170601'>1 Jun 2017</unitdate><abstract>Light blue cover</abstract>
@@ -2025,7 +2025,7 @@
                             Light blue cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #174</unittitle>
                         <unitdate normal='20170801'>1 Aug 2017</unitdate><abstract>Yellow cover</abstract>
@@ -2033,7 +2033,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">11</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #175</unittitle>
                         <unitdate normal='20171001'>1 Oct 2017</unitdate><abstract>Goldenrod cover</abstract>
@@ -2041,7 +2041,7 @@
                             Goldenrod cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #176</unittitle>
                         <unitdate normal='20171201'>1 Dec 2017</unitdate><abstract>Yellow cover</abstract>
@@ -2049,7 +2049,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #177</unittitle>
                         <unitdate normal='20180201'>1 Feb 2018</unitdate><abstract>Blue cover</abstract>
@@ -2057,7 +2057,7 @@
                             Blue cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">9</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #178</unittitle>
                         <unitdate normal='20180401'>1 Apr 2018</unitdate><abstract>Pink cover</abstract>
@@ -2065,7 +2065,7 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #179</unittitle>
                         <unitdate normal='20180601'>1 Jun 2018</unitdate><abstract>Yellow cover</abstract>
@@ -2073,7 +2073,7 @@
                             Yellow cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #180 (30th anniversary issue)</unittitle>
                         <unitdate normal='20180907'>7 Sep 2018</unitdate><abstract>Was sealed. Probably arrived after Harold was too sick to open it.</abstract>
@@ -2081,7 +2081,7 @@
                             Was sealed. Probably arrived after Harold was too sick to open it.
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     <c level='item'> <did> <unittitle>Xenofilkia #181</unittitle>
                         <unitdate normal='20181001'>1 Oct 2018</unitdate><abstract>Pink cover</abstract>
@@ -2089,14 +2089,11 @@
                             Pink cover
                             <extent>1 copy</extent></physdesc>
                        <container type="box">11</container>
-                        <dao linktype='simple' title='in-print (same version/edition)' href='https://www.conchord.org/xeno/#indexes' actuate='onload' show='embed' rel='alternate' type='application/json+oembed'/> </did>
+</did>
                     </c>
                     
                     
-                    
-                    
-                    
-                    
+
                     
                     
                 </c02>
