@@ -122,6 +122,7 @@
                                      actuate="onrequest" show="new"/>
                                 <origination label="creator"><persname>Wallentinson, Denise</persname></origination>
                             </did>
+                            <controlaccess><genreform source="local">Songbook</genreform><persname>Wallentinson, Denise</persname></controlaccess>
                         </c04>
                     </c03>
                     <c03>
@@ -138,7 +139,8 @@
                                     <genreform source="local">Songbook</genreform>
                                 </physdesc>
 
-                            </did>
+                            </did>                            <controlaccess><genreform source="local">Songbook</genreform></controlaccess>
+
                         </c04>
                     </c03>
                 </c02>
@@ -173,8 +175,103 @@
                 <c02 level="subseries" id="Philk Fee-Nom-Ee-Non (PFNEN)">
                     <did><unittitle>Philk Fee-Nom-Ee-Non (PFNEN)</unittitle></did>
                 </c02>
-                <c02 level="subseries" id="Philly Philk Phlash">
+                <c02 level="subseries" id="PhillyPhilkPhlash">
                     <did><unittitle>Philly Philk Phlash</unittitle></did>
+
+
+
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #1</unittitle>
+                        <unitdate normal='19870701'>July 1987</unitdate><abstract>White cover spaceman with Concertina and drum</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            White cover spaceman with Concertina and drum
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #2, October, 1987</unittitle>
+                        <unitdate normal='19871001'>October 1987</unitdate><abstract>Purplish cover with alien reading or singing from Christmas in Arkham</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Purplish cover with alien reading or singing from Christmas in Arkham
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #3, January 1988</unittitle>
+                        <unitdate normal='19880101'>January 1988</unitdate><abstract>Yellow cover, lizard man and space man (Spaceman has ""Band from Argo"" on his drum.)</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Yellow cover, lizard man and space man (Spaceman has ""Band from Argo"" on his drum.)
+                            <extent>2 copies</extent></physdesc>
+                        <container type='box'>11</container>                        <container type='box'>16</container>
+
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+
+
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #4,</unittitle>
+                        <unitdate normal='1988'>Spring/Summer 1988</unitdate><abstract>Yellow cover, three birds and pteradon in a tree </abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Yellow cover, three birds and pteradon in a tree
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #5, October 1988</unittitle>
+                        <unitdate normal='19881001'>October 1988</unitdate><abstract>Blue cover, dancing pumpkin head skeletons</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Blue cover, dancing pumpkin head skeletons
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #6</unittitle>
+                        <unitdate normal='1989'>Winter/Spring 1989</unitdate><abstract>Pink cover with BEM cupid against a heart backdrop. Staple bound.</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Pink cover with BEM cupid against a heart backdrop. Staple bound.
+                            <extent>2 copies</extent></physdesc>
+                        <container type='box'>11</container>                        <container type='box'>16</container>
+
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #7</unittitle>
+                        <unitdate normal='1989'>Spring 1989</unitdate><abstract>Light blue cover, summer scene, with centaur and mermaids</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Light blue cover, summer scene, with centaur and mermaids
+                            <extent>2 copies</extent></physdesc>
+                        <container type='box'>16</container>                        <container type='box'>11</container>
+
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+
+
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #8</unittitle>
+                        <unitdate normal='1989'>,Summer 1989</unitdate><abstract>Goldenrod cover with cat holding smaller cat</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Goldenrod cover with cat holding smaller cat
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #8, Summer 1989</unittitle>
+                        <unitdate normal='1989'>Summer 1989</unitdate><abstract>Goldenrod cover with cat holding smaller cat</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Goldenrod cover with cat holding smaller cat
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>16</container>
+                    </did><genreform source='local'>Zine</genreform>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+
+
+                    <c level='item'> <did> <unittitle>Philly Philk Phlash, Issue #9</unittitle>
+                        <unitdate normal='1991'>Summer 1991</unitdate><abstract>Greenish cover with flasher in a pan</abstract>
+                        <physdesc> <genreform source='local'>Zine</genreform>
+                            Greenish cover with flasher in a pan
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                         </did>
+                        <controlaccess><genreform source='local'>Zine</genreform></controlaccess>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
+
                 </c02>
                 <c02 level="subseries" id="Rec Room Rhymes">
                     <did><unittitle>Rec Room Rhymes</unittitle></did>
@@ -195,14 +292,14 @@
                             A filk APA produced by Lee Gold
                             <extent>1 copy</extent></physdesc>
                         <container type="box">2</container></did>
-</c>
+<controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia, #60, August</unittitle>
                         <unitdate normal=''></unitdate><abstract>Yellow covered issue with a dragon listening to a phonograph record.</abstract>
                         <physdesc> <genreform source='local'>APA</genreform>
                             Yellow covered issue with a dragon listening to a phonograph record.
                             <extent>1 copy</extent></physdesc>
                         <container type="box">2</container></did>
-</c>
+<controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #1</unittitle>
                         <unitdate normal='19881001'>1 Oct 1988</unitdate><abstract>Blue cover with dragon with hexagon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -210,7 +307,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #2</unittitle>
                         <unitdate normal='19881201'>1 Dec 1988</unitdate><abstract>Yellow cover with keyboard with cats meowing and people milling around</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -218,7 +315,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #3</unittitle>
                         <unitdate normal='19890201'>1 Feb 1989</unitdate><abstract>Pink cover with person with scimitar on a flying horse</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -226,7 +323,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #4</unittitle>
                         <unitdate normal='19890401'>1 Apr 1989</unitdate><abstract>Blue cover with aliens and mushrooms, inside it says March, 1989</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -234,7 +331,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #5</unittitle>
                         <unitdate normal='19890601'>1 Jun 1989</unitdate><abstract>Pink cover with lizard person riding a feathered biped. Date inside says May, 1989</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -242,7 +339,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #6</unittitle>
                         <unitdate normal='19890801'>1 Aug 1989</unitdate><abstract>Blue cover with Elfquest style elf</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -250,7 +347,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #7</unittitle>
                         <unitdate normal='19891001'>1 Oct 1989</unitdate><abstract>Pink cover with mysterious hooded figure and plant</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -258,7 +355,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #8</unittitle>
                         <unitdate normal='19891201'>1 Dec 1989</unitdate><abstract>Light pink cover with carousel hippogryph</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -266,7 +363,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #9</unittitle>
                         <unitdate normal='19900201'>1 Feb 1990</unitdate><abstract>Yellow cover with flying machine with a frog and winged person and operator, possible pyramid in back.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -274,7 +371,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #10</unittitle>
                         <unitdate normal='19900401'>1 Apr 1990</unitdate><abstract>White cover with dark elf with sunshades with staff</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -282,7 +379,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #11</unittitle>
                         <unitdate normal='19900601'>1 Jun 1990</unitdate><abstract>Blue cover with tavern with wizards and frogs and bipedal mammals</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -290,7 +387,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #12</unittitle>
                         <unitdate normal='19900801'>1 Aug 1990</unitdate><abstract>Green cover with a dancer in flowing clothes with a two horned creature</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -298,7 +395,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #13</unittitle>
                         <unitdate normal='19901001'>1 Oct 1990</unitdate><abstract>Green cover with six-armed dancer</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -306,7 +403,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #14</unittitle>
                         <unitdate normal='19901201'>1 Dec 1990</unitdate><abstract>Blue cover with hooded person with alien/fantasy backdrop</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -314,7 +411,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #15</unittitle>
                         <unitdate normal='19910201'>1 Feb 1991</unitdate><abstract>Yellow cover with adventuring party with giant cats/gryphons?</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -322,7 +419,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #16</unittitle>
                         <unitdate normal='19910401'>1 Apr 1991</unitdate><abstract>Blue cover with warrior with eagle and long peacock ribbon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -330,7 +427,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #17</unittitle>
                         <unitdate normal='19910601'>1 Jun 1991</unitdate><abstract>Pink cover with anthropomorphic jackel</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -338,7 +435,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #18</unittitle>
                         <unitdate normal='19910801'>1 Aug 1991</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -346,7 +443,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #18</unittitle>
                         <unitdate normal='19910801'>1 Aug 1991</unitdate><abstract>Orange cover with Bugs Bunny in knight outfit riding a horse "Toon Knight"</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -354,7 +451,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #19</unittitle>
                         <unitdate normal='19911001'>1 Oct 1991</unitdate><abstract>Yellow cover with warrior with long braid and staff. Warrior has bird-like arms and hooves.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -362,7 +459,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #20</unittitle>
                         <unitdate normal='19911201'>1 Dec 1991</unitdate><abstract>Yellow cover with thin person in crop top and suspenders with phoenix in the background.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -370,7 +467,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #21</unittitle>
                         <unitdate normal='19920201'>1 Feb 1992</unitdate><abstract>Green cover with snake charmer who is a snake charming a human out of a basket</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -378,7 +475,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #22</unittitle>
                         <unitdate normal='19920401'>1 Apr 1992</unitdate><abstract>Orange cover with a insectoid rock star with guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -386,7 +483,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #23</unittitle>
                         <unitdate normal='19920601'>1 Jun 1992</unitdate><abstract>Blue cover with sea monster</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -394,7 +491,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #24</unittitle>
                         <unitdate normal='19920801'>1 Aug 1992</unitdate><abstract>White cover with person riding a floating horse?</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -402,7 +499,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #25</unittitle>
                         <unitdate normal='19921001'>1 Oct 1992</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -410,7 +507,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #25</unittitle>
                         <unitdate normal='19921001'>1 Oct 1992</unitdate><abstract>Yellow cover with teddy bear organist playing in a church</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -418,7 +515,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #26</unittitle>
                         <unitdate normal='19921201'>1 Dec 1992</unitdate><abstract>White cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -426,7 +523,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #26</unittitle>
                         <unitdate normal='19921201'>1 Dec 1992</unitdate><abstract>White cover with an Old Time Religion joke</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -434,7 +531,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #27</unittitle>
                         <unitdate normal='19930201'>1 Feb 1993</unitdate><abstract>Blue green cover mermaid</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -443,7 +540,7 @@
                        <container type="box">10</container>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #28</unittitle>
                         <unitdate normal='19930401'>1 Apr 1993</unitdate><abstract>Pink cover with person with firelizard</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -451,7 +548,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #29</unittitle>
                         <unitdate normal='19930601'>1 Jun 1993</unitdate><abstract>Orange cover with furry cat person </abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -459,7 +556,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #30</unittitle>
                         <unitdate normal='19930801'>1 Aug 1993</unitdate><abstract>Blue cover with mystical person with geometric tights</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -467,7 +564,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #31</unittitle>
                         <unitdate normal='19931001'>1 Oct 1993</unitdate><abstract>Blue cover with lion-tailed humanoid person</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -475,7 +572,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #32</unittitle>
                         <unitdate normal='19931201'>1 Dec 1993</unitdate><abstract>White cover with Llamas night joke (referencing the Mercedes Lackey song Lammas Night)</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -483,7 +580,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #33</unittitle>
                         <unitdate normal='19940201'>1 Feb 1994</unitdate><abstract>Pink cover with "Toyminator"</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -491,7 +588,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #34</unittitle>
                         <unitdate normal='19940401'>1 Apr 1994</unitdate><abstract>Blue cover with lizard playing guitar and wearing a beanie "Filkasaurus"</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -499,7 +596,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #35</unittitle>
                         <unitdate normal='19940601'>1 Jun 1994</unitdate><abstract>Yellow cover with web-footed onesie next to frog person who is staring.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -507,7 +604,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #36</unittitle>
                         <unitdate normal='19940801'>1 Aug 1994</unitdate><abstract>Pink cover with alien with beer and guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -515,7 +612,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #37</unittitle>
                         <unitdate normal='19941001'>1 Oct 1994</unitdate><abstract>Blue cover with person with Princess Leia hair stepping through a circular portal.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -523,7 +620,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #38</unittitle>
                         <unitdate normal='19941201'>1 Dec 1994</unitdate><abstract>Yellow cover with a centaur with a stein and a dog with a bone</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -531,7 +628,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #39</unittitle>
                         <unitdate normal='19950201'>1 Feb 1995</unitdate><abstract>Green cover with dragon with black wings</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -539,7 +636,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #40</unittitle>
                         <unitdate normal='19950401'>1 Apr 1995</unitdate><abstract>Pink cover with alien beauty contestant</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -547,7 +644,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #41</unittitle>
                         <unitdate normal='19950601'>1 Jun 1995</unitdate><abstract>Blue cover with person playing with three kitties while wearing thigh high boots and low cut top.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -555,7 +652,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #42</unittitle>
                         <unitdate normal='19950801'>1 Aug 1995</unitdate><abstract>Yellow cover with lionfish mermaid (early <persname  normal="McGuire, Seanan">Seanan McGuire</persname> art)</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -564,7 +661,7 @@
                         <container type="box">10</container>
                         <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #59</unittitle>
                         <unitdate normal='19980601'>1 Jun 1998</unitdate><abstract>Bluish green cover with scorpion-esque creature</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -572,7 +669,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #60</unittitle>
                         <unitdate normal='19980801'>1 Aug 1998</unitdate><abstract>Orange cover with "His Master's Voice" with a dragon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -580,7 +677,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #61</unittitle>
                         <unitdate normal='19981001'>1 Oct 1998</unitdate><abstract>Pink cover with dancing centaur on an island</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -588,7 +685,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #62</unittitle>
                         <unitdate normal='19981201'>1 Dec 1998</unitdate><abstract>Yellow cover with dragon and human with dragon horde of various collectibles</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -596,7 +693,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #64</unittitle>
                         <unitdate normal='19990401'>1 Apr 1999</unitdate><abstract>Pink cover with gairy and hummingbird at a liquid bird feeder</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -605,7 +702,7 @@
                        <container type="box">14</container>                       <container type="box">15</container>
 
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #65</unittitle>
                         <unitdate normal='19990601'>1 Jun 1999</unitdate><abstract>Goldenrod cover waltzing foxes in human clothes</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -614,7 +711,7 @@
                        <container type="box">14</container>                       <container type="box">15</container>
 
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
 
                     <c level='item'> <did> <unittitle>Xenofilkia #66</unittitle>
                         <unitdate normal='19990801'>1 Aug 1999</unitdate><abstract>Green cover with fish evolving into land dwellers</abstract>
@@ -624,7 +721,7 @@
                        <container type="box">14</container>                       <container type="box">15</container>
 
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
 
                     <c level='item'> <did> <unittitle>Xenofilkia #67</unittitle>
                         <unitdate normal='19991001'>1 Oct 1999</unitdate><abstract>Yellow cover with person floating cloud castle over kid making standard sandcastle</abstract>
@@ -634,7 +731,7 @@
                        <container type="box">14</container>                       <container type="box">10</container>
 
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #68</unittitle>
                         <unitdate normal='19991201'>1 Dec 1999</unitdate><abstract>Blue cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -642,7 +739,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #68</unittitle>
                         <unitdate normal='19991201'>1 Dec 1999</unitdate><abstract>Blue cover with Alien guitarist at open mike</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -650,7 +747,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #69</unittitle>
                         <unitdate normal='20000201'>1 Feb 2000</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -658,7 +755,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #69</unittitle>
                         <unitdate normal='20000201'>1 Feb 2000</unitdate><abstract>Pink cover with "there goes the neighbourhood" cartoon of faries leaving because of construction of a Walmart</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -666,7 +763,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #70</unittitle>
                         <unitdate normal='20000401'>1 Apr 2000</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -674,7 +771,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #70</unittitle>
                         <unitdate normal='20000401'>1 Apr 2000</unitdate><abstract>Green cover with a demon, or maybe a faun.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -682,7 +779,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #71</unittitle>
                         <unitdate normal='20000601'>1 Jun 2000</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -690,7 +787,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #71</unittitle>
                         <unitdate normal='20000601'>1 Jun 2000</unitdate><abstract>Pink cover with Xena joke</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -698,7 +795,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #72</unittitle>
                         <unitdate normal='20000801'>1 Aug 2000</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -706,7 +803,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #72</unittitle>
                         <unitdate normal='20000801'>1 Aug 2000</unitdate><abstract>Yellow cover with person in blousy pants</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -714,7 +811,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #73</unittitle>
                         <unitdate normal='20001001'>1 Oct 2000</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -722,7 +819,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #73</unittitle>
                         <unitdate normal='20001001'>1 Oct 2000</unitdate><abstract>Green cover with person riding a sea horse and fighting a hammerhead shark with a trident</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -730,7 +827,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #74</unittitle>
                         <unitdate normal='20001201'>1 Dec 2000</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -738,7 +835,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #74</unittitle>
                         <unitdate normal='20001201'>1 Dec 2000</unitdate><abstract>Goldenrod cover with unicorn head</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -746,7 +843,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #75</unittitle>
                         <unitdate normal='20010201'>1 Feb 2001</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -754,7 +851,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #75</unittitle>
                         <unitdate normal='20010201'>1 Feb 2001</unitdate><abstract>Green cover with future cityscape and flying car</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -762,7 +859,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #76</unittitle>
                         <unitdate normal='20010401'>1 Apr 2001</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -770,7 +867,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #76</unittitle>
                         <unitdate normal='20010401'>1 Apr 2001</unitdate><abstract>Yellow cover with cartoon of chthuloid activity</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -778,7 +875,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #77</unittitle>
                         <unitdate normal='20010601'>1 Jun 2001</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -786,7 +883,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #77</unittitle>
                         <unitdate normal='20010601'>1 Jun 2001</unitdate><abstract>Goldenrod cover with dragon cartoon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -794,7 +891,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #87</unittitle>
                         <unitdate normal='20010801'>1 Aug 2001</unitdate><abstract>Light green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -802,7 +899,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #78</unittitle>
                         <unitdate normal='20010801'>1 Aug 2001</unitdate><abstract>Green cover with a cat physicist lecturing on String Theory</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -810,7 +907,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #79</unittitle>
                         <unitdate normal='20011001'>1 Oct 2001</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -818,7 +915,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #79</unittitle>
                         <unitdate normal='20011001'>1 Oct 2001</unitdate><abstract>Yellow cover with pumpkinhead judge judging jack-o-lanterns</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -826,7 +923,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #80</unittitle>
                         <unitdate normal='20011201'>1 Dec 2001</unitdate><abstract>White cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -834,7 +931,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #80</unittitle>
                         <unitdate normal='20011201'>1 Dec 2001</unitdate><abstract>White cover with American Eagle and broken hearted singers. On the interior the date is given as November, not December</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -842,7 +939,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #81</unittitle>
                         <unitdate normal='20020201'>1 Feb 2002</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -850,7 +947,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #82</unittitle>
                         <unitdate normal='20020301'>1 Mar 2002</unitdate><abstract>Green cover with alien and insectoid alien, the interior says March, 2002</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -858,7 +955,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #82</unittitle>
                         <unitdate normal='20020401'>1 Apr 2002</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -866,7 +963,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #83</unittitle>
                         <unitdate normal='20020601'>1 Jun 2002</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -874,7 +971,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #83</unittitle>
                         <unitdate normal='20020601'>1 Jun 2002</unitdate><abstract>Orange cover with band from Argo playing for frog people</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -882,7 +979,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #84</unittitle>
                         <unitdate normal='20020801'>1 Aug 2002</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -890,7 +987,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #84</unittitle>
                         <unitdate normal='20020801'>1 Aug 2002</unitdate><abstract>Yellow cover with musical top hat ejecting a tortoise and hare</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -898,7 +995,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #85</unittitle>
                         <unitdate normal='20021001'>1 Oct 2002</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -906,7 +1003,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #85</unittitle>
                         <unitdate normal='20021001'>1 Oct 2002</unitdate><abstract>Green cover with dragon, guitarist and a wizard</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -914,7 +1011,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #86</unittitle>
                         <unitdate normal='20021201'>1 Dec 2002</unitdate><abstract>Orange cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -922,7 +1019,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #87</unittitle>
                         <unitdate normal='20030201'>1 Feb 2003</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -930,7 +1027,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #87</unittitle>
                         <unitdate normal='20030201'>1 Feb 2003</unitdate><abstract>Yellow cover with bird legged, tentacled, humanoid with tennis racquet?</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -938,7 +1035,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #88</unittitle>
                         <unitdate normal='20030401'>1 Apr 2003</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -946,7 +1043,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #88</unittitle>
                         <unitdate normal='20030401'>1 Apr 2003</unitdate><abstract>Yellow cover with cat and dog on piano, playing and singing</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -954,7 +1051,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #89</unittitle>
                         <unitdate normal='20030601'>1 Jun 2003</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -962,7 +1059,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #89</unittitle>
                         <unitdate normal='20030601'>1 Jun 2003</unitdate><abstract>Green cover with abstract of a person singing and playing guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -970,7 +1067,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #90</unittitle>
                         <unitdate normal='20030801'>1 Aug 2003</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -978,7 +1075,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #90</unittitle>
                         <unitdate normal='20030801'>1 Aug 2003</unitdate><abstract>Pink cover with adventurers and a dog and cat around a table</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -986,7 +1083,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #91</unittitle>
                         <unitdate normal='20031001'>1 Oct 2003</unitdate><abstract>Yellow cover with cat person drinking from a bottle, leaning against a wall</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -994,7 +1091,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #91</unittitle>
                         <unitdate normal='20031001'>1 Oct 2003</unitdate><abstract>Yellow cover with cat person drinking from a bottle, leaning against a wall</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1002,7 +1099,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #92</unittitle>
                         <unitdate normal='20031201'>1 Dec 2003</unitdate><abstract>Green cover with maestro conducting daffodils</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1010,7 +1107,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #92</unittitle>
                         <unitdate normal='20031201'>1 Dec 2003</unitdate><abstract>Green cover with maestro conducting daffodils</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1018,7 +1115,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #94</unittitle>
                         <unitdate normal='20040401'>1 Apr 2004</unitdate><abstract>Green cover with wizard in robes</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1026,7 +1123,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #94</unittitle>
                         <unitdate normal='20040401'>1 Apr 2004</unitdate><abstract>Green cover with wizard in robes</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1034,7 +1131,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #95</unittitle>
                         <unitdate normal='20040601'>1 Jun 2004</unitdate><abstract>Yellow cover with ghosts and adventurers in battle</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1042,7 +1139,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #95</unittitle>
                         <unitdate normal='20040601'>1 Jun 2004</unitdate><abstract>Yellow cover with ghosts and adventurers in battle</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1050,7 +1147,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #96</unittitle>
                         <unitdate normal='20040801'>1 Aug 2004</unitdate><abstract>Blue cover with pegasus and guitarist</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1058,7 +1155,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #96</unittitle>
                         <unitdate normal='20040801'>1 Aug 2004</unitdate><abstract>Blue cover with pegasus and guitarist</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1066,7 +1163,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #97</unittitle>
                         <unitdate normal='20041001'>1 Oct 2004</unitdate><abstract>Orange cover with paper crane and guy with gong</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1074,7 +1171,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #97</unittitle>
                         <unitdate normal='20041001'>1 Oct 2004</unitdate><abstract>Orange cover with paper crane and guy with gong</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1082,7 +1179,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #98</unittitle>
                         <unitdate normal='20041201'>1 Dec 2004</unitdate><abstract>Yellow cover with cartoon of blood mobile person</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1090,7 +1187,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #98</unittitle>
                         <unitdate normal='20041201'>1 Dec 2004</unitdate><abstract>Yellow cover with cartoon of blood mobile person</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1098,7 +1195,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #104</unittitle>
                         <unitdate normal='20041201'>1 Dec 2004</unitdate><abstract>White cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1106,7 +1203,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #105</unittitle>
                         <unitdate normal='20050201'>1 Feb 2005</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1114,7 +1211,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #99</unittitle>
                         <unitdate normal='20050220'>20 Feb 2005</unitdate><abstract>White cover with comedy and tragedy masks in a scale</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1122,7 +1219,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #100</unittitle>
                         <unitdate normal='20050401'>1 Apr 2005</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1130,7 +1227,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #100</unittitle>
                         <unitdate normal='20050401'>1 Apr 2005</unitdate><abstract>Pink cover, adventuring party encounters a furby</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1138,7 +1235,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #101</unittitle>
                         <unitdate normal='20050601'>1 Jun 2005</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1146,7 +1243,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #101</unittitle>
                         <unitdate normal='20050601'>1 Jun 2005</unitdate><abstract>Orange cover with soldiers in formation</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1154,7 +1251,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #102</unittitle>
                         <unitdate normal='20050801'>1 Aug 2005</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1162,7 +1259,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #102</unittitle>
                         <unitdate normal='20050801'>1 Aug 2005</unitdate><abstract>Yellow cover with cat with microscope</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1170,7 +1267,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #103</unittitle>
                         <unitdate normal='20051001'>1 Oct 2005</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1178,7 +1275,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #103</unittitle>
                         <unitdate normal='20051001'>1 Oct 2005</unitdate><abstract>Orange cover with masked guitarist and skeleton standing on pumpkin with black cat</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1186,7 +1283,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #104</unittitle>
                         <unitdate normal='20051201'>1 Dec 2005</unitdate><abstract>White color with penguins singing</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1194,7 +1291,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #105</unittitle>
                         <unitdate normal='20060201'>1 Feb 2006</unitdate><abstract>Green cover with sorceror with staff</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1202,7 +1299,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #106</unittitle>
                         <unitdate normal='20060401'>1 Apr 2006</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1210,7 +1307,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #106</unittitle>
                         <unitdate normal='20060401'>1 Apr 2006</unitdate><abstract>Yellow cover with siren with harp and ship in distance</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1218,7 +1315,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #107</unittitle>
                         <unitdate normal='20060601'>1 Jun 2006</unitdate><abstract>Blue cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1226,7 +1323,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #107</unittitle>
                         <unitdate normal='20060601'>1 Jun 2006</unitdate><abstract>Light blue cover with stars, musical notes and sun</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1234,7 +1331,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #108</unittitle>
                         <unitdate normal='20060801'>1 Aug 2006</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1242,7 +1339,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">10</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #108</unittitle>
                         <unitdate normal='20060801'>1 Aug 2006</unitdate><abstract>Goldenrod cover with lion and cat in window looking at indigistinguishable planet or moon.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1250,7 +1347,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #109</unittitle>
                         <unitdate normal='20061001'>1 Oct 2006</unitdate><abstract>White cover with cats on a satelite with musical instruments</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1258,7 +1355,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #109</unittitle>
                         <unitdate normal='20061001'>1 Oct 2006</unitdate><abstract>White cover with cats on a satelite with musical instruments</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1266,7 +1363,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #110</unittitle>
                         <unitdate normal='20061201'>1 Dec 2006</unitdate><abstract>Green cover with hockey player and figure skating guitarist</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1274,7 +1371,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #110</unittitle>
                         <unitdate normal='20061201'>1 Dec 2006</unitdate><abstract>Green cover with hockey player and figure skating guitarist</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1282,7 +1379,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #111</unittitle>
                         <unitdate normal='20070201'>1 Feb 2007</unitdate><abstract>Pink cover with singing Mount Rushmore</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1290,7 +1387,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #111</unittitle>
                         <unitdate normal='20070201'>1 Feb 2007</unitdate><abstract>Pink cover with singing Mount Rushmore</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1298,7 +1395,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #112</unittitle>
                         <unitdate normal='20070401'>1 Apr 2007</unitdate><abstract>Blue cover with cat in a window looking at the earth</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1306,7 +1403,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #112</unittitle>
                         <unitdate normal='20070401'>1 Apr 2007</unitdate><abstract>Blue cover with cat in a window looking at the earth</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1314,7 +1411,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #113</unittitle>
                         <unitdate normal='20070601'>1 Jun 2007</unitdate><abstract>Yellow cover with birds and flowers</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1322,7 +1419,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #113</unittitle>
                         <unitdate normal='20070601'>1 Jun 2007</unitdate><abstract>Yellow cover with birds and flowers</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1330,7 +1427,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #114</unittitle>
                         <unitdate normal='20070801'>1 Aug 2007</unitdate><abstract>Orange cover with a chef playing a harp and a metal fork being a tuning fork</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1338,7 +1435,7 @@
                             <extent>2 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #114</unittitle>
                         <unitdate normal='20070801'>1 Aug 2007</unitdate><abstract>Orange cover with a chef playing a harp and a metal fork being a tuning fork</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1346,7 +1443,7 @@
                             <extent>2 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #115</unittitle>
                         <unitdate normal='20071001'>1 Oct 2007</unitdate><abstract>Green cover with owl</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1354,7 +1451,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #115</unittitle>
                         <unitdate normal='20071001'>1 Oct 2007</unitdate><abstract>Green cover with owl</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1362,7 +1459,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #116</unittitle>
                         <unitdate normal='20071201'>1 Dec 2007</unitdate><abstract>Pink cover, musical conucopia</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1370,7 +1467,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #116</unittitle>
                         <unitdate normal='20071201'>1 Dec 2007</unitdate><abstract>Pink cover, musical conucopia</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1378,7 +1475,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #117</unittitle>
                         <unitdate normal='20080201'>1 Feb 2008</unitdate><abstract>Blue cover with telescope</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1386,7 +1483,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #117</unittitle>
                         <unitdate normal='20080201'>1 Feb 2008</unitdate><abstract>Blue cover with telescope</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1394,7 +1491,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #118</unittitle>
                         <unitdate normal='20080401'>1 Apr 2008</unitdate><abstract>Pink cover with very small person in ball in clawed hand</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1402,7 +1499,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #118</unittitle>
                         <unitdate normal='20080401'>1 Apr 2008</unitdate><abstract>Pink cover with very small person in ball in clawed hand</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1410,7 +1507,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #119</unittitle>
                         <unitdate normal='20080601'>1 Jun 2008</unitdate><abstract>Green cover with mime with two masks holding a guitar in an archway</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1418,7 +1515,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #119</unittitle>
                         <unitdate normal='20080601'>1 Jun 2008</unitdate><abstract>Green cover with mime with two masks holding a guitar in an archway</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1426,7 +1523,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #120</unittitle>
                         <unitdate normal='20080801'>1 Aug 2008</unitdate><abstract>Orange cover with spaceman and cherub beating drum, celebrating 20 years of Xenofilkia</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1434,7 +1531,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #120</unittitle>
                         <unitdate normal='20080801'>1 Aug 2008</unitdate><abstract>Orange cover with spaceman and cherub beating drum, celebrating 20 years of Xenofilkia</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1442,7 +1539,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #121</unittitle>
                         <unitdate normal='20081001'>1 Oct 2008</unitdate><abstract>Yellow cover with fiddling cat</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1450,7 +1547,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #121</unittitle>
                         <unitdate normal='20081001'>1 Oct 2008</unitdate><abstract>Yellow cover with fiddling cat</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1458,7 +1555,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #122</unittitle>
                         <unitdate normal='20081201'>1 Dec 2008</unitdate><abstract>Blue cover with reindeer and snowman caroling</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1466,7 +1563,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #122</unittitle>
                         <unitdate normal='20081201'>1 Dec 2008</unitdate><abstract>Blue cover with reindeer and snowman caroling</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1474,7 +1571,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #123</unittitle>
                         <unitdate normal='20090201'>1 Feb 2009</unitdate><abstract>Yellow cover with harp, Tully and guitar in shopping cart</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1482,7 +1579,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #123</unittitle>
                         <unitdate normal='20090201'>1 Feb 2009</unitdate><abstract>Yellow cover with harp, Tully and guitar in shopping cart</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1490,7 +1587,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #124</unittitle>
                         <unitdate normal='20090401'>1 Apr 2009</unitdate><abstract>Blue cover with angels guarding a cat from the rain with umbrellas</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1498,7 +1595,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #124</unittitle>
                         <unitdate normal='20090401'>1 Apr 2009</unitdate><abstract>Blue cover with angels guarding a cat from the rain with umbrellas</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1506,7 +1603,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #125</unittitle>
                         <unitdate normal='20090601'>1 Jun 2009</unitdate><abstract>Yellow cover with "Bagelpipe"</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1514,7 +1611,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #125</unittitle>
                         <unitdate normal='20090601'>1 Jun 2009</unitdate><abstract>Yellow cover with "Bagelpipe"</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1522,7 +1619,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #126</unittitle>
                         <unitdate normal='20090801'>1 Aug 2009</unitdate><abstract>Blue cover with cat harpist</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1530,7 +1627,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #126</unittitle>
                         <unitdate normal='20090801'>1 Aug 2009</unitdate><abstract>Blue cover with cat harpist</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1538,7 +1635,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #127</unittitle>
                         <unitdate normal='20091001'>1 Oct 2009</unitdate><abstract>Yellow cover with rhyming dog</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1546,7 +1643,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #127</unittitle>
                         <unitdate normal='20091001'>1 Oct 2009</unitdate><abstract>Yellow cover with rhyming dog</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1554,7 +1651,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #128</unittitle>
                         <unitdate normal='20091201'>1 Dec 2009</unitdate><abstract>Green cover with hummingbird and guitarist in a duel the death</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1562,7 +1659,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #128</unittitle>
                         <unitdate normal='20091201'>1 Dec 2009</unitdate><abstract>Green cover with hummingbird and guitarist in a duel the death</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1570,7 +1667,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #129</unittitle>
                         <unitdate normal='20100201'>1 Feb 2010</unitdate><abstract>White cover with snowman playing guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1578,7 +1675,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #129</unittitle>
                         <unitdate normal='20100201'>1 Feb 2010</unitdate><abstract>White cover with snowman playing guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1586,7 +1683,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #130</unittitle>
                         <unitdate normal='20100401'>1 Apr 2010</unitdate><abstract>Green cover with tulip playing harp</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1594,7 +1691,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #131</unittitle>
                         <unitdate normal='20100601'>1 Jun 2010</unitdate><abstract>Yellow cover with personification of the sun playing guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1602,7 +1699,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #131</unittitle>
                         <unitdate normal='20100601'>1 Jun 2010</unitdate><abstract>Yellow cover with personification of the sun playing guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1610,7 +1707,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #132</unittitle>
                         <unitdate normal='20100801'>1 Aug 2010</unitdate><abstract>Green cover with children playing go fish with a fairy</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1618,7 +1715,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #132</unittitle>
                         <unitdate normal='20100801'>1 Aug 2010</unitdate><abstract>Green cover with children playing go fish with a fairy</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1626,7 +1723,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #133</unittitle>
                         <unitdate normal='20101001'>1 Oct 2010</unitdate><abstract>Orange cover with cat and skeleton doing an el kabong with a guitar around a cauldron</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1634,7 +1731,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #133</unittitle>
                         <unitdate normal='20101001'>1 Oct 2010</unitdate><abstract>Orange cover with cat and skeleton doing an el kabong with a guitar around a cauldron</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1642,7 +1739,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #134</unittitle>
                         <unitdate normal='20101201'>1 Dec 2010</unitdate><abstract>Blue cover with Antarctic Summer Solistic Caroling with penguin</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1650,7 +1747,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #134</unittitle>
                         <unitdate normal='20101201'>1 Dec 2010</unitdate><abstract>Blue cover with Antarctic Summer Solistic Caroling with penguin</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1658,7 +1755,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #135</unittitle>
                         <unitdate normal='20110201'>1 Feb 2011</unitdate><abstract>Pink cover with valentine snowman with guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1666,7 +1763,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #135</unittitle>
                         <unitdate normal='20110201'>1 Feb 2011</unitdate><abstract>Pink cover with valentine snowman with guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1674,7 +1771,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #136</unittitle>
                         <unitdate normal='20110401'>1 Apr 2011</unitdate><abstract>Green cover with guitarist and dog hiking the stairway to heaven</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1682,7 +1779,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #136</unittitle>
                         <unitdate normal='20110401'>1 Apr 2011</unitdate><abstract>Green cover with guitarist and dog hiking the stairway to heaven</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1690,7 +1787,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #137</unittitle>
                         <unitdate normal='20110601'>1 Jun 2011</unitdate><abstract>Orange cover with cute animals, balloons and moon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1698,7 +1795,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #137</unittitle>
                         <unitdate normal='20110601'>1 Jun 2011</unitdate><abstract>Orange cover with cute animals, balloons and moon</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1706,7 +1803,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #138</unittitle>
                         <unitdate normal='20110801'>1 Aug 2011</unitdate><abstract>Pirate flag pole with guitars a la maypole and a dog and cat</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1714,7 +1811,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #138</unittitle>
                         <unitdate normal='20110801'>1 Aug 2011</unitdate><abstract>Pirate flag pole with guitars a la maypole and a dog and cat</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1722,7 +1819,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #139</unittitle>
                         <unitdate normal='20111001'>1 Oct 2011</unitdate><abstract>Blue cover with cats in a basket and three mice (two are computer mice)</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1730,7 +1827,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #139</unittitle>
                         <unitdate normal='20111001'>1 Oct 2011</unitdate><abstract>Blue cover with cats in a basket and three mice (two are computer mice)</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1738,7 +1835,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #140</unittitle>
                         <unitdate normal='20111201'>1 Dec 2011</unitdate><abstract>White cover with musical notes snowing out of clouds onto trees</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1746,7 +1843,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #140</unittitle>
                         <unitdate normal='20111201'>1 Dec 2011</unitdate><abstract>White cover with musical notes snowing out of clouds onto trees</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1754,7 +1851,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #141</unittitle>
                         <unitdate normal='20120201'>1 Feb 2012</unitdate><abstract>Orange cover with Santa with guitar and reindeer</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1762,7 +1859,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #141</unittitle>
                         <unitdate normal='20120201'>1 Feb 2012</unitdate><abstract>Orange cover with Santa with guitar and reindeer</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1770,7 +1867,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #142</unittitle>
                         <unitdate normal='20120401'>1 Apr 2012</unitdate><abstract>Blue cover with guitarist on cloud with dog and sun and birds</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1778,7 +1875,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #143</unittitle>
                         <unitdate normal='20120601'>1 Jun 2012</unitdate><abstract>Yellow cover with guitarist, moon and balloons</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1786,7 +1883,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #144</unittitle>
                         <unitdate normal='20120801'>1 Aug 2012</unitdate><abstract>Goldenrod cover with musical notes and Ceasar Augustus</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1794,7 +1891,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #145</unittitle>
                         <unitdate normal='20121001'>1 Oct 2012</unitdate><abstract>Pink cover with people singing to the Mars Rover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1802,7 +1899,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #146</unittitle>
                         <unitdate normal='20121201'>1 Dec 2012</unitdate><abstract>Yellow cover with giant turkey hovering over two vegetable farmers with guitars as only defense.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1810,7 +1907,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #146</unittitle>
                         <unitdate normal='20121201'>1 Dec 2012</unitdate><abstract>Yellow cover with giant turkey hovering over two vegetable farmers with guitars as only defense.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1818,7 +1915,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #147</unittitle>
                         <unitdate normal='20130201'>1 Feb 2013</unitdate><abstract>Blue cover with reindeer and snowman and guitarist in snow</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1826,7 +1923,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">14</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #147</unittitle>
                         <unitdate normal='20130201'>1 Feb 2013</unitdate><abstract>Blue cover with reindeer and snowman and guitarist in snow</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1834,7 +1931,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #148</unittitle>
                         <unitdate normal='20130401'>1 Apr 2013</unitdate><abstract>Pink cover with dog, cat, musical instruments butterfly and bird.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1842,7 +1939,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #149</unittitle>
                         <unitdate normal='20130501'>1 May 2013</unitdate><abstract>Green cover with tiny people dancing with music, with birds and dog</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1850,7 +1947,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #150</unittitle>
                         <unitdate normal='20130801'>1 Aug 2013</unitdate><abstract>Orange cover with Guitarist and cat at window and carolers.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1858,7 +1955,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #151</unittitle>
                         <unitdate normal='20131001'>1 Oct 2013</unitdate><abstract>Blue cover with figures singing, including ghosts and skeleton</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1866,7 +1963,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #152</unittitle>
                         <unitdate normal='20131201'>1 Dec 2013</unitdate><abstract>Pink cover with people fighting over guitar</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1874,7 +1971,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #153</unittitle>
                         <unitdate normal='20140201'>1 Feb 2014</unitdate><abstract>White cover with vase and faces illusion and musical notes.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1882,7 +1979,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #154</unittitle>
                         <unitdate normal='20140401'>1 Apr 2014</unitdate><abstract>Pink cover with mime and geometric shapes.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1890,7 +1987,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #155</unittitle>
                         <unitdate normal='20140601'>1 Jun 2014</unitdate><abstract>Goldenrod cover, musical sun</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1898,7 +1995,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #156</unittitle>
                         <unitdate normal='20140801'>1 Aug 2014</unitdate><abstract>Yellow cover with collie and cat, with musical psychadelic roads</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1906,7 +2003,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">16</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #157</unittitle>
                         <unitdate normal='20141001'>1 Oct 2014</unitdate><abstract>Blue cover with scale weighing earth and music</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1914,7 +2011,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">15</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #158</unittitle>
                         <unitdate normal='20141201'>1 Dec 2014</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1922,7 +2019,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #159</unittitle>
                         <unitdate normal='20150201'>1 Feb 2015</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1930,7 +2027,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #161</unittitle>
                         <unitdate normal='20150601'>1 Jun 2015</unitdate><abstract>Blue cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1938,7 +2035,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">8</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #162</unittitle>
                         <unitdate normal='20150801'>1 Aug 2015</unitdate><abstract>Salmon cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1946,7 +2043,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #163</unittitle>
                         <unitdate normal='20151001'>1 Oct 2015</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1954,7 +2051,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #164</unittitle>
                         <unitdate normal='20151201'>1 Dec 2015</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1962,7 +2059,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">8</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #165</unittitle>
                         <unitdate normal='20160201'>1 Feb 2016</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1970,7 +2067,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">9</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #167</unittitle>
                         <unitdate normal='20160601'>1 Jun 2016</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1978,7 +2075,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #168</unittitle>
                         <unitdate normal='20160801'>1 Aug 2016</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1986,7 +2083,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #169</unittitle>
                         <unitdate normal='20161001'>1 Oct 2016</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -1994,7 +2091,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #170</unittitle>
                         <unitdate normal='20161201'>1 Dec 2016</unitdate><abstract>Green cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2002,7 +2099,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #171</unittitle>
                         <unitdate normal='20170201'>1 Feb 2017</unitdate><abstract>White cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2010,7 +2107,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #172</unittitle>
                         <unitdate normal='20170401'>1 Apr 2017</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2018,7 +2115,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #173</unittitle>
                         <unitdate normal='20170601'>1 Jun 2017</unitdate><abstract>Light blue cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2026,7 +2123,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #174</unittitle>
                         <unitdate normal='20170801'>1 Aug 2017</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2034,7 +2131,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">11</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #175</unittitle>
                         <unitdate normal='20171001'>1 Oct 2017</unitdate><abstract>Goldenrod cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2042,7 +2139,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #176</unittitle>
                         <unitdate normal='20171201'>1 Dec 2017</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2050,7 +2147,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #177</unittitle>
                         <unitdate normal='20180201'>1 Feb 2018</unitdate><abstract>Blue cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2058,7 +2155,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">9</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #178</unittitle>
                         <unitdate normal='20180401'>1 Apr 2018</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2066,7 +2163,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #179</unittitle>
                         <unitdate normal='20180601'>1 Jun 2018</unitdate><abstract>Yellow cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2074,7 +2171,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #180 (30th anniversary issue)</unittitle>
                         <unitdate normal='20180907'>7 Sep 2018</unitdate><abstract>Was sealed. Probably arrived after Harold was too sick to open it.</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2082,7 +2179,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">7</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     <c level='item'> <did> <unittitle>Xenofilkia #181</unittitle>
                         <unitdate normal='20181001'>1 Oct 2018</unitdate><abstract>Pink cover</abstract>
                         <physdesc> <genreform source='local'>Zine</genreform>
@@ -2090,7 +2187,7 @@
                             <extent>1 copy</extent></physdesc>
                        <container type="box">11</container>
 </did>
-                    </c>
+                    <controlaccess><genreform source='local'>Zine</genreform></controlaccess></c>
                     
                     
 
@@ -2099,6 +2196,308 @@
                 </c02>
                 <c02 level="subseries" id="APA-Filk">
                     <did><unittitle>APA-Filk</unittitle></did>
+
+
+
+                    <c level='item'> <did> <unittitle>APA-Filk #22: Gone A-Maying</unittitle>
+                        <unitdate normal='19840501'>May 1984</unitdate><abstract>Several stapled pages, lots of different segments from different dates</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Several stapled pages, lots of different segments from different dates
+                            <extent>2 copies</extent></physdesc>
+                        <container type='box'>14</container>                        <container type='box'>15</container>
+
+                    </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #31: Special Worldcon Issue</unittitle>
+                        <unitdate normal='19860801'>August 1986</unitdate><abstract>White cover with cartoon of Union Soldiers</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White cover with cartoon of Union Soldiers
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                        </did>
+                    <controlaccess><genreform source='local'>APA</genreform><subject>WorldCon</subject></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #34</unittitle>
+                        <unitdate normal='19870501'>May 1987</unitdate><abstract>Comic covered APA with internal blue pages</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA with internal blue pages
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #37</unittitle>
+                        <unitdate normal='19880201'>February 1988</unitdate><abstract>White covred APA with a comic of the world as a vinyl record</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covred APA with a comic of the world as a vinyl record
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #38</unittitle>
+                        <unitdate normal='19880501'>May 1988</unitdate><abstract>Comic covered APA</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #39</unittitle>
+                        <unitdate normal='19880801'>August 1988</unitdate><abstract>White colored APA with Far Side Cartoons, and a joke about Worldcon in New Orleans</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White colored APA with Far Side Cartoons, and a joke about Worldcon in New Orleans
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #40</unittitle>
+                        <unitdate normal='19881101'>November 1988</unitdate><abstract>Comic covered APA with interior pages in blue</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA with interior pages in blue
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #41</unittitle>
+                        <unitdate normal='19890201'>February 1989</unitdate><abstract>White covered APA with a cartoon of the number ten with filksongs falling out of it in a stream. There's also a reprint of the first lines of Happy birthday with a cease and desist.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered APA with a cartoon of the number ten with filksongs falling out of it in a stream. There's also a reprint of the first lines of Happy birthday with a cease and desist.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #42</unittitle>
+                        <unitdate normal='19890501'>May 1989</unitdate><abstract>Light green covered APA with a cartoon of Zaphod Beeblebrox as a two headed George Washington</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Light green covered APA with a cartoon of Zaphod Beeblebrox as a two headed George Washington
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #43 - No date listed</unittitle>
+                        <unitdate normal=''></unitdate><abstract>White covered APA with spirograph style drawings</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered APA with spirograph style drawings
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #44</unittitle>
+                        <unitdate normal='19891101'>November 1989</unitdate><abstract>White covered APA with a comic about the San Francisco earthquake</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered APA with a comic about the San Francisco earthquake
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #45</unittitle>
+                        <unitdate normal='19900201'>February 1990</unitdate><abstract>Comic covered APA</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA
+                            <extent>2 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #46</unittitle>
+                        <unitdate normal='19900501'>May 1990</unitdate><abstract>Pink covered issue with Anakreon on the front page (unusual)</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Pink covered issue with Anakreon on the front page (unusual)
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #47</unittitle>
+                        <unitdate normal='19900712'>July 1990</unitdate><abstract>Pink covered double APA - includes APA-Q # 319</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Pink covered double APA - includes APA-Q # 319
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #48</unittitle>
+                        <unitdate normal='19901101'>November 1990</unitdate><abstract>Comic covered issue with Christmas themes</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered issue with Christmas themes
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #49</unittitle>
+                        <unitdate normal='19910201'>February 1991</unitdate><abstract>White covered issue with Groucho Marx and Harpo Marx cartoon about war.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered issue with Groucho Marx and Harpo Marx cartoon about war.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #50</unittitle>
+                        <unitdate normal='19910501'>May 1991</unitdate><abstract>Comic covered APA</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #51, August 1, 1991</unittitle>
+                        <unitdate normal='19910801'>August 1991</unitdate><abstract>Comic covered APA, the numbering seems to duplicate an issue from later in the year that also claims to be #51</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA, the numbering seems to duplicate an issue from later in the year that also claims to be #51
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #51</unittitle>
+                        <unitdate normal='19911101'>November 1991</unitdate><abstract>White covered APA with Family Circus cartoon </abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered APA with Family Circus cartoon
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #53, 13th Anniversary</unittitle>
+                        <unitdate normal='19920201'>February 1992</unitdate><abstract>Comic covered APA, with blue pages in back.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA, with blue pages in back.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #54</unittitle>
+                        <unitdate normal='19920501'>May 1992</unitdate><abstract>Comic covered APA with a ballot on the back</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA with a ballot on the back
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #55</unittitle>
+                        <unitdate normal='19920801'>1 August 1992</unitdate><abstract>White covered APA with angels playing instruments.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered APA with angels playing instruments.
+                            <extent>2 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #57</unittitle>
+                        <unitdate normal='19930201'>1 February 1993</unitdate><abstract>Comic covered APA with some pink pages</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA with some pink pages
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #58</unittitle>
+                        <unitdate normal='19930501'>1 May 1993</unitdate><abstract>Comic covered APA with some pages printed on light blue or bright blue paper.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA with some pages printed on light blue or bright blue paper.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #59</unittitle>
+                        <unitdate normal='19930801'>1 August 1993</unitdate><abstract>Comic covered APA</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #60, May 1993</unittitle>
+                        <unitdate normal='19930501'>May 1993</unitdate><abstract>Comic covered APA with some pages printed on pink paper and a half width insert ad for Science Fiction Mysteries and More (a defunct bookstore that was popular in NYC fandom).</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered APA with some pages printed on pink paper and a half width insert ad for Science Fiction Mysteries and More (a defunct bookstore that was popular in NYC fandom).
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                        <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #61</unittitle>
+                        <unitdate normal='19940201'>February 1994</unitdate><abstract>Pink covered APA with a cartoon of Barney the Dinosaur holding money and singing - 15th Anniversary issue.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Pink covered APA with a cartoon of Barney the Dinosaur holding money and singing - 15th Anniversary issue.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #62</unittitle>
+                        <unitdate normal='19940501'>May 1994</unitdate><abstract>Blue covered APA with a picutre of the Beatles.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Blue covered APA with a picutre of the Beatles.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #63</unittitle>
+                        <unitdate normal='19940801'>August 1994</unitdate><abstract>Yellow covered APA with a pigeon in a suit, smoking an olive branch on a mountain.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Yellow covered APA with a pigeon in a suit, smoking an olive branch on a mountain.
+                            <extent>2 copies</extent></physdesc>
+                        <container type='box'>2</container>                        <container type='box'>11</container>
+
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #64</unittitle>
+                        <unitdate normal='19941101'>November 1994</unitdate><abstract>Yellow cover with number</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Yellow cover with number
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #65</unittitle>
+                        <unitdate normal='19950201'>February 1995</unitdate><abstract>White covered issue with Betty Boop cartoon</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered issue with Betty Boop cartoon
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
+                    <c level='item'> <did> <unittitle>APA-Filk #66</unittitle>
+                        <unitdate normal='19950501'>1 May 1995</unitdate><abstract>Comic covered issue with Anakreon label</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            Comic covered issue with Anakreon label
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #66 - In Memoriam</unittitle>
+                        <unitdate normal='19950501'>May 1995</unitdate><abstract>White covered issue with a cartoon of a mushroom cloud and a kazoo</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White covered issue with a cartoon of a mushroom cloud and a kazoo
+                            <extent>2 copies</extent></physdesc>
+                        <container type='box'>2</container>                        <container type='box'>11</container>
+
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #67: Special Scottish Worldcon Disty</unittitle>
+                        <unitdate normal=''></unitdate><abstract>White cover with Scottsman</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White cover with Scottsman
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>APA</genreform><subject>WorldCon</subject></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #68, November 1995</unittitle>
+                        <unitdate normal='19951101'>November 1995</unitdate><abstract>White issues with a smashed guitar, this appears to have been the last issue.</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White issues with a smashed guitar, this appears to have been the last issue.
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>2</container>
+                        <origination label='publisher'><persname>Boardman, John</persname></origination> </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+                    <c level='item'> <did> <unittitle>APA-Filk #68: The Day the Music Died</unittitle>
+                        <unitdate normal='19951101'>November 1995</unitdate><abstract>White cover with broken guitar</abstract>
+                        <physdesc> <genreform source='local'>APA</genreform>
+                            White cover with broken guitar
+                            <extent>2 copy</extent></physdesc>
+                        <container type='box'>11</container>
+                    </did>
+                    <controlaccess><genreform source='local'>APA</genreform></controlaccess></c>
+
                 </c02>
             </c01>
 
