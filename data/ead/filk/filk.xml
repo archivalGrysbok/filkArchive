@@ -357,6 +357,76 @@
                     <did>
                         <unittitle>Songbooks</unittitle>
                     </did>
+
+
+                    <c03 level="file" id="ChainikPressPublications">
+                        <did><unittitle>Chainik Press Publications</unittitle></did>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Rivets Redux: A science fiction musical presented by Boskone 15 and the RISFA
+                                    Players</unittitle>
+                                <unitdate normal='1978'>1978</unitdate>
+                                <abstract>
+                                    <p>Notes: Beige book, stapled</p>
+                                    <p>Origin: Chainik Press Publications, Publication #68, 1978</p>
+                                    <p>
+                                        <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print (different
+                                            version/edition) : http://data.nesfa.org/press/Books/KellerAnderson.html
+                                        </a>
+                                    </p>
+                                </abstract>
+                                <physdesc>
+                                    <extent>2 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>                                <container type='box'>16</container>
+
+                                <origination label='publisher'>
+                                    <persname>Chainik Press Publications</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <corpname>Chainik Press Publications</corpname>
+                                <genreform source='local'>Musical</genreform><genreform source='local'>Songbook</genreform>
+                                <subject>Conventions--Boskone 15</subject>
+                                <corpname>RISFA Players</corpname>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Mik Ado About Nothing (Back to Rivets, part 1), Second edition</unittitle>
+                                <unitdate normal='19800801'>1 August 1980</unitdate>
+                                <abstract>
+                                    <p>Notes: Limited edition of 250 copies. Blue cover with Cthulu in beanie with ProCon
+                                        1980
+                                        on forehead, holding a lobster
+                                    </p>
+                                    <p>Origin: Chainik Press Publications</p>
+                                    <p>
+                                        <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print (different
+                                            version/edition) : http://data.nesfa.org/press/Books/KellerAnderson.html
+                                        </a>
+                                    </p>
+                                </abstract>
+                                <physdesc>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>16</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Kellar, Mark M.</persname>
+                                <persname>Anderson, Sue</persname>
+                                <persname>Chainik Press Publications</persname>
+                                <genreform source='local'>Musical</genreform> <genreform source='local'>Songbook</genreform>
+                                <subject>Boskone 14</subject>
+                            </controlaccess>
+                        </c>
+
+                    </c03>
+
                     <c03 level="file" id="Fish">
                         <did>
                             <unittitle>Leslie Fish</unittitle>
@@ -1090,7 +1160,7 @@
 
                             <abstract>
                                 <p>Notes: Jen Midkiff is a member of the band Wild Mercy</p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -1329,7 +1399,7 @@
 
                             <abstract>
                                 <p>Notes: Commercial songbook, Contains filk "favorites" like Eskimo Nell</p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -1355,7 +1425,7 @@
 
                             <abstract>
                                 <p>Notes: Collects the songs from the albums Last Sunny Day and Into the Blue</p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -1434,35 +1504,6 @@
                     </c>
 
 
-                    <c level='item'>
-                        <did>
-                            <unittitle>Mik Ado About Nothing (Back to Rivets, part 1), Second edition</unittitle>
-                            <unitdate normal='19800801'>1 August 1980</unitdate>
-                            <abstract>
-                                <p>Notes: Limited edition of 250 copies. Blue cover with Cthulu in beanie with ProCon
-                                    1980
-                                    on forehead, holding a lobster
-                                </p>
-                                <p>Origin: Chainik Press Publications</p>
-                                <p>
-                                    <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print (different
-                                        version/edition) : http://data.nesfa.org/press/Books/KellerAnderson.html
-                                    </a>
-                                </p>
-                            </abstract>
-                            <physdesc>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>16</container>
-                        </did>
-                        <controlaccess>
-                            <persname>Kellar, Mark M.</persname>
-                            <persname>Anderson, Sue</persname>
-                            <persname>Chainik Press Publications</persname>
-                            <genreform source='local'>Musical</genreform> <genreform source='local'>Songbook</genreform>
-                            <subject>Boskone 14</subject>
-                        </controlaccess>
-                    </c>
 
 
                     <c level='item'>
@@ -2256,7 +2297,7 @@
                                     points to this
                                     being from a Mark Mandel housefilk in the Philly area), latest dated song is 2002
                                 </p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -2512,8 +2553,6 @@
                         </did>
                         <controlaccess>
                             <persname>Costikyan, Greg</persname>
-                            <persname>Various</persname>
-                            <persname>Costikyan, Greg</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -2542,76 +2581,13 @@
                         </did>
                         <controlaccess>
                             <persname>OAT Productions</persname>
-                            <persname>OAT Productions, 1977</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
 
 
-                    <c level='item'>
-                        <did>
-                            <unittitle>Rivets Redux: A science fiction musical presented by Boskone 15 and the RISFA
-                                Players
-                            </unittitle>
-                            <unitdate normal='1978'>1978</unitdate>
-                            <abstract>
-                                <p>Notes: Beige book, stapled</p>
-                                <p>Origin: Chainik Press Publications, Publication #68, 1978</p>
-                                <p>
-                                    <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print (different
-                                        version/edition) : http://data.nesfa.org/press/Books/KellerAnderson.html
-                                    </a>
-                                </p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Musical in songbook format</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='publisher'>
-                                <persname>Chainik Press Publications</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Chainik Press Publications</persname>
-                            <persname>Chainik Press Publications, Publication #68, 1978</persname>
-                            <genreform source='local'>Musical in songbook format</genreform>
-                        </controlaccess>
-                    </c>
 
 
-                    <c level='item'>
-                        <did>
-                            <unittitle>Rivets Redux: A science fiction musical presented by Boskone 15 and the RISFA
-                                Players
-                            </unittitle>
-                            <unitdate normal='1978'>1978</unitdate>
-                            <abstract>
-                                <p>Notes: Beige book, stapled</p>
-                                <p>Origin: Chainik Press Publications, Publication #68, 1978</p>
-                                <p>
-                                    <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print (different
-                                        version/edition) :
-                                        http://data.nesfa.org/press/Books/KellerAnderson.html
-                                    </a>
-                                </p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Musical in songbook format</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>16</container>
-                            <origination label='publisher'>
-                                <persname>Chainik Press Publications</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Chainik Press Publications</persname>
-                            <persname>Chainik Press Publications, Publication #68, 1978</persname>
-                            <genreform source='local'>Musical in songbook format</genreform>
-                        </controlaccess>
-                    </c>
-                    "
                     <c level='item'>
                         <did>
                             <unittitle>Folksongs for Eternity!</unittitle>
@@ -3470,7 +3446,7 @@
                             <unitdate normal='undated'>undated</unitdate>
                             <abstract>
                                 <p>Notes: Spiral bound, probably typeset in the early 2000s</p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -3490,7 +3466,7 @@
 
                             <abstract>
                                 <p>Notes: Sent to Harold by Janice Gelb Weiss, thick packet</p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -3559,7 +3535,7 @@
 
                             <abstract>
                                 <p>Notes: Blue cover with dragons, mimograph conents, looks 1970s?</p>
-                                <p>Origin:</p>
+                                
 
                             </abstract>
                             <physdesc>
@@ -3687,7 +3663,7 @@
                             <unitdate normal='2014'>2014</unitdate>
                             <abstract>
                                 <p>Notes: Red cover, staple bound</p>
-                                <p>Origin:</p>
+                                
                             </abstract>
                             <physdesc>
                                 <genreform source='local'>Songbook</genreform>
@@ -3895,7 +3871,7 @@
                             <unitdate normal='2004'>2004</unitdate>
                             <abstract>
                                 <p>Notes: Blue cover with cat and mouse</p>
-                                <p>Origin:</p>
+                                
                             </abstract>
                             <physdesc>
                                 <genreform source='local'>Songbook</genreform>
