@@ -12234,7 +12234,22 @@
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
                         </c04>
+                        <c level='item'> <did> <unittitle>GAFilk 2014, Soundboard copy Program Book</unittitle>
+                            <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Yellow booklet, Someone has written Sound Board Copy Do Not Remove on the front</p>
+                                <p>Origin: GAFilk 2014</p>
 
+                                <p>Convention: GAFilk 16: 2014</p>
+                            </abstract>
+                            <physdesc> <genreform source='local'>Program Book</genreform>
+                                <extent>1 copy</extent></physdesc>
+                            <container type='box'>Box #8</container>
+                            <origination label='publisher'><persname>GAFilk 2014</persname></origination> </did>
+                            <controlaccess><persname>GAFilk 2014</persname>
+                                <persname>GAFilk 2014</persname>
+                                <subject>Convention--GAFilk 16: 2014</subject>
+                                <genreform source='local'>Program Book</genreform>
+                            </controlaccess>
+                        </c>
 
                     </c03>
 
@@ -12280,7 +12295,23 @@
                                 <genreform source='local'>Program booklet</genreform>
                             </controlaccess>
                         </c04>
+                        "
+                        "<c level='item'> <did> <unittitle>GAFilk 2015,  Program Book</unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Yellow booklet</p>
+                            <p>Origin: GAFilk 2015, January 9-11</p>
 
+                            <p>Convention: GAFilk 17: 2015</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Program Book</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #8</container>
+                        <origination label='publisher'><persname>GAFilk 2015, January 9-11</persname></origination> </did>
+                        <controlaccess><persname>GAFilk 2015, January 9-11</persname>
+                            <persname>GAFilk 2015, January 9-11</persname>
+                            <subject>Convention--GAFilk 17: 2015</subject>
+                            <genreform source='local'>Program Book</genreform>
+                        </controlaccess>
+                    </c>"""""
                         <c04 level='item'>
                             <did>
                                 <unittitle>GAFilk 17, Program book</unittitle>
@@ -12288,8 +12319,6 @@
                                 <abstract>
                                     <p>Notes:</p>
                                     <p>Origin: GAFilk 2015, January 9-11</p>
-
-                                    <p>Convention: GAFilk 19: 2017</p>
                                 </abstract>
                                 <physdesc>
                                     <genreform source='local'>Program booklet</genreform>
@@ -12304,16 +12333,15 @@
                                 </origination>
                             </did>
                             <controlaccess>
-                                <persname>GAFilk 2017</persname>
-                                <persname>GAFilk 2015, January 9-11</persname>
-                                <persname>NA</persname>
-                                <persname>GAFilk 2015, January 9-11</persname>
-                                <subject>Convention--GAFilk 19: 2017</subject>
+                                <subject>Convention--GAFilk 17: 2015</subject>
                                 <genreform source='local'>Program booklet</genreform>
                             </controlaccess>
                         </c04>
 
                     </c03>
+
+
+
 
                     <c03 level='file' id="GAFilk18">
                         <did>
@@ -12389,6 +12417,7 @@
                             </controlaccess>
                         </c04>
 
+
                     </c03>
 
                     <c03 level='file' id="GAFilk19">
@@ -12452,6 +12481,28 @@
                             <subject>Convention--GaFilk 19: 2017</subject>
                             <genreform source='local'>Pocket Program</genreform>
                         </controlaccess>
+
+
+
+                        <c level='item'> <did> <unittitle>Leslie Hudson Set List</unittitle>
+                        <unitdate normal='2017'>2017</unitdate><abstract><p>Notes: Four handwritten pages.
+                            Set list: Double Trouble, Sister & Sinners, Call the Doctor, Leslie might be Leslie Hudson, For a While, Oars in the Water, Troublemaker, Black Belt, Feel It All, Vasilisa Trilogy, Any Wya the Wind Blows</p>
+                            <p>Origin: GAFilk 2017</p>
+
+                            <p>Convention: GAFilk 19: 2017</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Set list </genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #7</container>
+                        <origination label='publisher'><persname>GAFilk 2017</persname></origination> </did>
+                        <controlaccess><persname>GAFilk 2017</persname>
+                            <persname>Various</persname>
+                            <persname>GAFilk 2017</persname>
+                            <subject>Convention--GAFilk 19: 2017</subject>
+                            <genreform source='local'>Set list</genreform>
+                        </controlaccess>
+                    </c>
+
                     </c>
 
 
