@@ -360,37 +360,6 @@
                             <unittitle>Leslie Fish</unittitle>
                         </did>
 
-
-                        <c04 level='item'>
-                            <did>
-                                <unittitle>Cold Iron - Featuring the songs of Leslie Fish</unittitle>
-                                <unitdate normal='1987'>1987</unitdate>
-                                <abstract>
-                                    <p>Notes: A pristine copy of this classic songbook with illustrations by Brad
-                                        Schenk
-                                    </p>
-                                </abstract>
-                                <physdesc>
-                                    <genreform source='local'>Songbook</genreform>
-                                    <extent>2 copy</extent>
-                                </physdesc>
-                                <container type='box'>2</container>
-                                <origination label='creator'>
-                                    <persname>Fish, Leslie</persname>
-                                </origination>
-                                <origination label='contributer'>
-                                    <persname>Off Centaur Publications</persname>
-                                </origination>
-                            </did>
-                            <controlaccess>
-                                <persname>Kipling, Rudyard</persname>
-                                <persname>Fish, Leslie</persname>
-                                <persname>Off Centaur Publications</persname>
-                                <genreform source='local'>Songbook</genreform>
-                                <persname>Schenk, Brad</persname>
-                            </controlaccess>
-                        </c04>
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Solar Sailors</unittitle>
@@ -415,24 +384,36 @@
 
                         <c04 level='item'>
                             <did>
-                                <unittitle>Cold Iron</unittitle>
+                                <unittitle>Cold Iron - Featuring the songs of Leslie Fish</unittitle>
                                 <unitdate normal='1987'>1987</unitdate>
                                 <abstract>
-                                    <p>Notes: Color cover with fancy celtic knots</p>
-                                    <p>Origin: Off Centaur Publication</p>
+                                    <p>Color cover with fancy celtic knots</p>
+                                    <p>Notes: A pristine copy of this classic songbook with illustrations by Brad
+                                        Schenk
+                                    </p>
                                 </abstract>
                                 <physdesc>
                                     <genreform source='local'>Songbook</genreform>
-                                    <extent>1 copy</extent>
+                                    <extent>3 copies</extent>
                                 </physdesc>
-                                <container type='box'>14</container>
+                                <container type='box'>2</container>                                <container type='box'>14</container>
+
+                                <origination label='creator'>
+                                    <persname>Fish, Leslie</persname>
+                                </origination>
+                                <origination label='contributer'>
+                                    <persname>Off Centaur Publications</persname>
+                                </origination>
                             </did>
                             <controlaccess>
-                                <persname>Fish, Leslie, and Kipling, Rudyard</persname>
-                                <persname>Off Centaur Publication</persname>
+                                <persname>Kipling, Rudyard</persname>
+                                <persname>Fish, Leslie</persname>
+                                <persname>Off Centaur Publications</persname>
                                 <genreform source='local'>Songbook</genreform>
+                                <persname>Schenk, Brad</persname>
                             </controlaccess>
                         </c04>
+
                     </c03>
 
 
@@ -463,9 +444,32 @@
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
                         </c04>
-                        <c04 level='item'>
+                        <c04 level="file" id="dreamer">
+                            <did><unittitle>Dreamer</unittitle><unitdate>1990</unitdate></did>
+
+                            <c05 level='item'>
+                                <did>
+                                    <unittitle>Dreamer</unittitle>
+                                    <abstract>
+                                        <p>Notes: Illustrations by Larry Warner, spiral bound with pastiche cover</p>
+                                        <p>Origin: Wail Songs</p>
+                                    </abstract>
+                                    <physdesc>
+                                        <genreform source='local'>Songbook</genreform>
+                                        <extent>1 copy</extent>
+                                    </physdesc>
+                                    <container type='box'>14</container>
+                                </did>
+                                <controlaccess>
+                                    <persname>Ecklar, Julia</persname>
+                                    <persname>Wail Songs</persname>
+                                    <genreform source='local'>Songbook</genreform>
+                                </controlaccess>
+                            </c05>
+
+                        <c05 level='item'>
                             <did>
-                                <unittitle>Dreamer songbook</unittitle>
+                                <unittitle>Dreamer, 2nd Printing</unittitle>
                                 <unitdate normal='1990'>1990</unitdate>
                                 <abstract>
                                     <p>Notes: Spiral bound with pastiche fantasy sci-fi cover, illustrated by Larry
@@ -479,6 +483,7 @@
                                     <extent>1 copy</extent>
                                 </physdesc>
                                 <container type='box'>13</container>
+
                             </did>
                             <controlaccess>
                                 <persname>Ecklar, Julia</persname>
@@ -486,27 +491,9 @@
                                 <corpname>Wail Songs</corpname>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
-                        </c04>
-                        <c04 level='item'>
-                            <did>
-                                <unittitle>Dreamer</unittitle>
-                                <abstract>
-                                    <p>Notes: Illustrations by Larry Warner, spiral boundwith pastiche cover</p>
-                                    <p>Origin: Wail Songs</p>
-                                </abstract>
-                                <physdesc>
-                                    <genreform source='local'>Songbook</genreform>
-                                    <extent>1 copy</extent>
-                                </physdesc>
-                                <container type='box'>14</container>
-                            </did>
-                            <controlaccess>
-                                <persname>Ecklar, Julia</persname>
-                                <persname>Wail Songs</persname>
-                                <genreform source='local'>Songbook</genreform>
-                            </controlaccess>
-                        </c04>
+                        </c05>
 
+                        </c04>
                     </c03>
 
 
