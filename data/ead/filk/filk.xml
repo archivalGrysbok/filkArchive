@@ -14911,45 +14911,21 @@
                                 </abstract>
                                 <physdesc>
                                     <genreform source='local'>Songbook</genreform>
-                                    <extent>1 copy</extent>
+                                    <extent>2 copy</extent>
                                 </physdesc>
-                                <container type='box'>10</container>
+                                <container type='box'>10</container> <container type='box'>16</container>
+
                                 <origination label='creator'>
                                     <persname>Contata 2005, June 24-25, 2005</persname>
                                 </origination>
                             </did>
                             <controlaccess>
-                                <persname>Contata 2005, June 24-25, 2005</persname>
                                 <persname>Contata 2005/NYMFO</persname>
                                 <subject>Conventions--NEFilk 15: Contata 2005</subject>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
                         </c>
 
-
-                        <c level='item'>
-                            <did>
-                                <unittitle>Contata 2005 Songbook</unittitle>
-                                <unitdate normal='2005'>2005</unitdate>
-                                <abstract>
-                                    <p>Notes: Spiral bound, green cover with Musical instruments playing poker by Avram
-                                        Grumer
-                                    </p>
-                                    <p>Origin: Contata 2005/NYMFO</p>
-
-                                    <p>Convention: NEFilk 15: Contata 2005</p>
-                                </abstract>
-                                <physdesc>
-                                    <genreform source='local'>Songbook</genreform>
-                                    <extent>1 copy</extent>
-                                </physdesc>
-                                <container type='box'>16</container>
-                            </did>
-                            <controlaccess>
-                                <persname>Contata 2005/NYMFO</persname>
-                                <subject>Conventions--NEFilk 15: Contata 2005</subject>
-                                <genreform source='local'>Songbook</genreform>
-                            </controlaccess>
                         </c>
 
                     </c03>
@@ -17295,7 +17271,7 @@
                         </controlaccess>
                     </c03>
                 </c02>
-                <c02 level='file' id='Worldcon'>
+                <c03 level='file' id='Worldcon'>
                     <did>
                         <unittitle>Worldcon</unittitle>
                     </did>
@@ -17389,6 +17365,96 @@
 
                         </controlaccess>
                     </c03>
+
+
+                    "
+                    <c03 level='file'>
+                        <did>
+                            <unittitle>74, MidAmeriCon II</unittitle>
+                            <unitdate normal='20160817/20160821' datechar='creation' type='inclusive'>17 Aug 2016 to 21 Aug 2016</unitdate>
+                        </did>                     <controlaccess>
+<geogname>Kansas City, MO</geogname>
+                    </controlaccess>
+
+
+                    "<c level='item'> <did> <unittitle>MidAmericaCon II Program Book </unittitle>
+                    <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: Multiple pages are printed upsidedown</p>
+                        <p>Origin: MidAmeriCon II</p>
+
+                        <p>Convention: 74, MidAmeriCon II</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Program Book</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>MidAmeriCon II</persname></origination> </did>
+                    <controlaccess><persname>MidAmeriCon II</persname>
+                        <persname>MidAmeriCon II</persname>
+                        <subject>Convention--74, MidAmeriCon II</subject>
+                        <genreform source='local'>Program Book</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>MidAmeriCon II - Progress Report 1 - Saucy Barbecue Tales </unittitle>
+                    <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: Glossy brochure, also includes a retrospective of the 34th MidAmeriCon</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: 74, MidAmeriCon II</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Progress Report </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>MidAmeriCon II</persname></origination> </did>
+                    <controlaccess><persname>MidAmeriCon II</persname>
+                        <subject>Convention--74, MidAmeriCon II</subject>
+                        <genreform source='local'>Progress Report </genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>MidAmeriCon II - Progress Report 2 - Saucy Barbecue Tales </unittitle>
+                    <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: Glossy brochure</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: 74, MidAmeriCon II</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Progress Report </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>MidAmeriCon II</persname></origination> </did>
+                    <controlaccess><persname>MidAmeriCon II</persname>
+                        <subject>Convention--74, MidAmeriCon II</subject>
+                        <genreform source='local'>Progress Report </genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>MidAmeriCon II, 2016 Pocket Program</unittitle>
+                    <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: Cute quarter sized pocket program, spiral bound</p>
+                        <p>Origin: MidAmeriCon II</p>
+
+                        <p>Convention: 74, MidAmeriCon II</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Pocket Program</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>MidAmeriCon II</persname></origination> </did>
+                    <controlaccess><persname>MidAmeriCon II</persname>
+                        <persname>MidAmeriCon II</persname>
+                        <subject>Convention--74, MidAmeriCon II</subject>
+                        <genreform source='local'>Pocket Program</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>MidAmeriCon II 74th World Science Fiction Conventoin Pocket Program</unittitle>
+                    <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: (Includes a business card for the con)</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: 74, MidAmeriCon II</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Pocket Program</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>MidAmeriCon II, August 17-21, 2016</persname></origination> </did>
+                    <controlaccess><persname>MidAmeriCon II, August 17-21, 2016</persname>
+                        <subject>Convention--74, MidAmeriCon II</subject>
+                        <genreform source='local'>Pocket Program</genreform>
+                    </controlaccess>
+                </c>"""""
+                </c03>
 
                     <c03 level='file'>
                         <did>
