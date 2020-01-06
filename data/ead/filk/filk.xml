@@ -16651,31 +16651,6 @@
 
 
                     "
-                    <c level='item'>
-                        <did>
-                            <unittitle>Flier with filksong by Benjamin Franklin</unittitle>
-                            <unitdate normal='2001'>2001</unitdate>
-                            <abstract>
-                                <p>Notes: Green double sided printout</p>
-                                <p>Origin: Milennium Philcon, 2001 flier</p>
-                                <p>Convention: Milennium Philcon, 2001</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Flier</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>Milennium Philcon, 2001</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Milennium Philcon, 2001</persname>
-                            <persname>Milennium Philcon, 2001 flier</persname>
-                            <subject>Convention--Milennium Philcon, 2001</subject>
-                            <genreform source='local'>Flier</genreform>
-                        </controlaccess>
-                    </c>
                     """""
 
 
@@ -17228,12 +17203,10 @@
                         </controlaccess>
                     </c03>
                 </c02>
-                <c03 level='file' id='Worldcon'>
+                <c02 level='file' id='Worldcon'>
                     <did>
                         <unittitle>Worldcon</unittitle>
                     </did>
-
-
 
 
                     <c03 level='file'>
@@ -17260,6 +17233,36 @@
                         <controlaccess>
 
                         </controlaccess>
+
+
+
+                        <c04 level='item'>
+                            <did>
+                                <unittitle>Flier with filksong by Benjamin Franklin</unittitle>
+                                <unitdate normal='2001'>2001</unitdate>
+                                <abstract>
+                                    <p>Notes: Green double sided printout</p>
+                                    <p>Origin: Milennium Philcon, 2001 flier</p>
+                                    <p>Convention: Milennium Philcon, 2001</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Flier</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>Milennium Philcon, 2001</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Milennium Philcon, 2001</persname>
+                                <persname>Milennium Philcon, 2001 flier</persname>
+                                <subject>Convention--Milennium Philcon, 2001</subject>
+                                <genreform source='local'>Flier</genreform>
+                            </controlaccess>
+                        </c04>
+
+
                     </c03>
 
                     <c03 level='file'>
@@ -18540,7 +18543,7 @@
                             <unittitle>Random Factors Catalog</unittitle>
                             <unitdate normal='1995'>1995</unitdate>
                             <abstract>
-                                <p>Notes: Greyish with red printing, Came out of an evenlope labeled Lisa Wahl</p>
+                                <p>Notes: Greyish with red printing, Came out of an envelope labeled Lisa Wahl</p>
                             </abstract>
                             <physdesc>
                                 <genreform source='local'>Catalog</genreform>
