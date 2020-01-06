@@ -16,8 +16,7 @@
         <profiledesc>
             <creation>
                 This finding aid was encoded by Stacy Haponik using a text editor on
-                30 November 2019
-                .
+                30 November 2019                .
             </creation>
             <langusage>
                 <language>eng</language>
@@ -1328,6 +1327,144 @@
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
+
+
+                    "<c level='item'> <did> <unittitle>Rec Room Rhymes, Omnibus</unittitle>
+                    <unitdate normal='1990'>1990</unitdate><abstract><p>Notes: Loose sheets, unbound</p>
+                        <p>Origin: Originated 1982, 3rd printing 1990</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='creator'><persname>Rogow, Roberta</persname></origination> </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Rogow, Roberta</persname>
+                        <persname>Originated 1982, 3rd printing 1990</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>Rec Room Rhymes, Second Omnibus</unittitle>
+                    <unitdate normal='1990'>1990</unitdate><abstract><p>Notes: Loose sheets, unbound</p>
+                        <p>Origin: Originated 1986, 3rd printing, 1990 from Pegasus Publications</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Pegasus Publications</persname></origination> </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Pegasus Publications</persname>
+                        <persname>Rogow, Roberta</persname>
+                        <persname>Originated 1986, 3rd printing, 1990 from Pegasus Publications</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>Rec Room Rhymes #18</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Cover says ""Rack Room""</p>
+                        <p>Origin: Rogow, Roberta</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #15</container>
+                </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Rogow, Roberta</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>Rec Room Rhymes #18</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Cover says ""Rack Room""</p>
+                        <p>Origin: Rogow, Roberta</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #16</container>
+                </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Rogow, Roberta</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>FAN-tastic Filk Songs and other Fannish Delights, July-September Vol 1. No. 1</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Glossy cover with spaceship and a fan swimming in space</p>
+                        <p>Origin: Gerds, Eric</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>Gerds, Eric</persname></origination> </did>
+                    <controlaccess><persname>Gerds, Eric</persname>
+                        <persname>Various</persname>
+                        <persname>Gerds, Eric</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>Musical Chas - A filksong fanzine vol 1 no 1</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and Narcissism Society</p>
+                        <p>Origin: CHASFANS</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>CHASFANS</persname></origination> </did>
+                    <controlaccess><persname>CHASFANS</persname>
+                        <persname>Various</persname>
+                        <persname>CHASFANS</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>Musical Chas - A filksong fanzine Vol 2. Number 2</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and Narcissism Society</p>
+                        <p>Origin: CHASFANS</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>CHASFANS</persname></origination> </did>
+                    <controlaccess><persname>CHASFANS</persname>
+                        <persname>Various</persname>
+                        <persname>CHASFANS</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    "<c level='item'> <did> <unittitle>Musical Chas - Last issue</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and Narcissism Society</p>
+                        <p>Origin: CHASFANS</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>CHASFANS</persname></origination> </did>
+                    <controlaccess><persname>CHASFANS</persname>
+                        <persname>Various</persname>
+                        <persname>CHASFANS</persname>
+
+                        <genreform source='local'>Fanzine / Songbook</genreform>
+                    </controlaccess>
+                </c>"""""
+                    
 
 
                     <c level='item'>
@@ -10242,8 +10379,7 @@
                             <origination label='contributor'>
                                 <persname>Housman, Mordecai</persname>
                             </origination>
-                            <dao linktype="simple" href="https://archive.org/details/APA-Filk-May-1992
-                 actuate=" onload" show="embed" rel="alternate" type="application/json+oembed"/>
+                            <dao linktype="simple" href="https://archive.org/details/APA-Filk-May-1992" actuate=" onload" show="embed" rel="alternate" type="application/json+oembed"/>
                         </did>
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
@@ -10802,18 +10938,19 @@
                             <did>
                                 <unittitle>Archon 35 Filk Book Songbook</unittitle>
                                 <unitdate normal='2011'>2011</unitdate>
-                                <abstract>
-                                    <p>Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
-                                        and Bari Greenberg did the layout
-                                    </p>
-                                    <p>Convention: Archon 35</p>
-                                </abstract>
+
                                 <physdesc>
                                     <genreform source='local'>Songbook</genreform>
-                                    <extent>1 copy</extent>
+                                    <extent>2 copy</extent>
                                 </physdesc>
-                                <container type='box'>13</container>
+                                <container type='box'>13</container><container type='box'>14</container>
                             </did>
+                            <scopecontent>
+                                <p>Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
+                                    and Bari Greenberg did the layout
+                                </p>
+                                <p>Convention: Archon 35</p>
+                            </scopecontent>
                             <controlaccess>
                                 <persname>various</persname>
                                 <subject>Conventions--Archon 35</subject>
@@ -10821,28 +10958,6 @@
                             </controlaccess>
                         </c04>
 
-                        <c level='item'>
-                            <did>
-                                <unittitle>Archon 35 Filk Book Songbook</unittitle>
-                                <unitdate normal='2011'>2011</unitdate>
-                                <abstract>
-                                    <p>Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
-                                        and Bari Greenberg did the layout
-                                    </p>
-                                    <p>Convention: Archon 35</p>
-                                </abstract>
-                                <physdesc>
-                                    <genreform source='local'>Songbook</genreform>
-                                    <extent>1 copy</extent>
-                                </physdesc>
-                                <container type='box'>14</container>
-                            </did>
-                            <controlaccess>
-                                <persname>various</persname>
-                                <subject>Conventions--Archon 35</subject>
-                                <genreform source='local'>Songbook</genreform>
-                            </controlaccess>
-                        </c>
                     </c03>
 
                     <c03 level='file' id="Archon36">
