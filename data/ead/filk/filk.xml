@@ -16,7 +16,7 @@
         <profiledesc>
             <creation>
                 This finding aid was encoded by Stacy Haponik using a text editor on
-                30 November 2019                .
+                30 November 2019 .
             </creation>
             <langusage>
                 <language>eng</language>
@@ -631,6 +631,457 @@
                         </c>
                     </c03>
 
+                    <c03 level="file" id="HopkinsScienceFictionAssociation">
+                        <did>
+                            <unittitle>Hopkins Science Fiction Association</unittitle>
+                        </did>
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>The HOPSFA Hymnal, 3rd edition, copy 123/200</unittitle>
+                                <unitdate normal='1976'>1976</unitdate>
+                                <abstract>
+                                    <p>Notes: Blue cover, square bound, limited edition</p>
+                                    <p>Origin: Hopkins Science Fiction Association, February 1976</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>Hopkins Science Fiction Association, 1978</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Hopkins Science Fiction Association, 1978</persname>
+                                <persname>Hopkins Science Fiction Association, February 1976</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>The HOPSFA Hymnal, 4th edition, copy 182/210</unittitle>
+                                <unitdate normal='1978'>1978</unitdate>
+                                <abstract>
+                                    <p>Notes: Red cover, square bound, limited edition</p>
+                                    <p>Origin: Hopkins Science Fiction Association, 1978</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>Hopkins Science Fiction Association, 1978</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Hopkins Science Fiction Association, 1978</persname>
+                                <persname>Hopkins Science Fiction Association, 1978</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+                    </c03>
+
+                    <c03 level="file" id="McQuillan">
+                        <did>
+                            <unittitle>Cynthia McQuillan</unittitle>
+                        </did>
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Dark Moon Circle</unittitle>
+                                <unitdate normal='1989'>1989</unitdate>
+                                <abstract>
+                                    <p>Notes: Stapled, white cover with stonehenge</p>
+                                    <p>Origin: Unlikely Publications, 1989</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>McQuillan, Cynthia</persname>
+                                </origination>
+                                <origination label='publisher'>
+                                    <persname>Unlikely Publications</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Unlikely Publications</persname>
+                                <persname>McQuillan, Cynthia</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Moon Shadows</unittitle>
+                                <unitdate normal='1989'>1989</unitdate>
+                                <abstract>
+                                    <p>Notes: White full-sized pamphlet</p>
+                                    <p>Origin: Unlikely Publications, 1989</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>McQuillan, Cynthia</persname>
+                                </origination>
+                                <origination label='publisher'>
+                                    <persname>Unlikely Publications</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>McQuillan, Cynthia</persname>
+                                <persname>Unlikely Publications</persname>
+                                <persname>McQuillan, Cynthia</persname>
+                                <persname>Unlikely Publications, 1989</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Dream of Fortune</unittitle>
+                                <unitdate normal='1991'>1991</unitdate>
+                                <abstract>
+                                    <p>Notes: Stapled, white cover with a woman</p>
+                                    <p>Origin: Unlikely Publications, 1991</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>McQuillan, Cynthia</persname>
+                                </origination>
+                                <origination label='publisher'>
+                                    <persname>Unlikely Publications</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>McQuillan, Cynthia</persname>
+                                <persname>Unlikely Publications</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+                        <c level='item' id="CrystalMemories1981">
+                            <did>
+                                <unittitle>Crystal Memories</unittitle>
+                                <unitdate normal='1981'>1981</unitdate>
+                                <abstract>
+                                    <p>Notes: Star in water on blue and white cover, stapled</p>
+                                    <p>Origin: Off Centaur Publications, 1981</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>10</container>
+                                <origination label='creator'>
+                                    <persname>McQuillan, Cynthia</persname>
+                                </origination>
+                                <origination label='creator'>
+                                    <persname>Wayne, Phillip</persname>
+                                </origination>
+                                <origination label='contributer'>
+                                    <corpname>Off Centaur Publications</corpname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Wayne, Phillip</persname>
+                                <persname>McQuillan, Cynthia</persname>
+                                <corpname>Off Centaur Publications, 1981</corpname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Singer in the Shadow</unittitle>
+                                <unitdate normal='1986'>1986</unitdate>
+                                <abstract>
+                                    <p>Notes: Cover with woman in a cloak</p>
+                                    <p>Origin: Off Centaur</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>14</container>
+                            </did>
+                            <controlaccess>
+                                <persname>McQuillan, Cynthia</persname>
+                                <persname>Off Centaur</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Mystic Lady</unittitle>
+                                <unitdate normal='2012'>2012</unitdate>
+                                <abstract>
+                                    <p>Notes: Color cover with Cynthia playing guitar and wearing a circlet and gown.
+                                        Spiral
+                                        bound,
+                                        interior art Margaret Davis.
+                                    </p>
+                                    <p>Origin: Flowinglass Music</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>13</container>
+                            </did>
+                            <controlaccess>
+                                <persname>McQuillan, Cynthia</persname>
+                                <persname>Flowinglass Music</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Mystic Lady</unittitle>
+                                <abstract>
+                                    <p>Notes: Color cover with Cynthia playing guitar and wearing a circlet and gown.
+                                        Spiral
+                                        bound,
+                                        interior art Margaret Davis.
+                                    </p>
+                                    <p>Origin: Flowinglass Music</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>14</container>
+                            </did>
+                            <controlaccess>
+                                <persname>McQuillan, Cynthia</persname>
+                                <persname>Flowinglass Music</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+                    </c03>
+
+                    <c03 level="file">
+                        <did>
+                            <unittitle>Bob Kanefsky</unittitle>
+                        </did>
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Songworm, segment #1: Song Parodies by Bob Kanefsky</unittitle>
+                                <unitdate normal='19880601'>1 June 1988</unitdate>
+                                <abstract>
+                                    <p>Notes: Pinkish cover, signed by Leslie Fish, cover art by Leslie fish</p>
+                                    <p>Origin: 32295</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Kanefsky, Bob</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Kanefsky, Bob</persname>
+                                <persname>Kanefsky, Bob</persname>
+                                <persname>32295</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Songworm, Segment Two</unittitle>
+                                <unitdate normal='1990'>1990</unitdate>
+                                <abstract>
+                                    <p>Notes: Color cover with notes and flowers, spiral bound</p>
+                                    <p>Origin: Self published</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>14</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Kanefskey, Bob</persname>
+                                <persname>Self published</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                        <c level='item'>
+                            <did>
+                                <unittitle>Songworm Segment 3</unittitle>
+                                <unitdate normal='1991'>1991</unitdate>
+                                <abstract>
+                                    <p>Notes: Spiral bound with red spiral with large fish about to eat the filking
+                                        songworm
+                                        (illustration by Leslie Fish)
+                                    </p>
+                                    <p>Origin: Independent publication by author</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>13</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Kanefsky, Bob</persname>
+                                <persname>Independent publication by author</persname>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>                    <c03 level="file">
+                    <did>
+                        <unittitle>a</unittitle>
+                    </did>
+
+
+                </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>                    <c03 level="file">
+                    <did>
+                        <unittitle>a</unittitle>
+                    </did>
+
+
+                </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>                    <c03 level="file">
+                    <did>
+                        <unittitle>a</unittitle>
+                    </did>
+
+
+                </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>                    <c03 level="file">
+                    <did>
+                        <unittitle>a</unittitle>
+                    </did>
+
+
+                </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>                    <c03 level="file">
+                    <did>
+                        <unittitle>a</unittitle>
+                    </did>
+
+
+                </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle>a</unittitle>
+                        </did>
+
+
+                    </c03>
+
 
                     <c level='item'>
                         <did>
@@ -731,83 +1182,6 @@
                         </did>
                         <controlaccess>
                             <persname>H.P. Lovecraft Historical Society</persname>
-                            <persname>H.P. Lovecraft Historical Society</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>The HOPSFA Hymnal, 3rd edition, copy 123/200</unittitle>
-                            <unitdate normal='1976'>1976</unitdate>
-                            <abstract>
-                                <p>Notes: Blue cover, square bound, limited edition</p>
-                                <p>Origin: Hopkins Science Fiction Association, February 1976</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>Hopkins Science Fiction Association, 1978</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Hopkins Science Fiction Association, 1978</persname>
-                            <persname>Hopkins Science Fiction Association, February 1976</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>The HOPSFA Hymnal, 4th edition, copy 182/210</unittitle>
-                            <unitdate normal='1978'>1978</unitdate>
-                            <abstract>
-                                <p>Notes: Red cover, square bound, limited edition</p>
-                                <p>Origin: Hopkins Science Fiction Association, 1978</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>Hopkins Science Fiction Association, 1978</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Hopkins Science Fiction Association, 1978</persname>
-                            <persname>Hopkins Science Fiction Association, 1978</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Songworm, segment #1: Song Parodies by Bob Kanefsky</unittitle>
-                            <unitdate normal='19880601'>1 June 1988</unitdate>
-                            <abstract>
-                                <p>Notes: Pinkish cover, signed by Leslie Fish, cover art by Leslie fish</p>
-                                <p>Origin: 32295</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>7</container>
-                            <origination label='creator'>
-                                <persname>Kanefsky, Bob</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Kanefsky, Bob</persname>
-                            <persname>Kanefsky, Bob</persname>
-                            <persname>32295</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -881,8 +1255,6 @@
                         </did>
                         <controlaccess>
                             <persname>Kiva and Friends</persname>
-                            <persname>Kiva and Friends</persname>
-                            <persname>Kiva and Friends, undated</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -935,8 +1307,6 @@
                         </did>
                         <controlaccess>
                             <persname>Luckett, Dave</persname>
-                            <persname>Luckett, Dave</persname>
-                            <persname>Dave Luckett, 1983</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -961,8 +1331,6 @@
                         </did>
                         <controlaccess>
                             <persname>Luckett, Dave</persname>
-                            <persname>Luckett, Dave</persname>
-                            <persname>Dave Luckett, 1983</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -978,41 +1346,17 @@
                             </abstract>
                             <physdesc>
                                 <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
+                                <extent>2 copy</extent>
                             </physdesc>
                             <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>M.A.S.S.F.I.L.C., 2006</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>M.A.S.S.F.I.L.C., 2006</persname>
-                            <persname>M.A.S.S.F.I.L.C., 2006</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Northeast Passages: A Collection of Filk from Northeastern U.S.</unittitle>
-                            <unitdate normal='2006'>2006</unitdate>
-                            <abstract>
-                                <p>Notes: Spiral bound, off white cover</p>
-                                <p>Origin: M.A.S.S.F.I.L.C., 2006</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
                             <container type='box'>16</container>
+
                             <origination label='creator'>
                                 <persname>M.A.S.S.F.I.L.C., 2006</persname>
                             </origination>
                         </did>
                         <controlaccess>
-                            <persname>M.A.S.S.F.I.L.C., 2006</persname>
-                            <persname>M.A.S.S.F.I.L.C., 2006</persname>
+                            <persname normal="MASSFILC">M.A.S.S.F.I.L.C.</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -1036,99 +1380,9 @@
                         </did>
                         <controlaccess>
                             <persname>Macdonald, Steve</persname>
-                            <persname>Macdonald, Steve</persname>
                             <persname>IRC channel chat</persname>
                             <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Dark Moon Circle</unittitle>
-                            <unitdate normal='1989'>1989</unitdate>
-                            <abstract>
-                                <p>Notes: Stapled, white cover with stonehenge</p>
-                                <p>Origin: Unlikely Publications, 1989</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>McQuillan, Cynthia</persname>
-                            </origination>
-                            <origination label='publisher'>
-                                <persname>Unlikely Publications</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Unlikely Publications</persname>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Unlikely Publications, 1989</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Moon Shadows</unittitle>
-                            <unitdate normal='1989'>1989</unitdate>
-                            <abstract>
-                                <p>Notes: White full-sized pamphlet</p>
-                                <p>Origin: Unlikely Publications, 1989</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>McQuillan, Cynthia</persname>
-                            </origination>
-                            <origination label='publisher'>
-                                <persname>Unlikely Publications</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Unlikely Publications</persname>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Unlikely Publications, 1989</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Dream of Fortune</unittitle>
-                            <unitdate normal='1991'>1991</unitdate>
-                            <abstract>
-                                <p>Notes: Stapled, white cover with a woman</p>
-                                <p>Origin: Unlikely Publications, 1991</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>McQuillan, Cynthia</persname>
-                            </origination>
-                            <origination label='publisher'>
-                                <persname>Unlikely Publications</persname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Unlikely Publications</persname>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Unlikely Publications, 1991</persname>
-                            <genreform source='local'>Songbook</genreform>
+                            <genreform source='local'>Musical</genreform>
                         </controlaccess>
                     </c>
 
@@ -1329,142 +1583,241 @@
                     </c>
 
 
-                    "<c level='item'> <did> <unittitle>Rec Room Rhymes, Omnibus</unittitle>
-                    <unitdate normal='1990'>1990</unitdate><abstract><p>Notes: Loose sheets, unbound</p>
-                        <p>Origin: Originated 1982, 3rd printing 1990</p>
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Rec Room Rhymes, Omnibus</unittitle>
+                            <unitdate normal='1990'>1990</unitdate>
+                            <abstract>
+                                <p>Notes: Loose sheets, unbound</p>
+                                <p>Origin: Originated 1982, 3rd printing 1990</p>
 
 
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
-                    <origination label='creator'><persname>Rogow, Roberta</persname></origination> </did>
-                    <controlaccess><persname>Rogow, Roberta</persname>
-                        <persname>Rogow, Roberta</persname>
-                        <persname>Originated 1982, 3rd printing 1990</persname>
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #2</container>
+                            <origination label='creator'>
+                                <persname>Rogow, Roberta</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname>Rogow, Roberta</persname>
+                            <persname>Rogow, Roberta</persname>
+                            <persname>Originated 1982, 3rd printing 1990</persname>
 
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>Rec Room Rhymes, Second Omnibus</unittitle>
-                    <unitdate normal='1990'>1990</unitdate><abstract><p>Notes: Loose sheets, unbound</p>
-                        <p>Origin: Originated 1986, 3rd printing, 1990 from Pegasus Publications</p>
-
-
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
-                    <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Pegasus Publications</persname></origination> </did>
-                    <controlaccess><persname>Rogow, Roberta</persname>
-                        <persname>Pegasus Publications</persname>
-                        <persname>Rogow, Roberta</persname>
-                        <persname>Originated 1986, 3rd printing, 1990 from Pegasus Publications</persname>
-
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>Rec Room Rhymes #18</unittitle>
-                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Cover says ""Rack Room""</p>
-                        <p>Origin: Rogow, Roberta</p>
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Rec Room Rhymes, Second Omnibus</unittitle>
+                            <unitdate normal='1990'>1990</unitdate>
+                            <abstract>
+                                <p>Notes: Loose sheets, unbound</p>
+                                <p>Origin: Originated 1986, 3rd printing, 1990 from Pegasus Publications</p>
 
 
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #15</container>
-                </did>
-                    <controlaccess><persname>Rogow, Roberta</persname>
-                        <persname>Rogow, Roberta</persname>
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #2</container>
+                            <origination label='creator'>
+                                <persname>Rogow, Roberta</persname>
+                            </origination>
+                            <origination label='publisher'>
+                                <persname>Pegasus Publications</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname>Rogow, Roberta</persname>
+                            <persname>Pegasus Publications</persname>
+                            <persname>Rogow, Roberta</persname>
+                            <persname>Originated 1986, 3rd printing, 1990 from Pegasus Publications</persname>
 
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>Rec Room Rhymes #18</unittitle>
-                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Cover says ""Rack Room""</p>
-                        <p>Origin: Rogow, Roberta</p>
-
-
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
-                </did>
-                    <controlaccess><persname>Rogow, Roberta</persname>
-                        <persname>Rogow, Roberta</persname>
-
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>FAN-tastic Filk Songs and other Fannish Delights, July-September Vol 1. No. 1</unittitle>
-                    <unitdate normal=''></unitdate><abstract><p>Notes: Glossy cover with spaceship and a fan swimming in space</p>
-                        <p>Origin: Gerds, Eric</p>
-
-
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
-                    <origination label='publisher'><persname>Gerds, Eric</persname></origination> </did>
-                    <controlaccess><persname>Gerds, Eric</persname>
-                        <persname>Various</persname>
-                        <persname>Gerds, Eric</persname>
-
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>Musical Chas - A filksong fanzine vol 1 no 1</unittitle>
-                    <unitdate normal=''></unitdate><abstract><p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and Narcissism Society</p>
-                        <p>Origin: CHASFANS</p>
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Rec Room Rhymes #18</unittitle>
+                            <unitdate normal='2012'>2012</unitdate>
+                            <abstract>
+                                <p>Notes: Cover says ""Rack Room""</p>
+                                <p>Origin: Rogow, Roberta</p>
 
 
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
-                    <origination label='publisher'><persname>CHASFANS</persname></origination> </did>
-                    <controlaccess><persname>CHASFANS</persname>
-                        <persname>Various</persname>
-                        <persname>CHASFANS</persname>
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #15</container>
+                        </did>
+                        <controlaccess>
+                            <persname>Rogow, Roberta</persname>
+                            <persname>Rogow, Roberta</persname>
 
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>Musical Chas - A filksong fanzine Vol 2. Number 2</unittitle>
-                    <unitdate normal=''></unitdate><abstract><p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and Narcissism Society</p>
-                        <p>Origin: CHASFANS</p>
-
-
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
-                    <origination label='publisher'><persname>CHASFANS</persname></origination> </did>
-                    <controlaccess><persname>CHASFANS</persname>
-                        <persname>Various</persname>
-                        <persname>CHASFANS</persname>
-
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    "<c level='item'> <did> <unittitle>Musical Chas - Last issue</unittitle>
-                    <unitdate normal=''></unitdate><abstract><p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and Narcissism Society</p>
-                        <p>Origin: CHASFANS</p>
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Rec Room Rhymes #18</unittitle>
+                            <unitdate normal='2012'>2012</unitdate>
+                            <abstract>
+                                <p>Notes: Cover says ""Rack Room""</p>
+                                <p>Origin: Rogow, Roberta</p>
 
 
-                    </abstract>
-                    <physdesc> <genreform source='local'>Fanzine / Songbook</genreform>
-                        <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
-                    <origination label='publisher'><persname>CHASFANS</persname></origination> </did>
-                    <controlaccess><persname>CHASFANS</persname>
-                        <persname>Various</persname>
-                        <persname>CHASFANS</persname>
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #16</container>
+                        </did>
+                        <controlaccess>
+                            <persname>Rogow, Roberta</persname>
+                            <persname>Rogow, Roberta</persname>
 
-                        <genreform source='local'>Fanzine / Songbook</genreform>
-                    </controlaccess>
-                </c>"""""
-                    
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>FAN-tastic Filk Songs and other Fannish Delights, July-September Vol 1. No. 1
+                            </unittitle>
+                            <unitdate normal=''></unitdate>
+                            <abstract>
+                                <p>Notes: Glossy cover with spaceship and a fan swimming in space</p>
+                                <p>Origin: Gerds, Eric</p>
+
+
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #2</container>
+                            <origination label='publisher'>
+                                <persname>Gerds, Eric</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname>Gerds, Eric</persname>
+                            <persname>Various</persname>
+                            <persname>Gerds, Eric</persname>
+
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Musical Chas - A filksong fanzine vol 1 no 1</unittitle>
+                            <unitdate normal=''></unitdate>
+                            <abstract>
+                                <p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and
+                                    Narcissism Society
+                                </p>
+                                <p>Origin: CHASFANS</p>
+
+
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #2</container>
+                            <origination label='publisher'>
+                                <persname>CHASFANS</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname>CHASFANS</persname>
+                            <persname>Various</persname>
+                            <persname>CHASFANS</persname>
+
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Musical Chas - A filksong fanzine Vol 2. Number 2</unittitle>
+                            <unitdate normal=''></unitdate>
+                            <abstract>
+                                <p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and
+                                    Narcissism Society
+                                </p>
+                                <p>Origin: CHASFANS</p>
+
+
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #2</container>
+                            <origination label='publisher'>
+                                <persname>CHASFANS</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname>CHASFANS</persname>
+                            <persname>Various</persname>
+                            <persname>CHASFANS</persname>
+
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
+                    "
+                    <c level='item'>
+                        <did>
+                            <unittitle>Musical Chas - Last issue</unittitle>
+                            <unitdate normal=''></unitdate>
+                            <abstract>
+                                <p>Notes: This appears to have originated with The Capitol Hill Area Science Fiction and
+                                    Narcissism Society
+                                </p>
+                                <p>Origin: CHASFANS</p>
+
+
+                            </abstract>
+                            <physdesc>
+                                <genreform source='local'>Fanzine / Songbook</genreform>
+                                <extent>1 copy</extent>
+                            </physdesc>
+                            <container type='box'>Box #2</container>
+                            <origination label='publisher'>
+                                <persname>CHASFANS</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname>CHASFANS</persname>
+                            <persname>Various</persname>
+                            <persname>CHASFANS</persname>
+
+                            <genreform source='local'>Fanzine / Songbook</genreform>
+                        </controlaccess>
+                    </c>
+                    """""
 
 
                     <c level='item'>
@@ -1569,38 +1922,6 @@
                     </c>
 
 
-                    <c level='item' id="CrystalMemories1981">
-                        <did>
-                            <unittitle>Crystal Memories</unittitle>
-                            <unitdate normal='1981'>1981</unitdate>
-                            <abstract>
-                                <p>Notes: Star in water on blue and white cover, stapled</p>
-                                <p>Origin: Off Centaur Publications, 1981</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>10</container>
-                            <origination label='creator'>
-                                <persname>McQuillan, Cynthia</persname>
-                            </origination>
-                            <origination label='creator'>
-                                <persname>Wayne, Phillip</persname>
-                            </origination>
-                            <origination label='contributer'>
-                                <corpname>Off Centaur Publications</corpname>
-                            </origination>
-                        </did>
-                        <controlaccess>
-                            <persname>Wayne, Phillip</persname>
-                            <persname>McQuillan, Cynthia</persname>
-                            <corpname>Off Centaur Publications, 1981</corpname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
                     <c level='item'>
                         <did>
                             <unittitle>Troubador: Songs and Poems</unittitle>
@@ -1654,52 +1975,6 @@
 
                     <c level='item'>
                         <did>
-                            <unittitle>Songworm, Segment Two</unittitle>
-                            <unitdate normal='1990'>1990</unitdate>
-                            <abstract>
-                                <p>Notes: Color cover with notes and flowers, spiral bound</p>
-                                <p>Origin: Self published</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>14</container>
-                        </did>
-                        <controlaccess>
-                            <persname>Kanefskey, Bob</persname>
-                            <persname>Self published</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Songworm Segment 3</unittitle>
-                            <unitdate normal='1991'>1991</unitdate>
-                            <abstract>
-                                <p>Notes: Spiral bound with red spiral with large fish about to eat the filking songworm
-                                    (illustration by Leslie Fish)
-                                </p>
-                                <p>Origin: Independent publication by author</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>13</container>
-                        </did>
-                        <controlaccess>
-                            <persname>Kanefsky, Bob</persname>
-                            <persname>Independent publication by author</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
                             <unittitle>Through the Door: Lyrics and Chords</unittitle>
                             <unitdate normal='2017'>2017</unitdate>
                             <abstract>
@@ -1715,77 +1990,6 @@
                         <controlaccess>
                             <persname>MacKay, Char</persname>
                             <persname>Char MacKay</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Singer in the Shadow</unittitle>
-                            <unitdate normal='1986'>1986</unitdate>
-                            <abstract>
-                                <p>Notes: Cover with woman in a cloak</p>
-                                <p>Origin: Off Centaur</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>14</container>
-                        </did>
-                        <controlaccess>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Off Centaur</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Mystic Lady</unittitle>
-                            <unitdate normal='2012'>2012</unitdate>
-                            <abstract>
-                                <p>Notes: Color cover with Cynthia playing guitar and wearing a circlet and gown. Spiral
-                                    bound,
-                                    interior art Margaret Davis.
-                                </p>
-                                <p>Origin: Flowinglass Music</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>13</container>
-                        </did>
-                        <controlaccess>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Flowinglass Music</persname>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>
-
-
-                    <c level='item'>
-                        <did>
-                            <unittitle>Mystic Lady</unittitle>
-                            <abstract>
-                                <p>Notes: Color cover with Cynthia playing guitar and wearing a circlet and gown. Spiral
-                                    bound,
-                                    interior art Margaret Davis.
-                                </p>
-                                <p>Origin: Flowinglass Music</p>
-                            </abstract>
-                            <physdesc>
-                                <genreform source='local'>Songbook</genreform>
-                                <extent>1 copy</extent>
-                            </physdesc>
-                            <container type='box'>14</container>
-                        </did>
-                        <controlaccess>
-                            <persname>McQuillan, Cynthia</persname>
-                            <persname>Flowinglass Music</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
                     </c>
@@ -1854,7 +2058,8 @@
                             <container type='box'>16</container>
                         </did>
                         <controlaccess>
-                            <persname>Robison, Jane and Robinson, James (Jim)</persname>
+                            <persname>Robinson, James 'Jim'</persname>
+                            <persname>Robison, Jane</persname>
                             <persname>Lee Gold</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
@@ -10379,7 +10584,8 @@
                             <origination label='contributor'>
                                 <persname>Housman, Mordecai</persname>
                             </origination>
-                            <dao linktype="simple" href="https://archive.org/details/APA-Filk-May-1992" actuate=" onload" show="embed" rel="alternate" type="application/json+oembed"/>
+                            <dao linktype="simple" href="https://archive.org/details/APA-Filk-May-1992"
+                                 actuate=" onload" show="embed" rel="alternate" type="application/json+oembed"/>
                         </did>
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
@@ -10943,7 +11149,8 @@
                                     <genreform source='local'>Songbook</genreform>
                                     <extent>2 copy</extent>
                                 </physdesc>
-                                <container type='box'>13</container><container type='box'>14</container>
+                                <container type='box'>13</container>
+                                <container type='box'>14</container>
                             </did>
                             <scopecontent>
                                 <p>Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
@@ -13117,7 +13324,6 @@
                                 </origination>
                             </did>
                             <controlaccess>
-                                <persname>FilKONtario 25</persname>
                                 <persname>FilKONtario 25, 16-19 April, 2015</persname>
                                 <subject>Conventions--FilKONtario 25</subject>
                                 <genreform source='local'>Pocket Program</genreform>
@@ -14044,17 +14250,14 @@
                                 </physdesc>
                                 <container type='box'>9</container>
                                 <origination label='creator'>
-                                    <persname>GAFilk 2016</persname>
+                                    <persname>GAFilk 18</persname>
                                 </origination>
                                 <origination label='publisher'>
-                                    <persname>GAFilk 2016, January 8-10, 2016</persname>
+                                    <persname>GAFilk 18</persname>
                                 </origination>
                             </did>
                             <controlaccess>
-                                <persname>GAFilk 2016</persname>
-                                <persname>GAFilk 2016, January 8-10, 2016</persname>
-                                <persname>GAFilk 2016, January 8-10, 2016</persname>
-                                <subject>Conventions--GAFilk 18: 2016</subject>
+                                <subject>Conventions--GAFilk 18</subject>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
                         </c>
@@ -14910,7 +15113,7 @@
                             </did>
                             <controlaccess>
                                 <persname>Contata 5</persname>
-                                <subject>Convention--NEFilk 18: Contata 5</subject>
+                                <subject>Conventions--NEFilk 18: Contata 5</subject>
                                 <genreform source='local'>Flier</genreform>
                             </controlaccess>
                         </c>
@@ -14938,7 +15141,7 @@
                             <controlaccess>
                                 <persname>Contata 2008, June 20-22, 2008</persname>
                                 <persname>Contata 2008, June 20-22, 2008</persname>
-                                <subject>Convention--NEFilk 18: Contata 5</subject>
+                                <subject>Conventions--NEFilk 18: Contata 5</subject>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
                         </c>
@@ -15167,7 +15370,7 @@
                             <controlaccess>
                                 <persname>Contata 2014</persname>
                                 <persname>Contata 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Sign up sheet</genreform>
                             </controlaccess>
                         </c>
@@ -15197,7 +15400,7 @@
                             <controlaccess>
                                 <persname>Contata 2014</persname>
                                 <persname>Contata 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Sign up sheet</genreform>
                             </controlaccess>
                         </c>
@@ -15224,7 +15427,7 @@
                             <controlaccess>
                                 <persname>Contata 2014</persname>
                                 <persname>Contata 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Sign up sheet</genreform>
                             </controlaccess>
                         </c>
@@ -15251,7 +15454,7 @@
                             <controlaccess>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -15284,7 +15487,7 @@
                                 <persname>Three-Fifths and a Chaser</persname>
                                 <persname>Three-Fifths and a Chaser</persname>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Set List</genreform>
                             </controlaccess>
                         </c>
@@ -15311,7 +15514,7 @@
                             <controlaccess>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
                         </c>
@@ -15341,7 +15544,7 @@
                             <controlaccess>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
                                 <persname>Contata 2014, June 20-22, 2014</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Hat Band Lineup</genreform>
                             </controlaccess>
                         </c>
@@ -15369,7 +15572,7 @@
                                 <persname>Contata 7, 2014</persname>
                                 <persname>NA</persname>
                                 <persname>Contata 7</persname>
-                                <subject>Convention--NEFilk 24: Contata 7</subject>
+                                <subject>Conventions--NEFilk 24: Contata 7</subject>
                                 <genreform source='local'>Program booklet</genreform>
                             </controlaccess>
                         </c>
@@ -15450,7 +15653,7 @@
                                 <persname>Angry Antz|TwoTonic</persname>
                                 <persname>Angry Antz with TwoTonic</persname>
                                 <persname>Angry Antz</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Set list</genreform>
                             </controlaccess>
                         </c>
@@ -15482,7 +15685,7 @@
                                 <persname>Harold</persname>
                                 <persname>NA</persname>
                                 <persname>Harold</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Map of mixing desk</genreform>
                             </controlaccess>
                         </c>
@@ -15510,7 +15713,7 @@
                                 <persname>Contata 2017</persname>
                                 <persname>NA</persname>
                                 <persname>Contata 2017</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Schedule (from the sound board)</genreform>
                             </controlaccess>
                         </c>
@@ -15542,7 +15745,7 @@
                                 <persname>Floating Filk Studios</persname>
                                 <persname>NA</persname>
                                 <persname>Floating Filk Studios</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Download codes for Earworm</genreform>
                             </controlaccess>
                         </c>
@@ -15575,7 +15778,7 @@
                             <controlaccess>
                                 <persname>Contata 2017</persname>
                                 <persname>Various</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>List of Performers</genreform>
                             </controlaccess>
                         </c>
@@ -15602,7 +15805,7 @@
                             <controlaccess>
                                 <persname>Contata 2017</persname>
                                 <persname>Contata 2017</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
                         </c>
@@ -15633,7 +15836,7 @@
                                 <persname>Contata 2017</persname>
                                 <persname>Floating Filk Studios</persname>
                                 <persname>Floating Filk Studios</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Download Code</genreform>
                             </controlaccess>
                         </c>
@@ -15660,7 +15863,7 @@
                             <controlaccess>
                                 <persname>Contata 2017</persname>
                                 <persname>Contata 2017</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Set list</genreform>
                             </controlaccess>
                         </c>
@@ -15697,7 +15900,7 @@
                                 <persname>Harold</persname>
                                 <persname>Wessels, Mary Ellen, Stauff, Ed</persname>
                                 <persname>Harold</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Set list</genreform>
                             </controlaccess>
                         </c>
@@ -15724,7 +15927,7 @@
                             <controlaccess>
                                 <persname>Contata 8, June 23-25, 2017</persname>
                                 <persname>Contata 8, June 23-25, 2017</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -15751,7 +15954,7 @@
                             <controlaccess>
                                 <persname>Contata 8, June 23-25, 2017</persname>
                                 <persname>Contata 8, June 23-25, 2017</persname>
-                                <subject>Convention--NEFilk 27: Contata 8</subject>
+                                <subject>Conventions--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
                         </c03>
@@ -16811,7 +17014,7 @@
                             <controlaccess>
                                 <persname>Philcon 2011</persname>
                                 <persname>Philcon 2011, November 18-20, 2011, 75th anniversary</persname>
-                                <subject>Convention--Philcon 2011</subject>
+                                <subject>Conventions--Philcon 2011</subject>
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
                         </c>
@@ -16851,7 +17054,7 @@
                             <controlaccess>
                                 <persname>Philcon 2013</persname>
                                 <persname>41587</persname>
-                                <subject>Convention--Philcon 2013</subject>
+                                <subject>Conventions--Philcon 2013</subject>
                                 <genreform source='local'>Newsletter</genreform>
                             </controlaccess>
                         </c>
@@ -16878,7 +17081,7 @@
                             <controlaccess>
                                 <persname>Philcon 2013</persname>
                                 <persname>41587</persname>
-                                <subject>Convention--Philcon 2013</subject>
+                                <subject>Conventions--Philcon 2013</subject>
                                 <genreform source='local'>Newsletter</genreform>
                             </controlaccess>
                         </c>
@@ -16921,7 +17124,7 @@
                             <controlaccess>
                                 <persname>Philcon 2014, November 21-23</persname>
                                 <persname>Philcon 2014, November 21-23</persname>
-                                <subject>Convention--Philcon 2014, November 21-23</subject>
+                                <subject>Conventions--Philcon 2014, November 21-23</subject>
                                 <genreform source='local'>Personal Schedule</genreform>
                             </controlaccess>
                         </c>
@@ -16948,7 +17151,7 @@
                             <controlaccess>
                                 <persname>Philcon 2014, November 21-23</persname>
                                 <persname>Philcon 2014, November 21-23</persname>
-                                <subject>Convention--Philcon 2014, November 21-23</subject>
+                                <subject>Conventions--Philcon 2014, November 21-23</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -16974,7 +17177,7 @@
                             </did>
                             <controlaccess>
                                 <persname>Philcon 2014, November 21-23</persname>
-                                <subject>Convention--Philcon 2014, November 21-23</subject>
+                                <subject>Conventions--Philcon 2014, November 21-23</subject>
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
                         </c>
@@ -17016,7 +17219,7 @@
                             </did>
                             <controlaccess>
                                 <persname>Philcon 2016</persname>
-                                <subject>Convention--Philcon 2016</subject>
+                                <subject>Conventions--Philcon 2016</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -17043,7 +17246,7 @@
                             <controlaccess>
                                 <persname>Philcon 2016, Nov 18-20, 2016</persname>
                                 <persname>Philcon 2016, Nov 18-20, 2016</persname>
-                                <subject>Convention--Philcon 2016, Nov 18-20, 2016</subject>
+                                <subject>Conventions--Philcon 2016, Nov 18-20, 2016</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -17070,7 +17273,7 @@
                             <controlaccess>
                                 <persname>Philcon 2016, Nov 18-20, 2016</persname>
                                 <persname>Philcon 2016, Nov 18-20, 2016</persname>
-                                <subject>Convention--Philcon 2016, Nov 18-20, 2016</subject>
+                                <subject>Conventions--Philcon 2016, Nov 18-20, 2016</subject>
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
                         </c>
@@ -17098,7 +17301,7 @@
                                 <persname>Philcon, Nov. 19, 2016</persname>
                                 <persname>NA</persname>
                                 <persname>2016</persname>
-                                <subject>Convention--Philcon, Nov. 19, 2016</subject>
+                                <subject>Conventions--Philcon, Nov. 19, 2016</subject>
                                 <genreform source='local'>Newsletter</genreform>
                             </controlaccess>
                         </c>
@@ -17143,7 +17346,7 @@
                                 <persname>Philcon 2017</persname>
                                 <persname>NA</persname>
                                 <persname>Philcon 2017</persname>
-                                <subject>Convention--Philcon 2017</subject>
+                                <subject>Conventions--Philcon 2017</subject>
                                 <genreform source='local'>Slimline program booklet</genreform>
                             </controlaccess>
                         </c>
@@ -17175,7 +17378,7 @@
                                 <persname>Philcon 2017</persname>
                                 <persname>Various</persname>
                                 <persname>Philcon 2017</persname>
-                                <subject>Convention--Philcon 2017</subject>
+                                <subject>Conventions--Philcon 2017</subject>
                                 <genreform source='local'>Color program book</genreform>
                             </controlaccess>
                         </c>
@@ -17201,7 +17404,7 @@
                             </did>
                             <controlaccess>
                                 <persname>Philcon 2017, November 8-10, 2017</persname>
-                                <subject>Convention--Philcon 2017, November 8-10, 2017</subject>
+                                <subject>Conventions--Philcon 2017, November 8-10, 2017</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -17350,7 +17553,6 @@
                         </controlaccess>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Flier with filksong by Benjamin Franklin</unittitle>
@@ -17372,7 +17574,7 @@
                             <controlaccess>
                                 <persname>Milennium Philcon, 2001</persname>
                                 <persname>Milennium Philcon, 2001 flier</persname>
-                                <subject>Convention--Milennium Philcon, 2001</subject>
+                                <subject>Conventions--Milennium Philcon, 2001</subject>
                                 <genreform source='local'>Flier</genreform>
                             </controlaccess>
                         </c04>
@@ -17393,95 +17595,159 @@
                         </controlaccess>
 
 
-                        "<c level='item'> <did> <unittitle>TC2 - Torcon Disc 2 - 08/29 - 08/30/03 Ingrid De Buda, Phil Allcock, Mary Crowell 8/31 Joel Polowin</unittitle>
-                        <unitdate normal='20030801'>1 August 2003</unitdate><abstract><p>Notes: Mini - 001 first box of minidiscs #2</p>
-                      
-
-                            <p>Convention: 61, Torcon: 2003</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><persname>De Buda, Indgrid | Allcock, Phil | Crowell, Mary | Polowin, Joel</persname>
-                            <subject>Convention--61, Torcon: 2003</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>TC 4 - Torcon Disc 4 - 08/30/03 Judith Hayman, Paul Kwinn 08/31/03 Rhodri James</unittitle>
-                        <unitdate normal='20030801'>1 August 2003</unitdate><abstract><p>Notes: Mini - 001 first box of minidiscs #4</p>
-                      
-
-                            <p>Convention: 61, Torcon: 2003</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><persname>Hayman, Judith | Kwinn, Paul | James, Rhodri</persname>
-                            <subject>Convention--61, Torcon: 2003</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>TC 3 - Torcon Disc 3 - 08/30/03 Rosemary Kirstein, Cliff and Carol Flynt w/Ropers, 08/31/03 Mary Miller </unittitle>
-                        <unitdate normal='20030801'>1 August 2003</unitdate><abstract><p>Notes: Mini - 001 first box of minidiscs #3</p>
-                      
-
-                            <p>Convention: 61, Torcon: 2003</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><persname>Kirstein, Rosemary | Flynt, Cliff and Carol w/Roper, Bill and Roper, Gretchen | Miller, Mary</persname>
-                            <subject>Convention--61, Torcon: 2003</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>TC1 - Torcon Disc 1 - 8/28/03 - Spider Robinson Concert 08/31/03 Dick Eney</unittitle>
-                        <unitdate normal='20030801'>1 August 2003</unitdate><abstract><p>Notes: Mini - 001 first box of minidiscs #1</p>
-                      
-
-                            <p>Convention: 61, Torcon: 2003</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><persname>Robinson, Spider | Eney, Dick</persname>
-                            <subject>Convention--61, Torcon: 2003</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>TC 5 - Torcon Disc 5 - 08/30/03 Urban Tapestry 08/31/03 Steve Piziks</unittitle>
-                        <unitdate normal='20030801'>1 August 2003</unitdate><abstract><p>Notes: Mini - 001 first box of minidiscs #5</p>
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>TC2 - Torcon Disc 2 - 08/29 - 08/30/03 Ingrid De Buda, Phil Allcock, Mary
+                                    Crowell 8/31 Joel Polowin
+                                </unittitle>
+                                <unitdate normal='20030801'>1 August 2003</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 001 first box of minidiscs #2</p>
 
 
-                            <p>Convention: 61, Torcon: 2003</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><persname>Urban Tapestry | Piziks, Steve</persname>
-                            <subject>Convention--61, Torcon: 2003</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>Torcon 3 Presents: The Columbia Rememberance and Space Celebration</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Contains lyrics and playlist </p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Songbook</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>16</container>
-                    </did>
-                        <controlaccess><persname>various</persname>
-                            <subject>Convention--61, Torcon: 2003</subject>
-                            <genreform source='local'>Songbook</genreform>
-                        </controlaccess>
-                    </c>"""""
+                                    <p>Convention: 61, Torcon: 2003</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <persname>De Buda, Indgrid | Allcock, Phil | Crowell, Mary | Polowin, Joel</persname>
+                                <subject>Conventions--Worldcon 61, Torcon: 2003</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>TC 4 - Torcon Disc 4 - 08/30/03 Judith Hayman, Paul Kwinn 08/31/03 Rhodri
+                                    James
+                                </unittitle>
+                                <unitdate normal='20030801'>1 August 2003</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 001 first box of minidiscs #4</p>
 
 
+                                    <p>Convention: 61, Torcon: 2003</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Hayman, Judith | Kwinn, Paul | James, Rhodri</persname>
+                                <subject>Conventions--Worldcon 61, Torcon: 2003</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>TC 3 - Torcon Disc 3 - 08/30/03 Rosemary Kirstein, Cliff and Carol Flynt
+                                    w/Ropers, 08/31/03 Mary Miller
+                                </unittitle>
+                                <unitdate normal='20030801'>1 August 2003</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 001 first box of minidiscs #3</p>
+
+
+                                    <p>Convention: 61, Torcon: 2003</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Kirstein, Rosemary | Flynt, Cliff and Carol w/Roper, Bill and Roper, Gretchen
+                                    | Miller, Mary
+                                </persname>
+                                <subject>Conventions--Worldcon 61, Torcon: 2003</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>TC1 - Torcon Disc 1 - 8/28/03 - Spider Robinson Concert 08/31/03 Dick Eney
+                                </unittitle>
+                                <unitdate normal='20030801'>1 August 2003</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 001 first box of minidiscs #1</p>
+
+
+                                    <p>Convention: 61, Torcon: 2003</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Robinson, Spider</persname>
+                                <persname>Eney, Dick</persname>
+                                <subject>Conventions--Worldcon 61, Torcon: 2003</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>TC 5 - Torcon Disc 5 - 08/30/03 Urban Tapestry 08/31/03 Steve Piziks
+                                </unittitle>
+                                <unitdate normal='20030801'>1 August 2003</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 001 first box of minidiscs #5</p>
+
+
+                                    <p>Convention: 61, Torcon: 2003</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Urban Tapestry | Piziks, Steve</persname>
+                                <subject>Conventions--Worldcon 61, Torcon: 2003</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Torcon 3 Presents: The Columbia Rememberance and Space Celebration
+                                </unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Contains lyrics and playlist</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Songbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>16</container>
+                            </did>
+                            <controlaccess>
+                                <persname>various</persname>
+                                <subject>Conventions--Worldcon 61, Torcon: 2003</subject>
+                                <genreform source='local'>Songbook</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
 
 
                     </c03>
@@ -17499,176 +17765,299 @@
                         </controlaccess>
 
 
-
-                        "<c level='item'> <did> <unittitle>LA-1</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 011 eleventh box of minidiscs #1 - paper in the box says LA.con IV, 2006 Discs 1-10 (only six discs in box)</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-2</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 011 eleventh box of minidiscs #2 - paper in the box says LA.con IV, 2006 Discs 1-10 (only six discs in box)</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-3</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 011 eleventh box of minidiscs #3 - paper in the box says LA.con IV, 2006 Discs 1-10 (only six discs in box)</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-4</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 011 eleventh box of minidiscs #4 - paper in the box says LA.con IV, 2006 Discs 1-10 (only six discs in box)</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-5</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 011 eleventh box of minidiscs #5 - paper in the box says LA.con IV, 2006 Discs 1-10 (only six discs in box)</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-6</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 011 eleventh box of minidiscs #6 - paper in the box says LA.con IV, 2006 Discs 1-10 (only six discs in box)</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>L.A. Con IV Volunteer Bag</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Sturdy canvas back printed on the front with a painting of a spaceman and on the back with the con logo</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Swag</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>15</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4</subject>
-                            <genreform source='local'>Swag</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>The Official Manual for Space Cadets</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: ""only slightly associated with L.A.con IV"" cover with frying pan and molecules, spiral bound. It's really a cookbook.</p>
-                      
-
-                            <p>Convention: 64, L.A.Con 4: 2006</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Cookbook</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>16</container>
-                    </did>
-                        <controlaccess><persname>Lembke, Carl</persname>
-                            <subject>Convention--64, L.A.Con 4: 2006</subject>
-                            <genreform source='local'>Cookbook</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-10</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 016 sixteenth box of minidiscs #4</p>
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-1</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 011 eleventh box of minidiscs #1 - paper in the box says LA.con IV,
+                                        2006 Discs 1-10 (only six discs in box)
+                                    </p>
 
 
-                            <p>Convention: 64, L.A.Con 4: 2006</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4: 2006</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-7</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 016 sixteenth box of minidiscs #1</p>
-                      
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-2</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 011 eleventh box of minidiscs #2 - paper in the box says LA.con IV,
+                                        2006 Discs 1-10 (only six discs in box)
+                                    </p>
 
-                            <p>Convention: 64, L.A.Con 4: 2006</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4: 2006</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-8</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 016 sixteenth box of minidiscs #2</p>
-                      
 
-                            <p>Convention: 64, L.A.Con 4: 2006</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4: 2006</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>LA-9</unittitle>
-                        <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 016 sixteenth box of minidiscs #3</p>
-                      
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-3</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 011 eleventh box of minidiscs #3 - paper in the box says LA.con IV,
+                                        2006 Discs 1-10 (only six discs in box)
+                                    </p>
 
-                            <p>Convention: 64, L.A.Con 4: 2006</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>MiniDisc</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>17</container>
-                    </did>
-                        <controlaccess><subject>Convention--64, L.A.Con 4: 2006</subject>
-                            <genreform source='local'>MiniDisc</genreform>
-                        </controlaccess>
-                    </c>"""""
+
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-4</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 011 eleventh box of minidiscs #4 - paper in the box says LA.con IV,
+                                        2006 Discs 1-10 (only six discs in box)
+                                    </p>
+
+
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-5</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 011 eleventh box of minidiscs #5 - paper in the box says LA.con IV,
+                                        2006 Discs 1-10 (only six discs in box)
+                                    </p>
+
+
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-6</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 011 eleventh box of minidiscs #6 - paper in the box says LA.con IV,
+                                        2006 Discs 1-10 (only six discs in box)
+                                    </p>
+
+
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>L.A. Con IV Volunteer Bag</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Sturdy canvas back printed on the front with a painting of a spaceman and
+                                        on the back with the con logo
+                                    </p>
+
+
+                                    <p>Convention: 64, L.A.Con 4</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Swag</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>15</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4</subject>
+                                <genreform source='local'>Swag</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Official Manual for Space Cadets</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: ""only slightly associated with L.A.con IV"" cover with frying pan and
+                                        molecules, spiral bound. It's really a cookbook.
+                                    </p>
+
+
+                                    <p>Convention: 64, L.A.Con 4: 2006</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Cookbook</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>16</container>
+                            </did>
+                            <controlaccess>
+                                <persname>Lembke, Carl</persname>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4: 2006</subject>
+                                <genreform source='local'>Cookbook</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-10</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 016 sixteenth box of minidiscs #4</p>
+
+
+                                    <p>Convention: 64, L.A.Con 4: 2006</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4: 2006</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-7</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 016 sixteenth box of minidiscs #1</p>
+
+
+                                    <p>Convention: 64, L.A.Con 4: 2006</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4: 2006</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-8</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 016 sixteenth box of minidiscs #2</p>
+
+
+                                    <p>Convention: 64, L.A.Con 4: 2006</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4: 2006</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>LA-9</unittitle>
+                                <unitdate normal='2006'>2006</unitdate>
+                                <abstract>
+                                    <p>Notes: Mini - 016 sixteenth box of minidiscs #3</p>
+
+
+                                    <p>Convention: 64, L.A.Con 4: 2006</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>MiniDisc</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>17</container>
+                            </did>
+                            <controlaccess>
+                                <subject>Conventions--Worldcon 64, L.A.Con 4: 2006</subject>
+                                <genreform source='local'>MiniDisc</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
 
                     </c03>
 
@@ -17698,141 +18087,239 @@
                         </controlaccess>
 
 
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Chicon 7</unittitle>
+                                <unitdate normal='2012'>2012</unitdate>
+                                <abstract>
+                                    <p>Notes:</p>
+                                    <p>Origin: Chicon 7, August 30- September 3, 2012</p>
 
-                        "<c level='item'> <did> <unittitle>Chicon 7</unittitle>
-                        <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: </p>
-                            <p>Origin: Chicon 7, August 30- September 3, 2012</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Program Book</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>9</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>Chicon 7, August 30- September 3, 2012</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Program Book</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Chicon 7</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Glossy covered printed booklet</p>
+                                    <p>Origin: Chicon 7</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Program Book</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>9</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>Chicon 7, August 30- September 3, 2012</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Program Book</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>Chicon 7</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Glossy covered printed booklet</p>
-                            <p>Origin: Chicon 7</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Program booklet</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>NA</persname>
+                                <persname>Chicon 7</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Program booklet</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Chicon 7 schedule</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes:</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Program booklet</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>NA</persname>
-                            <persname>Chicon 7</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Program booklet</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>Chicon 7 schedule</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: </p>
-                      
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Schedule</genreform>
-                            <extent>2 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>NA</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Schedule</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>01 Pink Sheet - Thurs (errata)</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Thursday schedule chanes</p>
-                            <p>Origin: Convention operations</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Schedule</genreform>
+                                    <extent>2 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>NA</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Schedule</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>01 Pink Sheet - Thurs (errata)</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Thursday schedule chanes</p>
+                                    <p>Origin: Convention operations</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>Various</persname>
-                            <persname>Convention operations</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>The Write Stuff #1</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Thursday a.m. edition</p>
-                            <p>Origin: Convention operations</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>Various</persname>
+                                <persname>Convention operations</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Write Stuff #1</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Thursday a.m. edition</p>
+                                    <p>Origin: Convention operations</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                            <extent>2 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>Various</persname>
-                            <persname>Convention operations</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>The Write Stuff #5</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Saturday a.m. edition</p>
-                            <p>Origin: Convention operations</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                                    <extent>2 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>Various</persname>
+                                <persname>Convention operations</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Write Stuff #5</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Saturday a.m. edition</p>
+                                    <p>Origin: Convention operations</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>Various</persname>
-                            <persname>Convention operations</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>The Write Stuff #6</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Satuday p.m. edition</p>
-                            <p>Origin: Convention operations</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>Various</persname>
+                                <persname>Convention operations</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Write Stuff #6</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Satuday p.m. edition</p>
+                                    <p>Origin: Convention operations</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Chicon 7</persname></origination> </did>
-                        <controlaccess><persname>Chicon 7</persname>
-                            <persname>Various</persname>
-                            <persname>Convention operations</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
-                        </controlaccess>
-                    </c>"""""
-                        "<c level='item'> <did> <unittitle>Roper/Neely concert at Chicon 7</unittitle>
-                        <unitdate normal=''></unitdate><abstract><p>Notes: Set list: Apology, Healing Man, Candy Tree, Ruins, Too Much Sugar, Empty, Dance by Starlight, Virtual Girl, Dream of Distant Lights, Half Past Eternity, Cruising, Mortal Man, Stuff, Average SCAdian Girl, Happily Ever After</p>
-                            <p>Origin: Roper/Neely</p>
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Chicon 7</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Chicon 7</persname>
+                                <persname>Various</persname>
+                                <persname>Convention operations</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Convention Newsletter - Chicon 7</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Roper/Neely concert at Chicon 7</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Set list: Apology, Healing Man, Candy Tree, Ruins, Too Much Sugar, Empty,
+                                        Dance by Starlight, Virtual Girl, Dream of Distant Lights, Half Past Eternity,
+                                        Cruising, Mortal Man, Stuff, Average SCAdian Girl, Happily Ever After
+                                    </p>
+                                    <p>Origin: Roper/Neely</p>
 
-                            <p>Convention: 70, Chicon 7</p>
-                        </abstract>
-                        <physdesc> <genreform source='local'>Tentative Set List for Chicon 7 </genreform>
-                            <extent>1 copy</extent></physdesc>
-                        <container type='box'>7</container>
-                        <origination label='creator'><persname>Roper, Bill and Neely, Erica</persname></origination> </did>
-                        <controlaccess><persname>Roper, Bill and Neely, Erica</persname>
-                            <persname>Roper, Bill and Neely, Erica</persname>
-                            <persname>Roper/Neely</persname>
-                            <subject>Convention--70, Chicon 7</subject>
-                            <genreform source='local'>Tentative Set List for Chicon 7 </genreform>
-                        </controlaccess>
-                    </c>"""""
+                                    <p>Convention: 70, Chicon 7</p>
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Tentative Set List for Chicon 7</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>7</container>
+                                <origination label='creator'>
+                                    <persname>Roper, Bill and Neely, Erica</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Roper, Bill and Neely, Erica</persname>
+                                <persname>Roper, Bill and Neely, Erica</persname>
+                                <persname>Roper/Neely</persname>
+                                <subject>Conventions--Worldcon 70, Chicon 7</subject>
+                                <genreform source='local'>Tentative Set List for Chicon 7</genreform>
+                            </controlaccess>
+                        </c>
+                        """""
 
                     </c03>
 
@@ -17881,7 +18368,7 @@
                                 </origination>
                             </did>
                             <controlaccess>
-                                <subject>Convention--74, MidAmeriCon II</subject>
+                                <subject>Conventions--Worldcon 74, MidAmeriCon II</subject>
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
                         </c>
@@ -17905,7 +18392,7 @@
                             </did>
                             <controlaccess>
                                 <persname>MidAmeriCon II</persname>
-                                <subject>Convention--74, MidAmeriCon II</subject>
+                                <subject>Conventions--Worldcon 74, MidAmeriCon II</subject>
                                 <genreform source='local'>Progress Report</genreform>
                             </controlaccess>
                         </c>
@@ -17929,7 +18416,7 @@
                             </did>
                             <controlaccess>
                                 <persname>MidAmeriCon II</persname>
-                                <subject>Convention--74, MidAmeriCon II</subject>
+                                <subject>Conventions--Worldcon 74, MidAmeriCon II</subject>
                                 <genreform source='local'>Progress Report</genreform>
                             </controlaccess>
                         </c>
@@ -17952,7 +18439,7 @@
                                 </origination>
                             </did>
                             <controlaccess>
-                                <subject>Convention--74, MidAmeriCon II</subject>
+                                <subject>Conventions--Worldcon 74, MidAmeriCon II</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -17977,7 +18464,7 @@
                             </did>
                             <controlaccess>
                                 <persname>MidAmeriCon II, August 17-21, 2016</persname>
-                                <subject>Convention--74, MidAmeriCon II</subject>
+                                <subject>Conventions--Worldcon 74, MidAmeriCon II</subject>
                                 <genreform source='local'>Pocket Program</genreform>
                             </controlaccess>
                         </c>
@@ -18619,7 +19106,9 @@
                                 <extent>1 copy</extent>
                             </physdesc>
                             <container type='box'>16</container>
-                            <origination label='publisher'><corpname>Off Centaur</corpname></origination>
+                            <origination label='publisher'>
+                                <corpname>Off Centaur</corpname>
+                            </origination>
 
                         </did>
                         <controlaccess>
@@ -18689,12 +19178,14 @@
                                 <extent>1 copy</extent>
                             </physdesc>
                             <container type='box'>14</container>
-                            <origination label='publisher'><corpname>Random Factors</corpname></origination>
+                            <origination label='publisher'>
+                                <corpname>Random Factors</corpname>
+                            </origination>
 
                         </did>
                         <controlaccess>
                             <persname>Random Factors</persname>
-                            <subject>Convention--54, L.A.con III</subject>
+                            <subject>Conventions--Worldcon 54, L.A.con III</subject>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
                     </c>
@@ -18833,7 +19324,10 @@
                                 <genreform source='local'>Catalog</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>16</container>                    <origination label='publisher'><corpname>Firebird Arts & Music</corpname></origination>
+                            <container type='box'>16</container>
+                            <origination label='publisher'>
+                                <corpname>Firebird Arts & Music</corpname>
+                            </origination>
 
                         </did>
                         <controlaccess>
