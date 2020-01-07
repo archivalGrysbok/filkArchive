@@ -15525,6 +15525,7 @@
                     </did>
 
 
+
                     <c03 level='file'>
                         <did>
                             <unittitle>NEFilk 1: ConCerto 1990</unittitle>
@@ -15539,6 +15540,35 @@
                         </controlaccess>
                     </c03>
 
+
+                    "
+                    <c03 level='file'>
+                        <did>
+                            <unittitle>NEFilk 2: Concertino 1992</unittitle>
+                            <unitdate normal='19920619/19920621' datechar='creation' type='inclusive'>19 Jun 1992 to 21 Jun 1992</unitdate>
+                        </did>                     <controlaccess>
+                        <geogname>Woburn, MA</geogname>
+                    </controlaccess>
+
+
+
+
+                    "<c level='item'> <did> <unittitle>Program book</unittitle>
+                    <unitdate normal='1992'>1992</unitdate><abstract><p>Notes: Blue cover, spiral bound</p>
+                        <p>Origin: NEFilk </p>
+
+                        <p>Convention: NEFilk 2: Concertino 1992</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Songbook|Program Book</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>NEFilk </persname>
+                        <subject>Convention--NEFilk 2: Concertino 1992</subject>
+                        <genreform source='local'>Songbook|Program Book</genreform>
+                    </controlaccess>
+                </c>"
+                    </c03>
 
                     <c03 level='file'>
                         <did>
@@ -15720,14 +15750,41 @@
                             <subject>Conventions--NEFilk 13: ConCertino '03</subject>
                             <subject>NEFilk</subject>
                         </controlaccess>
-                    </c03>
 
 
-                    <c03 level='file' id="NEFilk13">
-                        <did>
-                            <unittitle>NEFilk 13: ConCertino '03</unittitle>
-                            <unitdate>2004</unitdate>
-                        </did>
+                        "<c level='item'> <did> <unittitle>Copyright Challenged</unittitle>
+                        <unitdate normal='2003'>2003</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Concertino 2003</p>
+
+                            <p>Convention: NEFilk 13: ConCertino '03</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Premium CD</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #3</container>
+                        <origination label='creator'><persname>ConCertino '03 The 13th Northeast Filk Convention (NEFilk before it was called NEFilk)</persname></origination> </did>
+                        <controlaccess><persname>ConCertino '03 The 13th Northeast Filk Convention (NEFilk before it was called NEFilk)</persname>
+                            <persname>Various</persname>
+                            <persname>Concertino 2003</persname>
+                            <subject>Convention--NEFilk 13: ConCertino '03</subject>
+                            <genreform source='local'>Premium CD</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>The Scared Harp: Choral arrangements of filk songs</unittitle>
+                        <unitdate normal='2003'>2003</unitdate><abstract><p>Notes: First printing, #57/100</p>
+                            <p>Origin: www.mewsic.com/TheScaredHarp</p>
+
+                            <p>Convention: NEFilk 13: ConCertino '03</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Songbook</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #13</container>
+                    </did>
+                        <controlaccess><persname>Stauff, Ed</persname>
+                            <persname>www.mewsic.com/TheScaredHarp</persname>
+                            <subject>Convention--NEFilk 13: ConCertino '03</subject>
+                            <genreform source='local'>Songbook</genreform>
+                        </controlaccess>
+                    </c>"
 
 
                         <c level='item'>
@@ -15980,6 +16037,57 @@
                             </controlaccess>
                         </c>
 
+                        "<c level='item'> <did> <unittitle>Eclectic </unittitle>
+                        <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: Live tracks recorded at our Club Passim concert plus new studio recordings</p>
+                            <p>Origin: Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</p>
+
+                            <p>Convention: NEFilk 19: ConCertino 2009 </p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Commercial CD</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #6</container>
+                        <origination label='creator'><persname>Sassafras</persname></origination><origination label='contributer'><persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname></origination> </did>
+                        <controlaccess><persname>Sassafras</persname>
+                            <persname>Sassafrass</persname>
+                            <persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname>
+                            <persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname><subject>Convention--NEFilk 19: ConCertino 2009 </subject>
+                            <genreform source='local'>Commercial CD</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>CD liner notes and cover for Come Filking with handwritten arrows</unittitle>
+                        <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: Probably annotated for which way to feed the printer</p>
+                            <p>Origin: Floating Filk Studios</p>
+
+                            <p>Convention: NEFilk 19: ConCertino 2009 </p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Original art</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Concertino 2009</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                        <controlaccess><persname>Concertino 2009</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <subject>Convention--NEFilk 19: ConCertino 2009 </subject>
+                            <genreform source='local'>Original art</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Come Filking</unittitle>
+                        <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Premium CD</p>
+
+                            <p>Convention: NEFilk 19: ConCertino 2009 </p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Premium CD</genreform>
+                            <extent>2 copy</extent></physdesc>
+                        <container type='box'>Box #1</container>
+                        <origination label='creator'><persname>ConCertino 2009 </persname></origination> </did>
+                        <controlaccess><persname>ConCertino 2009 </persname>
+                            <persname>Various</persname>
+                            <persname>Premium CD</persname>
+                            <subject>Convention--NEFilk 19: ConCertino 2009 </subject>
+                            <genreform source='local'>Premium CD</genreform>
+                        </controlaccess>
+                    </c>"
                     </c03>
 
 
@@ -16130,6 +16238,64 @@
 
                     </c03>
 
+
+                    "
+                    <c03 level='file'>
+                        <did>
+                            <unittitle>NEFilk 22: ConCertino 2012</unittitle>
+                            <unitdate normal='20120629/20120701' datechar='creation' type='inclusive'>29 Jun 2012 to 01 Jul 2012</unitdate>
+                        </did>                     <controlaccess>
+                        <geogname>Boxborough, MA</geogname><subject>Conventions--NEFilk 22: ConCertino 2012</subject><subject>NEFilk</subject>
+                    </controlaccess>
+                    "<c level='item'> <did> <unittitle>MASSFILC logo postcard</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Vampire note on staff logo ""A Sharp Note"" by Virginia Taylor</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NEFilk 22: ConCertino 2012</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Postcard</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #8</container>
+                    <origination label='creator'><persname>Concertino 2012</persname></origination> </did>
+                    <controlaccess><persname>Concertino 2012</persname>
+                        <subject>Convention--NEFilk 22: ConCertino 2012</subject>
+                        <genreform source='local'>Postcard</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>NEFilk logo postcard</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: NEFilk Logo by Matt Leger</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NEFilk 22: ConCertino 2012</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Postcard</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #8</container>
+                    <origination label='creator'><persname>Concertino 2012</persname></origination> </did>
+                    <controlaccess><persname>Concertino 2012</persname>
+                        <subject>Convention--NEFilk 22: ConCertino 2012</subject>
+                        <genreform source='local'>Postcard</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Window on Time</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Handwritten corrections on item. Art by Ariel Cinii</p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NEFilk 22: ConCertino 2012</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>CD insert</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>ConCertino 2012</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>ConCertino 2012</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NEFilk 22: ConCertino 2012</subject>
+                        <genreform source='local'>CD insert</genreform>
+                    </controlaccess>
+                </c>"
+                    </c03>"
 
                     <c03 level='file' id="NEFilk24">
                         <did>
@@ -16423,6 +16589,107 @@
 
                     "
                     """""
+
+                    "
+                    <c03 level='file'>
+                        <did>
+                            <unittitle>NEFilk 25: Concertino 2015</unittitle>
+                            <unitdate normal='20150619/20150621' datechar='creation' type='inclusive'>19 Jun 2015 to 21 Jun 2015</unitdate>
+                        </did>                     <controlaccess>
+                        <geogname>Boxborough, MA</geogname><subject>Conventions--NEFilk 25: Concertino 2015</subject><subject>NEFilk</subject>
+                    </controlaccess>
+
+
+
+
+                    "<c level='item'> <did> <unittitle>Concertino 2015</unittitle>
+                    <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: 2 pages of small type, with a flier on of the four surfaces</p>
+                        <p>Origin: Concertino 2015</p>
+
+                        <p>Convention: NEFilk 25: Concertino 2015</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Progress report / flier</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Concertino 2015</persname></origination> </did>
+                    <controlaccess><persname>Concertino 2015</persname>
+                        <persname>Concertino 2015</persname>
+                        <subject>Convention--NEFilk 25: Concertino 2015</subject>
+                        <genreform source='local'>Progress report / flier</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Concertino 2015 Songbook</unittitle>
+                    <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Spiral bound book, white cover with yowling cat and mouse</p>
+                        <p>Origin: Concertino 2015</p>
+
+                        <p>Convention: NEFilk 25: Concertino 2015</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Concertino 2015</persname></origination> </did>
+                    <controlaccess><persname>Concertino 2015</persname>
+                        <persname>Concertino 2015</persname>
+                        <subject>Convention--NEFilk 25: Concertino 2015</subject>
+                        <genreform source='local'>Songbook</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Contertino 2015, Pocket Program</unittitle>
+                    <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Double sided on white paper</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NEFilk 25: Concertino 2015</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Pocket Program</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #8</container>
+                    <origination label='creator'><persname>Concertino 2015</persname></origination> </did>
+                    <controlaccess><persname>Concertino 2015</persname>
+                        <subject>Convention--NEFilk 25: Concertino 2015</subject>
+                        <genreform source='local'>Pocket Program</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Journeys</unittitle>
+                    <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Cover art + Liner notes</p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NEFilk 25: Concertino 2015</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>CD insert</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>NEFilk 25: Concertino 2015</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>NEFilk 25: Concertino 2015</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NEFilk 25: Concertino 2015</subject>
+                        <genreform source='local'>CD insert</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Journeys</unittitle>
+                    <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Cover art + Liner notes</p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NEFilk 25: Concertino 2015</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Premium CD</genreform>
+                        <extent>17 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>NEFilk 25: Concertino 2015</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>NEFilk 25: Concertino 2015</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NEFilk 25: Concertino 2015</subject>
+                        <genreform source='local'>Premium CD</genreform>
+                    </controlaccess>
+                </c>"
+
+
+
+
+                    </c03>"
 
                     <c02 level="'file">
                         <did>
@@ -16770,6 +17037,100 @@
                             <subject>Conventions--NEFilk 28: Concertino 2018</subject>
                             <subject>NEFilk</subject>
                         </controlaccess>
+
+
+
+                        "<c level='item'> <did> <unittitle>Nine pages of download codes</unittitle>
+                        <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: Why did you make so many, Harold?</p>
+                            <p>Origin: Floating Filk Studios</p>
+
+                            <p>Convention: NEFilk 28: Concertino 2018</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Download codes for Sing in the Circle</genreform>
+                            <extent>9 copy</extent></physdesc>
+                        <container type='box'>Box #7</container>
+                        <origination label='creator'><persname>Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                        <controlaccess><persname>Concertino 2018</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <persname>NA</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <subject>Convention--NEFilk 28: Concertino 2018</subject>
+                            <genreform source='local'>Download codes for Sing in the Circle</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>CD inserts for Sing in the Circle</unittitle>
+                        <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: Many unused inserts for Sing in the Circle</p>
+                            <p>Origin: Floating Filk Studios</p>
+
+                            <p>Convention: NEFilk 28: Concertino 2018</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>CD inserts</genreform>
+                            <extent>14 copy</extent></physdesc>
+                        <container type='box'>Box #7</container>
+                        <origination label='creator'><persname>Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                        <controlaccess><persname>Concertino 2018</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <persname>Various</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <subject>Convention--NEFilk 28: Concertino 2018</subject>
+                            <genreform source='local'>CD inserts</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Sing in the Circle</unittitle>
+                        <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Floating Filk Studios</p>
+
+                            <p>Convention: NEFilk 28: Concertino 2018</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Premium CD</genreform>
+                            <extent>2 copy</extent></physdesc>
+                        <container type='box'>Box #1</container>
+                        <origination label='creator'><persname>NEFilk 28: Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                        <controlaccess><persname>NEFilk 28: Concertino 2018</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <persname>Various</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <subject>Convention--NEFilk 28: Concertino 2018</subject>
+                            <genreform source='local'>Premium CD</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Sing in the Circle</unittitle>
+                        <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Floating Filk Studios</p>
+
+                            <p>Convention: NEFilk 28: Concertino 2018</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Premium CD</genreform>
+                            <extent>25 copy</extent></physdesc>
+                        <container type='box'>Box #1</container>
+                        <origination label='creator'><persname>NEFilk 28: Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                        <controlaccess><persname>NEFilk 28: Concertino 2018</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <persname>Various</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <subject>Convention--NEFilk 28: Concertino 2018</subject>
+                            <genreform source='local'>Premium CD</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Sing in the Circle</unittitle>
+                        <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Floating Filk Studios</p>
+
+                            <p>Convention: NEFilk 28: Concertino 2018</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Premium CD</genreform>
+                            <extent>13 copy</extent></physdesc>
+                        <container type='box'>Box #2</container>
+                        <origination label='creator'><persname>NEFilk 28: Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                        <controlaccess><persname>NEFilk 28: Concertino 2018</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <persname>Various</persname>
+                            <persname>Floating Filk Studios</persname>
+                            <subject>Convention--NEFilk 28: Concertino 2018</subject>
+                            <genreform source='local'>Premium CD</genreform>
+                        </controlaccess>
+                    </c>"
+
 
                         <c03 level='item'>
                             <did>
