@@ -11827,6 +11827,8 @@
                     <did>
                         <unittitle>Boskone</unittitle>
                     </did>
+
+
                     <c03 level='file'>
                         <did>
                             <unittitle>Boskone 14</unittitle>
@@ -11838,6 +11840,29 @@
                         <controlaccess>
 
                         </controlaccess>
+
+
+
+
+                        "<c level='item'> <did> <unittitle>The Boskone 14 Filkson Supplement to the NESFA Hymnal</unittitle>
+                        <unitdate normal='1977'>1977</unitdate><abstract><p>Notes: Orangy cover with a multi-armed alien at the MIT post office.</p>
+                            <p>Origin: NESFA, Inc.</p>
+
+                            <p>Convention: Boskone 14</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Songbook</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #2</container>
+                        <origination label='creator'><persname>Boskone 14, 1977</persname></origination><origination label='contributer'><persname>NESFA, Inc.</persname></origination> </did>
+                        <controlaccess><persname>Boskone 14, 1977</persname>
+                            <persname>Various</persname>
+                            <persname>NESFA, Inc.</persname>
+                            <persname>NESFA, Inc.</persname><subject>Convention--Boskone 14</subject>
+                            <genreform source='local'>Songbook</genreform>
+                        </controlaccess>
+                    </c>"
+
+
                     </c03>
 
                     <c03 level='file'>
@@ -11851,7 +11876,105 @@
                         <controlaccess>
 
                         </controlaccess>
+
+
+
+                        "<c level='item'> <did> <unittitle>Boskone 45 Program book</unittitle>
+                        <unitdate normal='2008'>2008</unitdate><abstract><p>Notes: White booklet</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 45</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Program booklet</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #7</container>
+                        <origination label='creator'><persname>Boskone 45, February 15-17, 2008</persname></origination> </did>
+                        <controlaccess><persname>Boskone 45, February 15-17, 2008</persname>
+                            <persname>NA</persname>
+                            <subject>Convention--Boskone 45</subject>
+                            <genreform source='local'>Program booklet</genreform>
+                        </controlaccess>
+                    </c>"
+
                     </c03>
+
+
+                    <c03 level="'file">
+                        <did><unittitle>Boskone 49</unittitle><unitdate>2012</unitdate></did>
+
+                        "<c level='item'> <did> <unittitle>Gary McGath schedule for Boskone 49</unittitle>
+                        <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: White single sided page</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 49: 2012</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Convention Documents</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--Boskone 49: 2012</subject>
+                            <genreform source='local'>Convention Documents</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Helmuth: Speaking for Boskone 49 #2</unittitle>
+                        <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Blue paper, double sided</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 49: 2012</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--Boskone 49: 2012</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Helmuth: Speaking for Boskone 49, #1</unittitle>
+                        <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Yellow paper, double sided</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 49: 2012</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--Boskone 49: 2012</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Moderator guide</unittitle>
+                        <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: White single sided page</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 49: 2012</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Convention Documents</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--Boskone 49: 2012</subject>
+                            <genreform source='local'>Convention Documents</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Welcome to Boskone 49 - Program participant welcome</unittitle>
+                        <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: White single sided page</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 49: 2012</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Convention Documents</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--Boskone 49: 2012</subject>
+                            <genreform source='local'>Convention Documents</genreform>
+                        </controlaccess>
+                    </c>"
+                    </c03>
+
+
 
                     <c03 level='file'>
                         <did>
@@ -11864,9 +11987,75 @@
                         <controlaccess>
 
                         </controlaccess>
+
+
+
+                        "<c level='item'> <did> <unittitle>Helmuth newsletter, Volume 51, issue 1</unittitle>
+                        <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Friday edition</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 51: 2014</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
+                        <controlaccess><persname>Boskone 51, 2014</persname>
+                            <subject>Convention--Boskone 51: 2014</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Helmuth newsletter, Volume 51, issue 2</unittitle>
+                        <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Satuday edition</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 51: 2014</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
+                        <controlaccess><persname>Boskone 51, 2014</persname>
+                            <subject>Convention--Boskone 51: 2014</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Helmuth newsletter, Volume 51, issue 3</unittitle>
+                        <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Saturday night edition</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 51: 2014</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
+                        <controlaccess><persname>Boskone 51, 2014</persname>
+                            <subject>Convention--Boskone 51: 2014</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Helmuth newsletter, Volume 51, issue 4</unittitle>
+                        <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Sunday edition</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone 51: 2014</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
+                        <controlaccess><persname>Boskone 51, 2014</persname>
+                            <subject>Convention--Boskone 51: 2014</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+
+
+
                     </c03>
 
-                    <c03 level='file'>
+                    <c03 level='file' id="Boskone52">
                         <did>
                             <unittitle>Boskone 52</unittitle>
                             <unitdate normal='20150213/20150215' datechar='creation' type='inclusive'>13 Feb 2015 to 15
@@ -11877,16 +12066,88 @@
                         <controlaccess>
 
                         </controlaccess>
+
+                        "<c level='item'> <did> <unittitle>Boskone 52 Program Book</unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: February 13-15, 2015</p>
+
+                            <p>Convention: Boskone 52</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Program Book</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 52</persname></origination> </did>
+                        <controlaccess><persname>Boskone 52</persname>
+                            <persname>February 13-15, 2015</persname>
+                            <subject>Convention--Boskone 52</subject>
+                            <genreform source='local'>Program Book</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Helmuth newsletter, Volume 52, issue 4</unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Sunday edition</p>
+                            <p>Origin: February 13-15, 2015</p>
+
+                            <p>Convention: Boskone 52</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Newsletter</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 52</persname></origination> </did>
+                        <controlaccess><persname>Boskone 52</persname>
+                            <persname>February 13-15, 2015</persname>
+                            <subject>Convention--Boskone 52</subject>
+                            <genreform source='local'>Newsletter</genreform>
+                        </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Boskone 52 </unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Boskone 52, February 13-15, 2015</p>
+
+                            <p>Convention: Boskone 52</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Program Book</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone 52, February 13-15, 2015</persname></origination> </did>
+                        <controlaccess><persname>Boskone 52, February 13-15, 2015</persname>
+                            <persname>Boskone 52, February 13-15, 2015</persname>
+                            <subject>Convention--Boskone 52</subject>
+                            <genreform source='local'>Program Book</genreform>
+                        </controlaccess>
+                    </c>"
                     </c03>
 
                     <c03 level='file'>
                         <did>
-                            <unittitle>Boskone, February 15</unittitle>
+                            <unittitle>Boskone</unittitle>
+                            <unitddate>unknown date</unitddate>
                         </did>
                         <controlaccess>
 
                         </controlaccess>
+
+                        "<c level='item'> <did> <unittitle>Boskone Saturday Night</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: Featuring filkers, Sassafrass, Bill Roper, Lady Mondegreen</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Boskone, February 15</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Program</genreform>
+                            <extent>2 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Boskone, February 15</persname></origination> </did>
+                        <controlaccess><persname>Boskone, February 15</persname>
+                            <subject>Convention--Boskone, February 15</subject>
+                            <genreform source='local'>Program</genreform>
+                        </controlaccess>
+                    </c>"
+
                     </c03>
+
+
+
+
+
                 </c02>
                 <c02 level='file' id='British Filk Convention'>
                     <did>
