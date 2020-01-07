@@ -13976,6 +13976,120 @@
                         </controlaccess>
                     </c03>
                 </c02>
+
+
+                "</c02><c02 level='file' id='DragonCon'><did><unittitle>DragonCon</unittitle></did>
+            <c02 level='file'>
+                <did>
+                    <unittitle>DragonCon 2006</unittitle>
+                    <unitdate normal='20060901/20060904' datechar='creation' type='inclusive'>01 Sep 2006 to 04 Sep 2006</unitdate>
+                </did>                     <controlaccess>
+
+            </controlaccess>
+
+                "<c level='item'> <did> <unittitle>DC-1 DragonCon 2006 - Disc 1</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 012 twelvth box of minidiscs #1</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+                "<c level='item'> <did> <unittitle>DC-2 DragonCon 2006 - Disc 2</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 012 twelvth box of minidiscs #2</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+                "<c level='item'> <did> <unittitle>DC-3 DragonCon 2006 - Disc 3</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 012 twelvth box of minidiscs #3</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+                "<c level='item'> <did> <unittitle>DC-4 DragonCon 2006 - Disc 4</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 012 twelvth box of minidiscs #4</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+                "<c level='item'> <did> <unittitle>DC-5 DragonCon 2006 - Disc 5</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 012 twelvth box of minidiscs #5</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+                "<c level='item'> <did> <unittitle>DC-6 DragonCon 2006 - Disc 6</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Mini - 012 twelvth box of minidiscs #6</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+                "<c level='item'> <did> <unittitle>DC-7 DragonCon 2006 Disk 7</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Loose in box</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: DragonCon 2006</p>
+                </abstract>
+                <physdesc> <genreform source='local'>MiniDisc</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #17</container>
+            </did>
+                <controlaccess><subject>Convention--DragonCon 2006</subject>
+                    <genreform source='local'>MiniDisc</genreform>
+                </controlaccess>
+            </c>"
+
+            </c02>"
+
+
+
                 <c02 level='file' id='Duckcon'>
                     <did>
                         <unittitle>Duckcon</unittitle>
@@ -16716,31 +16830,223 @@
                     <did>
                         <unittitle>NASFic</unittitle>
                     </did>
+                    <abstract>NASFic occurs in years when WorldCon is held outside North America to 08 Aug 2010</abstract>
                     <c03 level='file'>
                         <did>
                             <unittitle>NASFic 10: Reconstruction</unittitle>
-                            <unitdate normal='20100805/20100808' datechar='creation' type='inclusive'>05 Aug 2010NASFic
-                                occurs in years when WorldCon is held outside North America to 08 Aug 2010
-                            </unitdate>
+                            <unitdate normal='20100805/20100808' datechar='creation' type='inclusive'>05 Aug 2010                           </unitdate>
                         </did>
                         <controlaccess>
                             <geogname>Raleigh, NC</geogname>
                         </controlaccess>
-                    </c03>
 
-                    <c03 level='file'>
-                        <did>
-                            <unittitle>Detcon 1</unittitle>
-                            <unitdate normal='20140717/20140720' datechar='creation' type='inclusive'>17 Jul 2014 to 20
-                                Jul
-                                2014
-                            </unitdate>
-                        </did>
-                        <controlaccess>
 
+                        "<c level='item'> <did> <unittitle>Reconstruction Pocket Program</unittitle>
+                        <unitdate normal='2010'>2010</unitdate><abstract><p>Notes: Robot with lost hand cover. Pamphlet style. Staple bound</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: NASFic 10: Reconstruction: 2010</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Pocket program</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--NASFic 10: Reconstruction: 2010</subject>
+                            <genreform source='local'>Pocket program</genreform>
                         </controlaccess>
+                    </c>"
+                        "<c level='item'> <did> <unittitle>Reconstruction Pocket Program</unittitle>
+                        <unitdate normal='2010'>2010</unitdate><abstract><p>Notes: Robot with lost hand cover. Pamphlet style. Staple bound</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: NASFic 10: Reconstruction: 2010</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Pocket program</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><subject>Convention--NASFic 10: Reconstruction: 2010</subject>
+                            <genreform source='local'>Pocket program</genreform>
+                        </controlaccess>
+                    </c>"
+
+
                     </c03>
+
+
+                <c03 level='file'>
+                    <did>
+                        <unittitle>NASFIC 11: Detcon 1</unittitle>
+                        <unitdate normal='20140717/20140720' datechar='creation' type='inclusive'>17 Jul 2014 to 20 Jul 2014</unitdate>
+                    </did>                     <controlaccess>
+<geogname>Detroit, Michigan</geogname>
+                </controlaccess>
+
+                    "<c level='item'> <did> <unittitle>DetCon 2014 Setlist for the band Cheshire Moon</unittitle>
+                    <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Acoustic set: Out of the Light, Disenchanted, Cuatro: Critters, DADGAG: Widow's Garden, Snow White, Red Road, Masters of Library Science</p>
+                        <p>Origin: Eric and Lizzie</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Set list </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Cheshire Moon</persname></origination> </did>
+                    <controlaccess><persname>Cheshire Moon</persname>
+                        <persname>Cheshire Moon</persname>
+                        <persname>Eric and Lizzie</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Set list </genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>InterConBustion the 11th Occasional NASFIC - Newsletter of Detcon 1</unittitle>
+                    <unitdate normal='20140717'>17 July 2014</unitdate><abstract><p>Notes: Daily convention newsletter, morning edition</p>
+                        <p>Origin: 41837</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Newsletter</genreform>
+                        <extent>2 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <persname>41837</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Newsletter</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle></unittitle>
+                    <unitdate normal='20140717'>17 July 2014</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: 41837</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Programming updates</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <persname>41837</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Programming updates</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>InterConBustion the 11th Occasional NASFIC - Newsletter of Detcon 1</unittitle>
+                    <unitdate normal='20140718'>18 July 2014</unitdate><abstract><p>Notes: Daily convention newsletter, morning edition</p>
+                        <p>Origin: 41838</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Newsletter</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <persname>41838</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Newsletter</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>InterConBustion the 11th Occasional NASFIC - Newsletter of Detcon 1</unittitle>
+                    <unitdate normal='20140719'>19 July 2014</unitdate><abstract><p>Notes: Daily convention newsletter, evening edition</p>
+                        <p>Origin: 41839</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Newsletter</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <persname>41839</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Newsletter</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>InterConBustion the 11th Occasional NASFIC - Newsletter of Detcon 1</unittitle>
+                    <unitdate normal='20140720'>20 July 2014</unitdate><abstract><p>Notes: Daily convention newsletter</p>
+                        <p>Origin: 41840</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Newsletter</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <persname>41840</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Newsletter</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Detcon 1</unittitle>
+                    <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Updates to programing from Friday of the con</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Programming updates</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Programming updates</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Detcon 1 Program Book</unittitle>
+                    <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Glossy program book</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Program Book</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Program Book</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Detcon 1 Restaurant Guide</unittitle>
+                    <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Restaurant Guide</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Detcon 1</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Restaurant Guide</genreform>
+                    </controlaccess>
+                </c>"
+                    "<c level='item'> <did> <unittitle>Detcon 1 </unittitle>
+                    <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: White pocket format</p>
+                        <p>Origin: Detcon 1, July 17 - July 20</p>
+
+                        <p>Convention: NASFIC 11: Detcon 1</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Pocket Program</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #8</container>
+                    <origination label='creator'><persname>Detcon 1, July 17 - July 20</persname></origination> </did>
+                    <controlaccess><persname>Detcon 1, July 17 - July 20</persname>
+                        <persname>Detcon 1, July 17 - July 20</persname>
+                        <subject>Convention--NASFIC 11: Detcon 1</subject>
+                        <genreform source='local'>Pocket Program</genreform>
+                    </controlaccess>
+                </c>"
+
+
+
+                </c03>
                 </c02>
+
+
                 <c02 level='file' id='NEFilk'>
                     <did>
                         <unittitle>NEFilk</unittitle>
