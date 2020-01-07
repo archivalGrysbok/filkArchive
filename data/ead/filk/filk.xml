@@ -1598,7 +1598,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #2</container>
+                            <container type='box'>2</container>
                             <origination label='creator'>
                                 <persname>Rogow, Roberta</persname>
                             </origination>
@@ -1627,7 +1627,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #2</container>
+                            <container type='box'>2</container>
                             <origination label='creator'>
                                 <persname>Rogow, Roberta</persname>
                             </origination>
@@ -1660,7 +1660,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #15</container>
+                            <container type='box'>15</container>
                         </did>
                         <controlaccess>
                             <persname>Rogow, Roberta</persname>
@@ -1685,7 +1685,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #16</container>
+                            <container type='box'>16</container>
                         </did>
                         <controlaccess>
                             <persname>Rogow, Roberta</persname>
@@ -1711,7 +1711,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #2</container>
+                            <container type='box'>2</container>
                             <origination label='publisher'>
                                 <persname>Gerds, Eric</persname>
                             </origination>
@@ -1742,7 +1742,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #2</container>
+                            <container type='box'>2</container>
                             <origination label='publisher'>
                                 <persname>CHASFANS</persname>
                             </origination>
@@ -1773,7 +1773,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #2</container>
+                            <container type='box'>2</container>
                             <origination label='publisher'>
                                 <persname>CHASFANS</persname>
                             </origination>
@@ -1804,7 +1804,7 @@
                                 <genreform source='local'>Fanzine / Songbook</genreform>
                                 <extent>1 copy</extent>
                             </physdesc>
-                            <container type='box'>Box #2</container>
+                            <container type='box'>2</container>
                             <origination label='publisher'>
                                 <persname>CHASFANS</persname>
                             </origination>
@@ -4209,7 +4209,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Sheet music</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #2</container>
+                        <container type='box'>2</container>
                         <origination label='creator'><persname>McQuillan, Cynthia</persname></origination> </did>
                         <controlaccess><persname>McQuillan, Cynthia</persname>
                             <persname>McQuillan, Cynthia</persname>
@@ -4226,7 +4226,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Sheet music</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #2</container>
+                        <container type='box'>2</container>
                         <origination label='creator'><persname>McQuillan, Cynthia</persname></origination><origination label='publisher'><persname>Singer in the Shadow (possibly from a songbook)</persname></origination> </did>
                         <controlaccess><persname>McQuillan, Cynthia</persname>
                             <persname>Singer in the Shadow (possibly from a songbook)</persname>
@@ -4244,7 +4244,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Sheet music</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #2</container>
+                        <container type='box'>2</container>
                         <origination label='creator'><persname>McQuillan, Cynthia</persname></origination><origination label='publisher'><persname>Singer in the Shadow (possibly from a songbook)</persname></origination> </did>
                         <controlaccess><persname>McQuillan, Cynthia</persname>
                             <persname>Singer in the Shadow (possibly from a songbook)</persname>
@@ -4262,7 +4262,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Sheet music</genreform>
                             <extent>2 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Osborne, Gary and Vigrass, Paul, Music by Jeff Wayne</persname></origination> </did>
                         <controlaccess><persname>Osborne, Gary and Vigrass, Paul, Music by Jeff Wayne</persname>
                             <persname>Osborne, Gary and Vigrass, Paul, Music by Jeff Wayne</persname>
@@ -4278,7 +4278,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Sheet music</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #16</container>
+                        <container type='box'>16</container>
                     </did>
                         <controlaccess><persname>Rogow, Roberta</persname>
 
@@ -4293,7 +4293,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Sheet Music</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #10</container>
+                        <container type='box'>10</container>
                     </did>
                         <controlaccess><persname>Cover page of Science News</persname>
 
@@ -4310,7 +4310,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #13</container>
+                    <container type='box'>13</container>
                 </did>
                     <controlaccess><persname>Chamberlain, Ed</persname>
 
@@ -4325,7 +4325,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess><persname>McConnell, Dave</persname>
 
@@ -4340,7 +4340,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #14</container>
+                    <container type='box'>14</container>
                 </did>
                     <controlaccess><persname>McGuire, Seanan</persname>
                         <persname>SeananMcGuire.com</persname>
@@ -4356,7 +4356,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess><persname>Rogow, Roberta</persname>
 
@@ -4371,7 +4371,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess><persname>Ross, Andrew</persname>
 
@@ -4386,7 +4386,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess><persname>Savitzky, Stephen</persname>
 
@@ -4401,7 +4401,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
+                    <container type='box'>2</container>
                     <origination label='creator'><persname>Cox, Glen T. and Little, Jim</persname></origination> </did>
                     <controlaccess><persname>Cox, Glen T. and Little, Jim</persname>
                         <persname>Various</persname>
@@ -4418,7 +4418,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
+                    <container type='box'>2</container>
                     <origination label='creator'><persname>Cox Michele</persname></origination> </did>
                     <controlaccess><persname>Cox Michele</persname>
                         <persname>Various</persname>
@@ -4435,7 +4435,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #15</container>
+                    <container type='box'>15</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4449,7 +4449,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #13</container>
+                    <container type='box'>13</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4463,7 +4463,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4477,7 +4477,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #14</container>
+                    <container type='box'>14</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4491,7 +4491,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4505,7 +4505,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4519,7 +4519,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #14</container>
+                    <container type='box'>14</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4533,7 +4533,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #16</container>
+                    <container type='box'>16</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4547,7 +4547,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #14</container>
+                    <container type='box'>14</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -4561,7 +4561,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songsheet</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #14</container>
+                    <container type='box'>14</container>
                 </did>
                     <controlaccess>
                         <genreform source='local'>Songsheet</genreform>
@@ -11852,7 +11852,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Songbook</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #2</container>
+                        <container type='box'>2</container>
                         <origination label='creator'><persname>Boskone 14, 1977</persname></origination><origination label='contributer'><persname>NESFA, Inc.</persname></origination> </did>
                         <controlaccess><persname>Boskone 14, 1977</persname>
                             <persname>Various</persname>
@@ -11887,7 +11887,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Program booklet</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #7</container>
+                        <container type='box'>7</container>
                         <origination label='creator'><persname>Boskone 45, February 15-17, 2008</persname></origination> </did>
                         <controlaccess><persname>Boskone 45, February 15-17, 2008</persname>
                             <persname>NA</persname>
@@ -11910,7 +11910,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Convention Documents</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #14</container>
+                        <container type='box'>14</container>
                     </did>
                         <controlaccess><subject>Convention--Boskone 49: 2012</subject>
                             <genreform source='local'>Convention Documents</genreform>
@@ -11924,7 +11924,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #14</container>
+                        <container type='box'>14</container>
                     </did>
                         <controlaccess><subject>Convention--Boskone 49: 2012</subject>
                             <genreform source='local'>Newsletter</genreform>
@@ -11938,7 +11938,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #14</container>
+                        <container type='box'>14</container>
                     </did>
                         <controlaccess><subject>Convention--Boskone 49: 2012</subject>
                             <genreform source='local'>Newsletter</genreform>
@@ -11952,7 +11952,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Convention Documents</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #14</container>
+                        <container type='box'>14</container>
                     </did>
                         <controlaccess><subject>Convention--Boskone 49: 2012</subject>
                             <genreform source='local'>Convention Documents</genreform>
@@ -11966,7 +11966,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Convention Documents</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #14</container>
+                        <container type='box'>14</container>
                     </did>
                         <controlaccess><subject>Convention--Boskone 49: 2012</subject>
                             <genreform source='local'>Convention Documents</genreform>
@@ -11998,7 +11998,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
                         <controlaccess><persname>Boskone 51, 2014</persname>
                             <subject>Convention--Boskone 51: 2014</subject>
@@ -12013,7 +12013,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
                         <controlaccess><persname>Boskone 51, 2014</persname>
                             <subject>Convention--Boskone 51: 2014</subject>
@@ -12028,7 +12028,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
                         <controlaccess><persname>Boskone 51, 2014</persname>
                             <subject>Convention--Boskone 51: 2014</subject>
@@ -12043,7 +12043,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 51, 2014</persname></origination> </did>
                         <controlaccess><persname>Boskone 51, 2014</persname>
                             <subject>Convention--Boskone 51: 2014</subject>
@@ -12075,7 +12075,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Program Book</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 52</persname></origination> </did>
                         <controlaccess><persname>Boskone 52</persname>
                             <persname>February 13-15, 2015</persname>
@@ -12091,7 +12091,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 52</persname></origination> </did>
                         <controlaccess><persname>Boskone 52</persname>
                             <persname>February 13-15, 2015</persname>
@@ -12107,7 +12107,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Program Book</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone 52, February 13-15, 2015</persname></origination> </did>
                         <controlaccess><persname>Boskone 52, February 13-15, 2015</persname>
                             <persname>Boskone 52, February 13-15, 2015</persname>
@@ -12134,7 +12134,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Program</genreform>
                             <extent>2 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Boskone, February 15</persname></origination> </did>
                         <controlaccess><persname>Boskone, February 15</persname>
                             <subject>Convention--Boskone, February 15</subject>
@@ -15260,7 +15260,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Schedule</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #7</container>
+                    <container type='box'>7</container>
                     <origination label='creator'><persname>Lunacon (?)</persname></origination> </did>
                     <controlaccess><persname>Lunacon (?)</persname>
                         <persname>NA</persname>
@@ -15277,7 +15277,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Burnt CD</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #4</container>
+                    <container type='box'>4</container>
                     <origination label='creator'><persname>Lunacon 2006</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2006</persname>
                         <persname>Floating Filk Studios</persname>
@@ -15295,7 +15295,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Burnt CD</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #4</container>
+                    <container type='box'>4</container>
                     <origination label='creator'><persname>Lunacon 2007</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2007</persname>
                         <persname>Floating Filk Studios</persname>
@@ -15313,7 +15313,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Burnt CD</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #4</container>
+                    <container type='box'>4</container>
                     <origination label='creator'><persname>Lunacon 2007</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2007</persname>
                         <persname>Floating Filk Studios</persname>
@@ -15331,7 +15331,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Burnt CD</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #4</container>
+                    <container type='box'>4</container>
                     <origination label='creator'><persname>Lunacon 2007</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2007</persname>
                         <persname>Floating Filk Studios</persname>
@@ -15349,7 +15349,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Pocket Program</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #9</container>
+                    <container type='box'>9</container>
                     <origination label='creator'><persname>Lunacon 2014, March 14-16, 2014</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2014, March 14-16, 2014</persname>
                         <subject>Convention--Lunacon 57, March 14-16, 2014</subject>
@@ -15364,7 +15364,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Program Book</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #9</container>
+                    <container type='box'>9</container>
                     <origination label='creator'><persname>Lunacon 2014, March 14-16, 2014</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2014, March 14-16, 2014</persname>
                         <subject>Convention--Lunacon 57, March 14-16, 2014</subject>
@@ -15379,7 +15379,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Color program book</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
+                    <container type='box'>2</container>
                     <origination label='creator'><persname>Lunacon 2016</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2016</persname>
                         <persname>NA</persname>
@@ -15396,7 +15396,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Pocket program</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
+                    <container type='box'>2</container>
                     <origination label='creator'><persname>Lunacon 2016</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2016</persname>
                         <persname>NA</persname>
@@ -15413,7 +15413,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Program Book</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #8</container>
+                    <container type='box'>8</container>
                     <origination label='creator'><persname>Lunacon 2017, April 7-9, 2017</persname></origination> </did>
                     <controlaccess><persname>Lunacon 2017, April 7-9, 2017</persname>
                         <subject>Convention--Lunacon 59</subject>
@@ -15428,7 +15428,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Pocket program</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #2</container>
+                    <container type='box'>2</container>
                     <origination label='creator'><persname>Lunacon 51</persname></origination> </did>
                     <controlaccess><persname>Lunacon 51</persname>
                         <persname>NA</persname>
@@ -15561,7 +15561,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songbook|Program Book</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #13</container>
+                    <container type='box'>13</container>
                 </did>
                     <controlaccess><persname>NEFilk </persname>
                         <subject>Convention--NEFilk 2: Concertino 1992</subject>
@@ -15760,7 +15760,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Premium CD</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #3</container>
+                        <container type='box'>3</container>
                         <origination label='creator'><persname>ConCertino '03 The 13th Northeast Filk Convention (NEFilk before it was called NEFilk)</persname></origination> </did>
                         <controlaccess><persname>ConCertino '03 The 13th Northeast Filk Convention (NEFilk before it was called NEFilk)</persname>
                             <persname>Various</persname>
@@ -15768,7 +15768,7 @@
                             <subject>Convention--NEFilk 13: ConCertino '03</subject>
                             <genreform source='local'>Premium CD</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>The Scared Harp: Choral arrangements of filk songs</unittitle>
                         <unitdate normal='2003'>2003</unitdate><abstract><p>Notes: First printing, #57/100</p>
                             <p>Origin: www.mewsic.com/TheScaredHarp</p>
@@ -15777,14 +15777,14 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Songbook</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #13</container>
+                        <container type='box'>13</container>
                     </did>
                         <controlaccess><persname>Stauff, Ed</persname>
                             <persname>www.mewsic.com/TheScaredHarp</persname>
                             <subject>Convention--NEFilk 13: ConCertino '03</subject>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
 
 
                         <c level='item'>
@@ -16045,7 +16045,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Commercial CD</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #6</container>
+                        <container type='box'>6</container>
                         <origination label='creator'><persname>Sassafras</persname></origination><origination label='contributer'><persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname></origination> </did>
                         <controlaccess><persname>Sassafras</persname>
                             <persname>Sassafrass</persname>
@@ -16053,7 +16053,7 @@
                             <persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname><subject>Convention--NEFilk 19: ConCertino 2009 </subject>
                             <genreform source='local'>Commercial CD</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>CD liner notes and cover for Come Filking with handwritten arrows</unittitle>
                         <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: Probably annotated for which way to feed the printer</p>
                             <p>Origin: Floating Filk Studios</p>
@@ -16062,7 +16062,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Original art</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                         <origination label='creator'><persname>Concertino 2009</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                         <controlaccess><persname>Concertino 2009</persname>
                             <persname>Floating Filk Studios</persname>
@@ -16070,7 +16070,7 @@
                             <subject>Convention--NEFilk 19: ConCertino 2009 </subject>
                             <genreform source='local'>Original art</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Come Filking</unittitle>
                         <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: </p>
                             <p>Origin: Premium CD</p>
@@ -16079,7 +16079,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Premium CD</genreform>
                             <extent>2 copy</extent></physdesc>
-                        <container type='box'>Box #1</container>
+                        <container type='box'>1</container>
                         <origination label='creator'><persname>ConCertino 2009 </persname></origination> </did>
                         <controlaccess><persname>ConCertino 2009 </persname>
                             <persname>Various</persname>
@@ -16087,7 +16087,7 @@
                             <subject>Convention--NEFilk 19: ConCertino 2009 </subject>
                             <genreform source='local'>Premium CD</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                     </c03>
 
 
@@ -16255,13 +16255,13 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Postcard</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #8</container>
+                    <container type='box'>8</container>
                     <origination label='creator'><persname>Concertino 2012</persname></origination> </did>
                     <controlaccess><persname>Concertino 2012</persname>
                         <subject>Convention--NEFilk 22: ConCertino 2012</subject>
                         <genreform source='local'>Postcard</genreform>
                     </controlaccess>
-                </c>"
+                </c>
                     "<c level='item'> <did> <unittitle>NEFilk logo postcard</unittitle>
                     <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: NEFilk Logo by Matt Leger</p>
                         <p>Origin: </p>
@@ -16270,13 +16270,13 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Postcard</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #8</container>
+                    <container type='box'>8</container>
                     <origination label='creator'><persname>Concertino 2012</persname></origination> </did>
                     <controlaccess><persname>Concertino 2012</persname>
                         <subject>Convention--NEFilk 22: ConCertino 2012</subject>
                         <genreform source='local'>Postcard</genreform>
                     </controlaccess>
-                </c>"
+                </c>
                     "<c level='item'> <did> <unittitle>Window on Time</unittitle>
                     <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Handwritten corrections on item. Art by Ariel Cinii</p>
                         <p>Origin: Floating Filk Studios</p>
@@ -16285,7 +16285,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>CD insert</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #1</container>
+                    <container type='box'>1</container>
                     <origination label='creator'><persname>ConCertino 2012</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>ConCertino 2012</persname>
                         <persname>Floating Filk Studios</persname>
@@ -16294,8 +16294,8 @@
                         <subject>Convention--NEFilk 22: ConCertino 2012</subject>
                         <genreform source='local'>CD insert</genreform>
                     </controlaccess>
-                </c>"
-                    </c03>"
+                </c>
+                    </c03>
 
                     <c03 level='file' id="NEFilk24">
                         <did>
@@ -16610,14 +16610,14 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Progress report / flier</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #9</container>
+                    <container type='box'>9</container>
                     <origination label='creator'><persname>Concertino 2015</persname></origination> </did>
                     <controlaccess><persname>Concertino 2015</persname>
                         <persname>Concertino 2015</persname>
                         <subject>Convention--NEFilk 25: Concertino 2015</subject>
                         <genreform source='local'>Progress report / flier</genreform>
                     </controlaccess>
-                </c>"
+                </c>
                     "<c level='item'> <did> <unittitle>Concertino 2015 Songbook</unittitle>
                     <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Spiral bound book, white cover with yowling cat and mouse</p>
                         <p>Origin: Concertino 2015</p>
@@ -16626,14 +16626,14 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Songbook</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #9</container>
+                    <container type='box'>9</container>
                     <origination label='creator'><persname>Concertino 2015</persname></origination> </did>
                     <controlaccess><persname>Concertino 2015</persname>
                         <persname>Concertino 2015</persname>
                         <subject>Convention--NEFilk 25: Concertino 2015</subject>
                         <genreform source='local'>Songbook</genreform>
                     </controlaccess>
-                </c>"
+                </c>
                     "<c level='item'> <did> <unittitle>Contertino 2015, Pocket Program</unittitle>
                     <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Double sided on white paper</p>
                         <p>Origin: </p>
@@ -16642,13 +16642,13 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Pocket Program</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #8</container>
+                    <container type='box'>8</container>
                     <origination label='creator'><persname>Concertino 2015</persname></origination> </did>
                     <controlaccess><persname>Concertino 2015</persname>
                         <subject>Convention--NEFilk 25: Concertino 2015</subject>
                         <genreform source='local'>Pocket Program</genreform>
                     </controlaccess>
-                </c>"
+                </c>
                     "<c level='item'> <did> <unittitle>Journeys</unittitle>
                     <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Cover art + Liner notes</p>
                         <p>Origin: Floating Filk Studios</p>
@@ -16657,7 +16657,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>CD insert</genreform>
                         <extent>1 copy</extent></physdesc>
-                    <container type='box'>Box #1</container>
+                    <container type='box'>1</container>
                     <origination label='creator'><persname>NEFilk 25: Concertino 2015</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>NEFilk 25: Concertino 2015</persname>
                         <persname>Floating Filk Studios</persname>
@@ -16666,7 +16666,7 @@
                         <subject>Convention--NEFilk 25: Concertino 2015</subject>
                         <genreform source='local'>CD insert</genreform>
                     </controlaccess>
-                </c>"
+                </c>
                     "<c level='item'> <did> <unittitle>Journeys</unittitle>
                     <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Cover art + Liner notes</p>
                         <p>Origin: Floating Filk Studios</p>
@@ -16675,7 +16675,7 @@
                     </abstract>
                     <physdesc> <genreform source='local'>Premium CD</genreform>
                         <extent>17 copy</extent></physdesc>
-                    <container type='box'>Box #1</container>
+                    <container type='box'>1</container>
                     <origination label='creator'><persname>NEFilk 25: Concertino 2015</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                     <controlaccess><persname>NEFilk 25: Concertino 2015</persname>
                         <persname>Floating Filk Studios</persname>
@@ -16684,12 +16684,12 @@
                         <subject>Convention--NEFilk 25: Concertino 2015</subject>
                         <genreform source='local'>Premium CD</genreform>
                     </controlaccess>
-                </c>"
+                </c>
 
 
 
 
-                    </c03>"
+                    </c03>
 
                     <c02 level="'file">
                         <did>
@@ -17048,7 +17048,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Download codes for Sing in the Circle</genreform>
                             <extent>9 copy</extent></physdesc>
-                        <container type='box'>Box #7</container>
+                        <container type='box'>7</container>
                         <origination label='creator'><persname>Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                         <controlaccess><persname>Concertino 2018</persname>
                             <persname>Floating Filk Studios</persname>
@@ -17057,7 +17057,7 @@
                             <subject>Convention--NEFilk 28: Concertino 2018</subject>
                             <genreform source='local'>Download codes for Sing in the Circle</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>CD inserts for Sing in the Circle</unittitle>
                         <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: Many unused inserts for Sing in the Circle</p>
                             <p>Origin: Floating Filk Studios</p>
@@ -17066,7 +17066,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>CD inserts</genreform>
                             <extent>14 copy</extent></physdesc>
-                        <container type='box'>Box #7</container>
+                        <container type='box'>7</container>
                         <origination label='creator'><persname>Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                         <controlaccess><persname>Concertino 2018</persname>
                             <persname>Floating Filk Studios</persname>
@@ -17075,7 +17075,7 @@
                             <subject>Convention--NEFilk 28: Concertino 2018</subject>
                             <genreform source='local'>CD inserts</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Sing in the Circle</unittitle>
                         <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
                             <p>Origin: Floating Filk Studios</p>
@@ -17084,7 +17084,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Premium CD</genreform>
                             <extent>2 copy</extent></physdesc>
-                        <container type='box'>Box #1</container>
+                        <container type='box'>1</container>
                         <origination label='creator'><persname>NEFilk 28: Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                         <controlaccess><persname>NEFilk 28: Concertino 2018</persname>
                             <persname>Floating Filk Studios</persname>
@@ -17093,7 +17093,7 @@
                             <subject>Convention--NEFilk 28: Concertino 2018</subject>
                             <genreform source='local'>Premium CD</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Sing in the Circle</unittitle>
                         <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
                             <p>Origin: Floating Filk Studios</p>
@@ -17102,7 +17102,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Premium CD</genreform>
                             <extent>25 copy</extent></physdesc>
-                        <container type='box'>Box #1</container>
+                        <container type='box'>1</container>
                         <origination label='creator'><persname>NEFilk 28: Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                         <controlaccess><persname>NEFilk 28: Concertino 2018</persname>
                             <persname>Floating Filk Studios</persname>
@@ -17111,7 +17111,7 @@
                             <subject>Convention--NEFilk 28: Concertino 2018</subject>
                             <genreform source='local'>Premium CD</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Sing in the Circle</unittitle>
                         <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
                             <p>Origin: Floating Filk Studios</p>
@@ -17120,7 +17120,7 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Premium CD</genreform>
                             <extent>13 copy</extent></physdesc>
-                        <container type='box'>Box #2</container>
+                        <container type='box'>2</container>
                         <origination label='creator'><persname>NEFilk 28: Concertino 2018</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
                         <controlaccess><persname>NEFilk 28: Concertino 2018</persname>
                             <persname>Floating Filk Studios</persname>
@@ -17129,7 +17129,7 @@
                             <subject>Convention--NEFilk 28: Concertino 2018</subject>
                             <genreform source='local'>Premium CD</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
 
 
                         <c03 level='item'>
@@ -19517,13 +19517,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42599</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Mac II News - MidAmeriCon, Issue #2</unittitle>
                         <unitdate normal='20160817'>17 August 2016</unitdate><abstract><p>Notes: Yellow paper</p>
                             <p>Origin: 42599</p>
@@ -19532,13 +19532,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42599</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Mac II News - MidAmeriCon, Issue #3</unittitle>
                         <unitdate normal='20160818'>18 August 2016</unitdate><abstract><p>Notes: White paper</p>
                             <p>Origin: 42600</p>
@@ -19547,13 +19547,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42600</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Mac II News - MidAmeriCon, Issue #4</unittitle>
                         <unitdate normal='20160818'>18 August 2016</unitdate><abstract><p>Notes: Green paper</p>
                             <p>Origin: 42600</p>
@@ -19562,13 +19562,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42600</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Mac II News - MidAmeriCon, Issue #5</unittitle>
                         <unitdate normal='20160819'>19 August 2016</unitdate><abstract><p>Notes: Yellow paper</p>
                             <p>Origin: 42601</p>
@@ -19577,13 +19577,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42601</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Mac II News - MidAmeriCon, Issue #7</unittitle>
                         <unitdate normal='20160820'>20 August 2016</unitdate><abstract><p>Notes: Mauve paper</p>
                             <p>Origin: 42602</p>
@@ -19592,13 +19592,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42602</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>Mac II News - MidAmeriCon, Issue #8</unittitle>
                         <unitdate normal='20160820'>20 August 2016</unitdate><abstract><p>Notes: Blue paper</p>
                             <p>Origin: 42602</p>
@@ -19607,13 +19607,13 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Newsletter</genreform>
                             <extent>2 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><persname>42602</persname>
                             <subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Newsletter</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>MidAmeriCon II - Program Participant Index</unittitle>
                         <unitdate normal=''></unitdate><abstract><p>Notes: Three sheets stapled, white paper</p>
                             <p>Origin: </p>
@@ -19622,12 +19622,12 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Program Participant Index</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Program Participant Index</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
                         "<c level='item'> <did> <unittitle>MidAmeriCon II - Volunteer sheet (blank)</unittitle>
                         <unitdate normal=''></unitdate><abstract><p>Notes: </p>
                             <p>Origin: </p>
@@ -19636,12 +19636,12 @@
                         </abstract>
                         <physdesc> <genreform source='local'>Volunteer Sheet</genreform>
                             <extent>1 copy</extent></physdesc>
-                        <container type='box'>Box #9</container>
+                        <container type='box'>9</container>
                     </did>
                         <controlaccess><subject>Convention--WorldCon 74, MidAmeriCon II</subject>
                             <genreform source='local'>Volunteer Sheet</genreform>
                         </controlaccess>
-                    </c>"
+                    </c>
 
                         "
                         <c level='item'>
