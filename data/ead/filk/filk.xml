@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd" >
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN"
+        "ead.dtd" >
 
 <ead>
 
-<eadheader findaidstatus="in_progress" repositoryencoding="iso15511" countryencoding="iso3166-1"
+    <eadheader findaidstatus="in_progress" repositoryencoding="iso15511" countryencoding="iso3166-1"
                dateencoding="iso8601" langencoding="iso639-2b">
 
-        <eadid countrycode="us" >filk</eadid>
+        <eadid countrycode="us">filk</eadid>
 
 
         <filedesc>
@@ -1050,7 +1051,7 @@
                                 <persname>Brobdingnagian Bards</persname>
                                 <corpname>KEOS 89.1 FM</corpname>
                                 <persname>Tom Schwerdt</persname>
-<corpname>age Records</corpname>
+                                <corpname>age Records</corpname>
                                 <genreform source='local'>Commercial CD</genreform>
                             </controlaccess>
                         </c04>
@@ -1314,8 +1315,8 @@
                             </did>
                             <controlaccess>
                                 <persname>Brooks, Eben</persname>
-                                                                <persname>All songs recorded using Apple Garage Band.
-                            </persname>
+                                <persname>All songs recorded using Apple Garage Band.
+                                </persname>
 
                                 <genreform source='local'>Commercial CD</genreform>
                             </controlaccess>
@@ -4281,7 +4282,7 @@
                             </controlaccess>
                         </c04>
 
-                        
+
                     </c03>
                     <c03 level="file">
                         <did>
@@ -6882,6 +6883,341 @@
                     <did>
                         <unittitle>Songbooks</unittitle>
                     </did>
+
+
+                    "<c level='item'> <did> <unittitle>Baxter's Complete Beginning Folk Guitar Manuel</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Incomplete photocopy of commerical songbook</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Campfire Songs</unittitle>
+                    <unitdate normal='1994'>1994</unitdate><abstract><p>Notes: Small format paperback, squarebound, glossy cover. ISBN 1-56440-372-6, second edition, third printing</p>
+                        <p>Origin: The Globe Pequot Press</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Edited by Maddox, Irene and Blankeship, Rosalyn</persname>
+                        <persname>The Globe Pequot Press</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Christmas for the Guitar</unittitle>
+                    <unitdate normal='1972'>1972</unitdate><abstract><p>Notes: Bonus pull out coloring section</p>
+                        <p>Origin: Karamar Pub Co. LTD, 1972</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                    <origination label='publisher'><persname>Karamar Pub Co. LTD</persname></origination> </did>
+                    <controlaccess><persname>Karamar Pub Co. LTD</persname>
+                        <persname>Karamar Pub Co. LTD, 1972</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Colonial & Revolution Songbook with Historical Commentary</unittitle>
+                    <unitdate normal='1996'>1996</unitdate><abstract><p>Notes: White staple bound ISBN 1-878360-08-6, companion to the recording of the same name.</p>
+                        <p>Origin: WEM Records</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>McNeil, Keith & Rusty</persname>
+                        <persname>WEM Records</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Concert Hour</unittitle>
+                    <unitdate normal='1960'>1960</unitdate><abstract><p>Notes: Instruction book for Symphonet</p>
+                        <p>Origin: Handy-Folio Music Co, 1960</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                    <origination label='publisher'><persname>Handy-Folio Music Co, 1960</persname></origination> </did>
+                    <controlaccess><persname>Handy-Folio Music Co, 1960</persname>
+                        <persname>Handy-Folio Music Co, 1960</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Down to Earth: Love Songs</unittitle>
+                    <unitdate normal='1984'>1984</unitdate><abstract><p>Notes: Blue cover, pamphlet style, staple bound</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #14</container>
+                </did>
+                    <controlaccess><persname>Bonds, Martha</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Folksinger's Wordbook, Deluxe Edition</unittitle>
+                    <unitdate normal='1973'>1973</unitdate><abstract><p>Notes: Spiral bound, red cover</p>
+                        <p>Origin: Oak Publications, 1973</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                    <origination label='publisher'><persname>Oak Publications, 1973</persname></origination> </did>
+                    <controlaccess><persname>Oak Publications, 1973</persname>
+                        <persname>Oak Publications, 1973</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Great Songs of the Sixties 2</unittitle>
+                    <unitdate normal='1974'>1974</unitdate><abstract><p>Notes: Square bound</p>
+                        <p>Origin: Quradrangle/The New York Times Book Co.</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Okun, Milton</persname>
+                        <persname>Quradrangle/The New York Times Book Co.</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Harmony Baroque to Contemporary, Part 1</unittitle>
+                    <unitdate normal='1991'>1991</unitdate><abstract><p>Notes: Square bound. second printing ISBN 0-87563-373-0</p>
+                        <p>Origin: Stipes Publishing Company </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Copley, R. Evan</persname>
+                        <persname>Stipes Publishing Company </persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Harmony Hour</unittitle>
+                    <unitdate normal='1960'>1960</unitdate><abstract><p>Notes: Instruction book for Soprano flute</p>
+                        <p>Origin: Handy-Folio Music Co, 1960</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                    <origination label='publisher'><persname>Handy-Folio Music Co, 1960</persname></origination> </did>
+                    <controlaccess><persname>Handy-Folio Music Co, 1960</persname>
+                        <persname>Handy-Folio Music Co, 1960</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Jay Arnold's Easy to Play Guitar Chords</unittitle>
+                    <unitdate normal='1964'>1964</unitdate><abstract><p>Notes: In very delicate shape. All pages have come away from spine. Pages are still stapled together. </p>
+                        <p>Origin: Charles Hanson Music and Books</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Arnold, Jay</persname>
+                        <persname>Charles Hanson Music and Books</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Music Language & Fundamentals</unittitle>
+                    <unitdate normal='1994'>1994</unitdate><abstract><p>Notes: Square bound, three hole punched, second edition, ISBN 0-697-12497-5</p>
+                        <p>Origin: W.C.B. Brown & Benchmark</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Gretz, Ronald J.</persname>
+                        <persname>W.C.B. Brown & Benchmark</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>September 11th, 2001: A Memorial Songbook</unittitle>
+                    <unitdate normal='2001'>2001</unitdate><abstract><p>Notes: Blue cover with world trade center</p>
+                        <p>Origin: M.A.S.S.F.I.L.C.</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #16</container>
+                </did>
+                    <controlaccess><persname>various</persname>
+                        <persname>M.A.S.S.F.I.L.C.</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>SightSinging 4th Edition, Complete</unittitle>
+                    <unitdate normal='1986'>1986</unitdate><abstract><p>Notes: Commercial songbook, Benward, Bruce</p>
+                        <p>Origin: 1986 edition</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                </did>
+                    <controlaccess><persname>1986 edition</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Complete Phil Ochs </unittitle>
+                    <unitdate normal='1978'>1978</unitdate><abstract><p>Notes: Square bound, photo coverISBN 0-897-05010-x</p>
+                        <p>Origin: Almo Publications</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Ochs, Phil</persname>
+                        <persname>Almo Publications</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Guitar with Frederick Node</unittitle>
+                    <unitdate normal='1982'>1982</unitdate><abstract><p>Notes: Staple bound paperback, could be a tie in with a TV show from LA school district </p>
+                        <p>Origin: KLCSTB 58</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Node, Frederick</persname>
+                        <persname>KLCSTB 58</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Judy Collins Songbook, 12th printing</unittitle>
+                    <unitdate normal='1977'>1977</unitdate><abstract><p>Notes: Square bound with artist's face on cover</p>
+                        <p>Origin: Grosset & Dunlap, 1977</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #10</container>
+                    <origination label='creator'><persname>Collins, Judy</persname></origination><origination label='publisher'><persname>Grosset & Dunlap, 1977</persname></origination> </did>
+                    <controlaccess><persname>Collins, Judy</persname>
+                        <persname>Grosset & Dunlap, 1977</persname>
+                        <persname>Collins, Judy</persname>
+                        <persname>Grosset & Dunlap, 1977</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Mad Scientist's Songbook</unittitle>
+                    <unitdate normal='1998'>1998</unitdate><abstract><p>Notes: Yellow cover with mad scientist at keyboard, spiral bound</p>
+                        <p>Origin: Published by M.A.S.S.F.I.L.C.</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #14</container>
+                </did>
+                    <controlaccess><persname>McGath, Gary</persname>
+                        <persname>Published by M.A.S.S.F.I.L.C.</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The War Is Over: Phil Ochs</unittitle>
+                    <unitdate normal='1968'>1968</unitdate><abstract><p>Notes: Torn cover</p>
+                        <p>Origin: Barricade Music, Inc.</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Ochs, Phil</persname>
+                        <persname>Barricade Music, Inc.</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Two-Tune Harmony Songs for Symphonet, Voice or Melody Chimes</unittitle>
+                    <unitdate normal='1960'>1960</unitdate><abstract><p>Notes: Pamphlet style, grey scale cover</p>
+                        <p>Origin: Handy-Folio Music Co.</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Handy-Folio Music Co.</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Your Friendly Neighborhood Magician</unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Signed, pamphlet format, chapbook, staple bound, limited edition, #100 copies</p>
+                        <p>Origin: Tachyon Publications</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #16</container>
+                </did>
+                    <controlaccess><persname>Beagle, Peter</persname>
+                        <persname>Tachyon Publications</persname>
+
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
 
 
                     <c03 level="file" id="ChainikPressPublications">
@@ -10681,7 +11017,7 @@
                                     <genreform source="local">Songbook</genreform>
                                 </physdesc>
                                 <dao title="image1" href="../filk/filk1.jpg"
-                                     actuate="onload" show="embed" />
+                                     actuate="onload" show="embed"/>
                                 <dao title="image2" href="../filk/filk2.jpg"
                                      actuate="onrequest" show="new"/>
                                 <origination label="creator">
@@ -10724,6 +11060,589 @@
                         <did>
                             <unittitle>Lyrics</unittitle>
                         </did>
+
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Rains of Castermere</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Includes The Dorninsh Man's Wife, and The Bear and the Maiden Fair and
+                                        also mysteriously includes Ripple by the Grateful Dead
+                                    </p>
+                                    <p>Origin: George R. R. Martin</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #11</container>
+                                <origination label='creator'>
+                                    <persname>George R. R. Martin</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>George R. R. Martin</persname>
+                                <persname>George R. R. Martin</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>I Am the Very Model of a Modern Unitarian</unittitle>
+                                <unitdate normal='1999'>1999</unitdate>
+                                <abstract>
+                                    <p>Notes: Printout of a song</p>
+                                    <p>Origin: Printed May 31, 1999</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Raible, Christopher (Rev.)</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Raible, Christopher (Rev.)</persname>
+                                <persname>Raible, Christopher (Rev.)</persname>
+                                <persname>Printed May 31, 1999</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Ripping Beast TTTO Under the Gripping Beast</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Baildon, Titania</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Baildon, Titania</persname>
+                                <persname>Baildon, Titania</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Ballad of the Green Death TTTO The Yeoman of the Guard by Gibert and
+                                    Sullivan
+                                </unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Three single sided sheets</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Eng, Cecelia</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Dawn Vision TTTO: The Minstrel of the Dawn by Gorden Lightfoot</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: One and a half sheets (second sheet is torn off)</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Eng, Cecelia</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Good Morning, Timelord - The Pre-Dawn Crisis TTTO Good Morning Starshine
+                                    (from HAIR)
+                                </unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Eng, Cecelia</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Doctor and the BBC TTTO: Charlie and the MTA (which is based on Wreck of
+                                    Old '92)
+                                </unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Eng, Cecelia</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Timelord's Game</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Eng, Cecelia</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>Eng, Cecelia</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Three Cheers for the Bad Guys (Take me off in the TARDIS)</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    Notes: Single sided sheet
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Eng, Cecelia/Nisket, Andrew III</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Eng, Cecelia/Nisket, Andrew III</persname>
+                                <persname>Eng, Cecelia/Nisket, Andrew III</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Slash Character's Lament</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: 2 pages, single sided</p>
+                                    <p>Origin: Unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Fitzsimons, Kate</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Fitzsimons, Kate</persname>
+                                <persname>Fitzsimons, Kate</persname>
+                                <persname>Unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Put Your Hand In the Hand of the Man From Gallifrey</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Harrison, Vickie</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Harrison, Vickie</persname>
+                                <persname>Harrison, Vickie</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>The Lady Fair</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                            </did>
+                            <controlaccess>
+                                <persname>unknown</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Take Me Off In the Tardis TTTO: Take Me Out to the Ballgame</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Wall, Shawn | Davis, Kim</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Wall, Shawn | Davis, Kim</persname>
+                                <persname>Wall, Shawn and Davis, Kim</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Circles TTTO of Windmills by Alan Bell</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Single sided sheet</p>
+                                    <p>Origin: unknown</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #10</container>
+                                <origination label='creator'>
+                                    <persname>Zak, Gwendolyn L, et al</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Zak, Gwendolyn L, et al</persname>
+                                <persname>Zak, Gwendolyn L, et al</persname>
+                                <persname>unknown</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>C.I.A. parody of M.T.A. by Jacqueline Steiner and Bess Lomax Hawes
+                                </unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Song with chords written out above words</p>
+                                    <p>Origin:</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song Lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #8</container>
+                                <origination label='creator'>
+                                    <persname>Brown, Ken</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Brown, Ken</persname>
+                                <persname>Brown, Ken</persname>
+
+                                <genreform source='local'>Song Lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>C.I.A. parody of M.T.A. by Jacqueline Steiner and Bess Lomax Hawes
+                                </unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Song with chords written out above words</p>
+                                    <p>Origin:</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song Lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #9</container>
+                                <origination label='creator'>
+                                    <persname>Brown, Ken</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Brown, Ken</persname>
+                                <persname>Brown, Ken</persname>
+
+                                <genreform source='local'>Song Lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>""M"" is for Magic Missile</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Large M on the back with yellow sheet</p>
+                                    <p>Origin:</p>
+                                    <p>
+                                        <a href='http://www.magnusretail.com/Mary_Crowell/lyrics/m_is_for_magic_missile.html'>
+                                            in-print (unknown version/edition) :
+                                            http://www.magnusretail.com/Mary_Crowell/lyrics/m_is_for_magic_missile.html
+                                        </a>
+                                    </p>
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song Lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #9</container>
+                                <origination label='creator'>
+                                    <persname>Crowell, Mary</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Crowell, Mary</persname>
+                                <persname>Crowell, Mary</persname>
+
+                                <genreform source='local'>Song Lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Rose Marshall's Ride</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: 2 pages</p>
+                                    <p>Origin:</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #9</container>
+                                <origination label='creator'>
+                                    <persname>Jacques, Shawna</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Jacques, Shawna</persname>
+                                <persname>Jacques, Shawna</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        <c level='item'>
+                            <did>
+                                <unittitle>Advice to Writers</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Handwritten on a piece of paper</p>
+                                    <p>Origin:</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song Lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #8</container>
+                                <origination label='creator'>
+                                    <persname>Lunacon Parody Workshop</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Lunacon Parody Workshop</persname>
+                                <persname>Lunacon Parody Workshop</persname>
+
+                                <genreform source='local'>Song Lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+                        "
+                        <c level='item'>
+                            <did>
+                                <unittitle>Desolation</unittitle>
+                                <unitdate normal=''></unitdate>
+                                <abstract>
+                                    <p>Notes: Probably from the FKO Filk Hall of Fame Concert</p>
+                                    <p>Origin:</p>
+
+
+                                </abstract>
+                                <physdesc>
+                                    <genreform source='local'>Song lyrics</genreform>
+                                    <extent>1 copy</extent>
+                                </physdesc>
+                                <container type='box'>Box #9</container>
+                                <origination label='creator'>
+                                    <persname>Whitker, Mike</persname>
+                                </origination>
+                            </did>
+                            <controlaccess>
+                                <persname>Whitker, Mike</persname>
+                                <persname>Whitker, Mike</persname>
+
+                                <genreform source='local'>Song lyrics</genreform>
+                            </controlaccess>
+                        </c>
+                        """
+
                     </c03>
                     <c03 level="subseries" id="SheetMusic">
                         <did>
@@ -11844,9 +12763,9 @@
                             <abstract>Light blue cover with cockpit. Staple bound</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Light blue cover with cockpit. Staple bound. Jointly published by Philk Fee-Nom-Ee-Non
                                 and Con-Chord.
                                 <extent>2 copies</extent>
@@ -12855,7 +13774,7 @@
                             <container type='box'>16</container>
                         </did>
                         <controlaccess>
-                            <genreform source='local'>Zine</genreform>     
+                            <genreform source='local'>Zine</genreform>
                         </controlaccess>
                     </c03>
 
@@ -12870,9 +13789,9 @@
                             </abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 From the collection of Judith Hayman, The Phlash's Back with flasher on cover. Judith
                                 Hayman's name written on upper right hand corner of cover. Staple bound. Bright green
                                 cover. Artwork by Barb Lynn Higgins, Jane Sibley back cover.
@@ -12920,9 +13839,9 @@
                             <abstract>Roberta on cover with guitar, staple bound.</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Roberta on cover with guitar, staple bound.
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -12946,9 +13865,9 @@
                             <abstract>Yellow cover, staple bound, cover says "rhyme" not "rhymes".</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Yellow cover, staple bound, cover says "rhyme" not "rhymes".
                                 <extent>2 copy</extent>
                             </physdesc>
@@ -12974,9 +13893,9 @@
                             </abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Tan cover, staple bound, Most of the filk songs in this collection have been printed
                                 "somewhere or another", many in Rec Room Rhymes or Sing a Song of Trekkin'
                                 <extent>1 copy</extent>
@@ -12999,9 +13918,9 @@
                             <abstract>Tan cover with Star Trek, Dr. Who, Star Wars, etc.</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Tan cover with Star Trek, Dr. Who, Star Wars, etc.
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13027,9 +13946,9 @@
                             </abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 From the collection of Judith Hayman, guitar playing person on cover with notes. Judith
                                 Hayman's name written on upper right hand corner of cover. Staple bound
                                 <extent>2 copy</extent>
@@ -13059,9 +13978,9 @@
                                 bound
                             </abstract>
                             <physdesc>
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                                
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Person in a cowboy hat singing to a dragon and an alien on the cover, staple bound
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13085,9 +14004,9 @@
                             </abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Large number 11 on cover with Star Trek and Babylon 5 characters, staple bound
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13111,9 +14030,9 @@
                             <abstract>Large number 12 on cover with spaceships, staple bound</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Large number 12 on cover with spaceships, staple bound
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13137,9 +14056,9 @@
                             </abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 White cover with long haired person in a gown playing a harp, staple bound
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13162,9 +14081,9 @@
                             <abstract>Yellowish cover with kid, staple bound</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Yellowish cover with kid, staple bound
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13190,9 +14109,9 @@
                             </abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Yellowish cover, staple bound. Alien on cover reading Rec Room Rhymes. Originally
                                 published, winter 2002, second printing in 2003
                                 <extent>1 copy</extent>
@@ -13218,8 +14137,8 @@
                                 filking, one copy has loose songs inside, 8 sheets, some double and some single sided.
                             </abstract>
                             <physdesc>
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
                                 Staple bound, yellow cover, cartoon with alien with guitar on their way to filking, one
                                 copy has loose songs inside, 8 sheets, some double and some single sided.
                                 <extent>2 copy</extent>
@@ -13243,9 +14162,9 @@
                             <abstract>Cover features crossed out "Wrecked" room rhymes</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Cover features crossed out "Wrecked" room rhymes
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -13312,7 +14231,8 @@
                         <abstract>Xenofilkia is a bimonthly fan zine run by Lee Gold. It is in
                             print.
                             Information about subscribing or purchasing issues can be found at
-                            <extref href="https://www.conchord.org/xeno/#indexes">https://www.conchord.org/xeno/</extref>.
+                            <extref href="https://www.conchord.org/xeno/#indexes">
+                                https://www.conchord.org/xeno/</extref>.
                         </abstract>
                     </did>
 
@@ -16547,9 +17467,9 @@
                             <abstract>Yellow cover with balloon, moon and man with guitar</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Yellow cover with balloon, moon and man with guitar
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -16571,9 +17491,9 @@
                             <abstract>Goldenrod cover with musical notes and Ceasar Augustus</abstract>
                             <physdesc>
 
-                                    <genreform source='local'>Zine</genreform>
-                                    <genreform source='local'>Songbook</genreform>
-                         
+                                <genreform source='local'>Zine</genreform>
+                                <genreform source='local'>Songbook</genreform>
+
                                 Goldenrod cover with musical notes and Ceasar Augustus
                                 <extent>1 copy</extent>
                             </physdesc>
@@ -17692,7 +18612,7 @@
                                 <persname>Housman, Mordecai</persname>
                             </origination>
                             <dao title="link" href="https://archive.org/details/APA-Filk-May-1992"
-                                 actuate="onload" show="embed" />
+                                 actuate="onload" show="embed"/>
                         </did>
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
@@ -18207,9 +19127,9 @@
                         <abstract>Light grey cover with fire lizards</abstract>
                         <physdesc>
 
-                                <genreform source='local'>Zine</genreform>
-                                <genreform source='local'>Songbook</genreform>
-                
+                            <genreform source='local'>Zine</genreform>
+                            <genreform source='local'>Songbook</genreform>
+
                             Light grey cover with fire lizards
                             <extent>1 copy</extent>
                         </physdesc>
@@ -18251,11 +19171,15 @@
                                 <container type='box'>13</container>
                                 <container type='box'>14</container>
                             </did>
-                            <scopecontent><note><p>
-                                Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
-                                and Bari Greenberg did the layout
+                            <scopecontent>
+                                <note>
+                                    <p>
+                                        Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
+                                        and Bari Greenberg did the layout
 
-                                Convention: Archon 35</p></note>
+                                        Convention: Archon 35
+                                    </p>
+                                </note>
                             </scopecontent>
                             <controlaccess>
                                 <persname>various</persname>
@@ -18308,7 +19232,9 @@
                                     Notes: Produced for Archon 38
                                     Convention: Archon 38, 2014
                                 </abstract>
-                                <note audience="internal"><p>Might actually be Archon 39</p></note>
+                                <note audience="internal">
+                                    <p>Might actually be Archon 39</p>
+                                </note>
                                 <physdesc>
                                     <genreform source='local'>Songbook</genreform>
                                     <extent>4 copy</extent>
@@ -18334,7 +19260,6 @@
                                 2015
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -18398,7 +19323,6 @@
                                 2017
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -18559,7 +19483,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>The Boskone 14 Filkson Supplement to the NESFA Hymnal</unittitle>
@@ -18603,7 +19526,6 @@
                                 2008
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -18771,7 +19693,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Helmuth newsletter, Volume 51, issue 1</unittitle>
@@ -18892,7 +19813,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Boskone 52 Program Book</unittitle>
@@ -18981,9 +19901,8 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>Boskone</unittitle>
-                            
-                        </did>
 
+                        </did>
 
 
                         <c04 level='item'>
@@ -19640,7 +20559,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Consonance 1991 Program book</unittitle>
@@ -19820,7 +20738,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Consonance 1993</unittitle>
@@ -19928,7 +20845,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Consonance 1996</unittitle>
@@ -19964,7 +20880,6 @@
                                 1998
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -20004,7 +20919,6 @@
                                 1999
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -20047,7 +20961,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Consonance 2000 (Y2K)</unittitle>
@@ -20086,7 +20999,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Consonance 2001: A Filk Odyssey</unittitle>
@@ -20123,7 +21035,6 @@
                                 2002
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -20296,8 +21207,9 @@
                                     Notes: Orange cover, staple bound
 
                                     <extref href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
-                                        version/edition) : https://www.conchord.org/xeno/consonancebook.html</extref>
-                                    
+                                        version/edition) : https://www.conchord.org/xeno/consonancebook.html
+                                    </extref>
+
 
                                     Convention: Consonance 2003
                                 </abstract>
@@ -21232,7 +22144,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>FilKONtario 24, 2014</unittitle>
@@ -21272,7 +22183,6 @@
                                 2015
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -21395,7 +22305,6 @@
                                 2016
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -21525,7 +22434,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>FilkONtario 27 Penguin Song Contest Rules</unittitle>
@@ -21624,7 +22532,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>FilKONtario 28, April 20-22, 2018</unittitle>
@@ -21676,7 +22583,6 @@
                             <unittitle>GAFilk 5</unittitle>
                             <unitdate normal='2003' datechar='creation' type='inclusive'>2003</unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -22948,7 +23854,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>GAFilk 2017 Program booklet</unittitle>
@@ -22981,7 +23886,8 @@
                                     Notes: Yellow cover, pocket program
                                     Origin: GaFilk 2018, January 6-8, 2017
                                 </abstract>
-                                <note audience="internal"><p>Might really be GaFilk 20: 2018</p>
+                                <note audience="internal">
+                                    <p>Might really be GaFilk 20: 2018</p>
                                 </note>
                                 <physdesc>
                                     <genreform source='local'>Pocket Program</genreform>
@@ -23646,7 +24552,7 @@
                     <did>
                         <unittitle>NASFic</unittitle>
                         <abstract>NASFic occurs in years when WorldCon is held outside North America to 08 Aug 2010
-                    </abstract>
+                        </abstract>
                     </did>
 
                     <c03 level='file'>
@@ -26108,7 +27014,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>OVFF 23 Program Book Program Book</unittitle>
@@ -26138,7 +27043,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>OVFF 26 Program Book Program Book</unittitle>
@@ -26165,7 +27069,6 @@
                             <unittitle>OVFF 27</unittitle>
                             <unitdate normal='2011'>2011</unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -26269,7 +27172,6 @@
                                 2014
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -26388,7 +27290,6 @@
                                 2015
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -26512,7 +27413,6 @@
                                 2016
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -26669,7 +27569,6 @@
                             <unitdate normal='20171020/20171022' datechar='creation' type='inclusive'>20-22 October 2017
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -26858,7 +27757,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Philcon 2011 Program book</unittitle>
@@ -26893,7 +27791,6 @@
                             <unittitle>Philcon 2013</unittitle>
                             <unitdate normal='2013'>2013</unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -26956,7 +27853,6 @@
                                 2014
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -27049,7 +27945,6 @@
                                 2016
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -27166,7 +28061,6 @@
                                 2017
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -27387,7 +28281,6 @@
                         </did>
 
 
-
                         <c04 level='item'>
                             <did>
                                 <unittitle>Flier with filksong by Benjamin Franklin</unittitle>
@@ -27601,7 +28494,6 @@
                                 2006
                             </unitdate>
                         </did>
-
 
 
                         <c04 level='item'>
@@ -28687,7 +29579,9 @@
                                 <extent>1 copy</extent>
                             </physdesc>
                             <container type='box'>7</container>
-                            <note audience="internal"><p>DeirdreMMM@aol.com 444-GAY-BYOB</p></note>
+                            <note audience="internal">
+                                <p>DeirdreMMM@aol.com 444-GAY-BYOB</p>
+                            </note>
                         </did>
                         <controlaccess>
                             <genreform source='local'>Business card</genreform>
@@ -29434,6 +30328,1947 @@
                         <unittitle>Stickers</unittitle>
                     </did>
                 </c02>
+
+
+
+                "<c level='item'> <did> <unittitle>3 different art prints from the Alligator Stretch Goal level in Bestey Tinney's kickstarter for Release the Cello</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Betsey Tinney</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Art Prints</genreform>
+                    <extent>3 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+                <origination label='creator'><persname>Betsey Tinney</persname></origination> </did>
+                <controlaccess><persname>Betsey Tinney</persname>
+                    <persname>Betsey Tinney</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Art Prints</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>99 Songs by Efen Wealt</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: A list of songs with how long they are and what album they appear on.</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>List</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Wealt, Efan</persname></origination> </did>
+                <controlaccess><persname>Wealt, Efan</persname>
+                    <persname>Wealt, Efan</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>List</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>A list of NE Filkers</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: From a very narrow time frame, as it includes both Badger and Rob Balder. Annotations about both Lunacon and Philcon circa 2009</p>
+                    <p>Origin: NA</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>List of filkers</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>List of filkers</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>A packet of Avery address labels</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: 25 sheets, Avery #8160</p>
+                    <p>Origin: Floating Filk Studios</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Address Labels</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Floating Filk Studios</persname>
+                    <persname>NA</persname>
+                    <persname>Floating Filk Studios</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Address Labels</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>A packet of Avery business card blanks</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: 10 sheets, Avery #28371</p>
+                    <p>Origin: Floating Filk Studios</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Business card blanks</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Floating Filk Studios</persname>
+                    <persname>NA</persname>
+                    <persname>Floating Filk Studios</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Business card blanks</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>A packet of multipurpose labels</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: 14 sheets, Avery #6467</p>
+                    <p>Origin: Floating Filk Studios</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Multipurpose Labels</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Floating Filk Studios</persname>
+                    <persname>NA</persname>
+                    <persname>Floating Filk Studios</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Multipurpose Labels</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Acoustic World Music</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: www.opland-freeman.com</p>
+                    <p>Origin: NA</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Oplanad, Tania and Freeman, Mike</persname></origination> </did>
+                <controlaccess><persname>Oplanad, Tania and Freeman, Mike</persname>
+                    <persname>Oplanad, Tania and Freeman, Mike</persname>
+                    <persname>NA</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Ad for Midlife Crisis</unittitle>
+                <unitdate normal='19821018'>18 October 1982</unitdate><abstract><p>Notes: Pink, one sided (James listed as Jane)</p>
+                    <p>Origin: 30242</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Leaflet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Robinson, James and McQuillan, Cynthia </persname></origination> </did>
+                <controlaccess><persname>Robinson, James and McQuillan, Cynthia </persname>
+                    <persname>Robinson, James and McQuillan, Cynthia </persname>
+                    <persname>30242</persname>
+
+                    <genreform source='local'>Leaflet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Ad for Rounds Galore a book of rounds from Sol Weber</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: White one-sheet with photographs, very crumpled</p>
+                    <p>Origin: Weber, Sol</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>One sheet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Weber, Sol</persname></origination> </did>
+                <controlaccess><persname>Weber, Sol</persname>
+                    <persname>Weber, Sol</persname>
+                    <persname>Weber, Sol</persname>
+
+                    <genreform source='local'>One sheet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Anatomy of a Filk</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Has songs in it: Song are Right and Left Grand by Cat Faber, The Wolf Within by Mark Mandel, Take My Name by I Abra Cinii, four sheets double sided</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Article</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Ciini, Ariel</persname></origination> </did>
+                <controlaccess><persname>Ciini, Ariel</persname>
+                    <persname>Ciini, Ariel</persname>
+
+                    <genreform source='local'>Article</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Art by I Abra Cinii from Concertino 2012</unittitle>
+                <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Title of the artwork is Shalan Pana</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Back to the Future the Card Game - Promotional Card </unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: 1 card for a Pizza Rehydrator (bonus card to add to deck)</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Game piece</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+                <origination label='creator'><persname>Looney Labs</persname></origination> </did>
+                <controlaccess><persname>Looney Labs</persname>
+                    <persname>Looney Labs</persname>
+
+                    <genreform source='local'>Game piece</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Bad Idea #1227 - The H.M.S. Bad idea</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: It's possible Harold had this because H.M.S. were his initials.</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Badger in a bag sticker</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Balticon 51 - Baltimore Science Fiction Society </unittitle>
+                <unitdate normal='2017'>2017</unitdate><abstract><p>Notes: Yellow flier, double sided</p>
+                    <p>Origin: May 26-29, 2017</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess><persname>May 26-29, 2017</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Blank volunteer hours sheet</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: undated</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Volunteer Sheet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess><persname>undated</persname>
+
+                    <genreform source='local'>Volunteer Sheet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Borken Telephone</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Three cards from a collectible card game to promote the album Borken Telephone (the phone is borked)</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Game cards</genreform>
+                    <extent>3 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Rock, Paper, Cynic</persname></origination> </did>
+                <controlaccess><persname>Rock, Paper, Cynic</persname>
+                    <persname>Rock, Paper, Cynic</persname>
+
+                    <genreform source='local'>Game cards</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Borken Telephone</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: This is the album the card game is advertising. The data stick is signed.</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>USB stick</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Rock, Paper, Cynic</persname></origination> </did>
+                <controlaccess><persname>Rock, Paper, Cynic</persname>
+                    <persname>Rock, Paper, Cynic</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>USB stick</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Canticles kickstater fliers (glossy)</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>3 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+                <origination label='creator'><persname>Adams, Alexander James</persname></origination> </did>
+                <controlaccess><persname>Adams, Alexander James</persname>
+                    <persname>Adams, Alexander James</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Captain Marvel Culture.com</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Half page of a promotoin for a book and video project being promoted by a filker</p>
+                    <p>Origin: Zorikh</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Pamphlet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Lequidre, Zorikh, and Azriliant, Evan</persname></origination> </did>
+                <controlaccess><persname>Lequidre, Zorikh, and Azriliant, Evan</persname>
+                    <persname>Lequidre, Zorikh, and Azriliant, Evan</persname>
+                    <persname>Zorikh</persname>
+
+                    <genreform source='local'>Pamphlet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>CD Woodbury Band</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: CD Woodbury</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Commercial DVD</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #5</container>
+                <origination label='creator'><persname>Woodbury, CD</persname></origination> </did>
+                <controlaccess><persname>Woodbury, CD</persname>
+                    <persname>Woodbury, CD</persname>
+                    <persname>CD Woodbury</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Commercial DVD</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Cesi n'est pas un ribon</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Fannish ribbon for wearing on your con badge.</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Ribbon</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><subject>Convention--NA</subject>
+                    <genreform source='local'>Ribbon</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Cheshire Moon</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Chicon Doily Cart Player Present Choice of Endings</unittitle>
+                <unitdate normal='20120901'>1 September 2012</unitdate><abstract><p>Notes: Musical by Brenda Sutton based on the Mrs. Ruth stories by Tanya Huff</p>
+                    <p>Origin: 41153</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>Various</persname>
+                    <persname>41153</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Christmas card from Jeri Adkins</unittitle>
+                <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Personal correspondance from 2014</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <persname>Personal correspondance from 2014</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Collector Post Card #3 of 10</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: CD campaign</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>The Andrew Allen Trio</persname></origination> </did>
+                <controlaccess><persname>The Andrew Allen Trio</persname>
+                    <persname>The Andrew Allen Trio</persname>
+                    <persname>CD campaign</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Cookie monster card from Vanessa Cardui</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Personal correspondance</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Cardui, Vanessa</persname></origination> </did>
+                <controlaccess><persname>Cardui, Vanessa</persname>
+                    <persname>Cardui, Vanessa</persname>
+                    <persname>Personal correspondance</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Cover letter to Harold for Recycled Rogow</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Personal communication</p>
+                    <p>Origin: Roberta Rogow/Floating Filk Studios</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Roberta Rogow/Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Rogow, Roberta</persname>
+                    <persname>Roberta Rogow/Floating Filk Studios</persname>
+                    <persname>Rogow, Roberta</persname>
+                    <persname>Roberta Rogow/Floating Filk Studios</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Cover of Songs of Legends to Come w/ Iron and Steel sheet music on the back</unittitle>
+                <unitdate normal='1979'>1979</unitdate><abstract><p>Notes: White, double sided</p>
+                    <p>Origin: 1979</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Leaflet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Wayne, Phillip</persname></origination> </did>
+                <controlaccess><persname>Wayne, Phillip</persname>
+                    <persname>Wayne, Phillip</persname>
+                    <persname>1979</persname>
+
+                    <genreform source='local'>Leaflet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Dancing With the Fay (with a dancing fairy)</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Dark Deeds & Desperate Men (and Women)</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Floating Filk Studios</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>CD insert</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #1</container>
+                <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Rogow, Roberta</persname>
+                    <persname>Floating Filk Studios</persname>
+                    <persname>Rogow, Roberta</persname>
+                    <persname>Floating Filk Studios</persname>
+
+                    <genreform source='local'>CD insert</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Download code for SJ Tucker in the form of a sticker</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Dr. Who Drinking Game</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Double sided printout, Tom Baker era (?)</p>
+                    <p>Origin: (from Unknown Origin) is printed on the sheet</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Game</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #10</container>
+            </did>
+                <controlaccess><persname>(from Unknown Origin) is printed on the sheet</persname>
+
+                    <genreform source='local'>Game</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Drew Jacobs - Selfie Absorbed (promotional guitar pick for album)</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Guitar pick</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Jacobs, Drew</persname></origination> </did>
+                <controlaccess><persname>Jacobs, Drew</persname>
+                    <persname>Jacobs, Drew</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Guitar pick</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Egyptian deities with guitars and drums on a bumper sticker</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Commercial bumper sticker</p>
+                    <p>Origin: Possibly bought for/from Interfilk</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Bumper Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <persname>Possibly bought for/from Interfilk</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Bumper Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Email from Harold with all Off Centaur Catalog data</unittitle>
+                <unitdate normal='20010808'>8 August 2001</unitdate><abstract><p>Notes: These are Harold's best guesses at which items were which in the Off Centaur Catalog, five page printout</p>
+                    <p>Origin: 37111</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Email</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess><persname>37111</persname>
+
+                    <genreform source='local'>Email</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Erwin S. (Filthy Pierre) Strauss' O*F*F*I*C*I*A*L CAMP LUNACON SINGALONG </unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: A one-sheet listing songs to be sung at a programming item at a Lunacon.</p>
+                    <p>Origin: Distributed by Filthy Pierre at a Lunacon (year unknown)</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>One sheet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Strauss, Erwin S aka Filthy Pierre</persname></origination> </did>
+                <controlaccess><persname>Strauss, Erwin S aka Filthy Pierre</persname>
+                    <persname>Strauss, Erwin S aka Filthy Pierre</persname>
+                    <persname>Distributed by Filthy Pierre at a Lunacon (year unknown)</persname>
+
+                    <genreform source='local'>One sheet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Everafter</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Sewn with a ribbon, picture on cover of Heather Alexander aka Alexander James Adams, collector's edition, #11</p>
+                    <p>Origin: Sea Fire Productions</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Chapbook</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #16</container>
+            </did>
+                <controlaccess><persname>Alexander, Heather</persname>
+                    <persname>Sea Fire Productions</persname>
+
+                    <genreform source='local'>Chapbook</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Filkers of the Night</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Fannish ribbon for wearing on your con badge.</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Ribbon</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Ribbon</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Final Ballot Pegasus Awards 2016</unittitle>
+                <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: blank ballot</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Ballot</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Ballot</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Flier for debut album for gas and vinyl by SROS LORDS.com </unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Neon green flier</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>SROS LORDS</persname></origination> </did>
+                <controlaccess><persname>SROS LORDS</persname>
+                    <persname>SROS LORDS</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Flier for Xenofilkia</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: White flier, dates at least 20 years after the first publication, but no date is given</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #15</container>
+            </did>
+                <controlaccess><persname>Gold, Lee</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Folk Music in a Digital Age - download sheet</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Yellow paper half-sheet, abstract of Sally Childs-Helton's famous Folk Music in a Digital Age article</p>
+                    <p>Origin: Childs-Helton, Sally</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Ad</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+                <origination label='creator'><persname>Childs-Helton, Sally</persname></origination> </did>
+                <controlaccess><persname>Childs-Helton, Sally</persname>
+                    <persname>Childs-Helton, Sally</persname>
+                    <persname>Childs-Helton, Sally</persname>
+
+                    <genreform source='local'>Ad</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>For a shirt</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Buttons</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Buttons</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>From Robert Dushay, donating ""vintage"" filk tapes to the archive, May 6, 2015</unittitle>
+                <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Accompanying note for filk cassette tapes from Robert Dushay</p>
+                    <p>Origin: Collection of Robert Dushay</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Collection of Robert Dushay</persname></origination> </did>
+                <controlaccess><persname>Collection of Robert Dushay</persname>
+                    <persname>NA</persname>
+                    <persname>Collection of Robert Dushay</persname>
+
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Generic black kippah</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: It's black, it's polyester</p>
+                    <p>Origin: Harold</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Black kippah</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='publisher'><persname>Harold</persname></origination> </did>
+                <controlaccess><persname>Harold</persname>
+                    <persname>NA</persname>
+                    <persname>Harold</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Black kippah</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Getting Started with the Mountain Dulcimer</unittitle>
+                <unitdate normal='20081001'>1 October 2008</unitdate><abstract><p>Notes: Picture of Peter playing dulcimer on the front cover. Spiral bound</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Instructions</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #16</container>
+            </did>
+                <controlaccess><persname>Alway, Peter</persname>
+
+                    <genreform source='local'>Instructions</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Google Groups thread with lyrics of Spaceship Yourself by Terence Chua</unittitle>
+                <unitdate normal='2004'>2004</unitdate><abstract><p>Notes: Three single-sided sheets, unbound</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Printout</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #16</container>
+            </did>
+                <controlaccess><persname>Chua, Terence</persname>
+
+                    <genreform source='local'>Printout</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Gophering benefits</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Has Harold's mailing address written on the back in marker</p>
+                    <p>Origin: DucKon, unknown year</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Convention Documents</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #15</container>
+            </did>
+                <controlaccess><persname>DucKon, unknown year</persname>
+
+                    <genreform source='local'>Convention Documents</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Has names of filkers written on it and the word Reserved </unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Scrap paper</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Scrap paper</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Heather Dale promotional cards</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Perpetual Gift album download card</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Card</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Dale, Heather</persname></origination> </did>
+                <controlaccess><persname>Dale, Heather</persname>
+                    <persname>Dale, Heather</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>How to make a coffee can bow</unittitle>
+                <unitdate normal='19890801'>1 August 1989</unitdate><abstract><p>Notes: Instructions with illustrations</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Instructions</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #16</container>
+            </did>
+                <controlaccess><persname>Ulman, Rick</persname>
+
+                    <genreform source='local'>Instructions</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>How to Print on a CD</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Instructions</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Instructions</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>I'm a Dreamer from PaganBran.com</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Invoice for CDs sold</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: CDs sold and Eastern Media con and Dragoncon</p>
+                    <p>Origin: Roberta Rogow/Floating Filk Studios</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Invoice</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Roberta Rogow/Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Rogow, Roberta</persname>
+                    <persname>Roberta Rogow/Floating Filk Studios</persname>
+                    <persname>Rogow, Roberta</persname>
+                    <persname>Roberta Rogow/Floating Filk Studios</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Invoice</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Itinerary for Harold</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Itinerary</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Itinerary</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>John Hall bear@di.org - copy of Bob Asprin tape from Chambanacon</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Need to check on status with John Hall</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Tag</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Tag</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Kickstarter donor letter, Snow White the mirror's revenge</unittitle>
+                <unitdate normal='20160601'>1 June 2016</unitdate><abstract><p>Notes: Kickstarter letter from an original musical</p>
+                    <p>Origin: 42522</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Hartlove, Jay</persname></origination> </did>
+                <controlaccess><persname>Hartlove, Jay</persname>
+                    <persname>Hartlove, Jay</persname>
+                    <persname>42522</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Kip Rosser, Music and Performance on the thermain</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Promotional postcard</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Rosser, Kip</persname></origination> </did>
+                <controlaccess><persname>Rosser, Kip</persname>
+                    <persname>Rosser, Kip</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Last minute additions to the catalog</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Standard errata letter</p>
+                    <p>Origin: November, no year</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Errata </genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #10</container>
+            </did>
+                <controlaccess><persname>November, no year</persname>
+
+                    <genreform source='local'>Errata </genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Lianin Sidhe (possibly from her Kickstarter)</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Thank you note</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Thank you note</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>List of contents for Recycled Rogow</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Personal communication</p>
+                    <p>Origin: Roberta Rogow/Floating Filk Studios</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>List of contents</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='publisher'><persname>Roberta Rogow/Floating Filk Studios</persname></origination> </did>
+                <controlaccess><persname>Roberta Rogow/Floating Filk Studios</persname>
+                    <persname>Roberta Rogow/Floating Filk Studios</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>List of contents</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Locus, March 2008</unittitle>
+                <unitdate normal='2008'>2008</unitdate><abstract><p>Notes: Charlie Stross on the cover</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Magazine</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Magazine</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Looney Labs Pyramid promo</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Loose production papers for various CDs Harold produced for NEFilk year CDs, and CDs for Roberta Rogow</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Copies of the actual CDs and j-cards are available elsewhere in the archive. 9 sheets</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Printout</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Printout</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Map of Setac</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Map of Setac area, possibly from a Conflikt or a Seattle worldcon?</p>
+                    <p>Origin: NA</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Map</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <persname>NA</persname>
+
+                    <genreform source='local'>Map</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>May be from Release the Cello ""Alligator"" Kickstarter reward, Audio MP3 files and videos </unittitle>
+                <unitdate normal='2013/2014'>2013/2014</unitdate><abstract><p>Notes: Betsey Tinney's kickstarter</p>
+                    <p>Origin: 2013-2014</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Tinney, Betsey</persname></origination> </did>
+                <controlaccess><persname>Tinney, Betsey</persname>
+                    <persname>Tinney, Betsey</persname>
+                    <persname>2013-2014</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Media Guest biography</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Single sided. Looks like it was inserted at the last minute. They seem to have omitted him from the program book.</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Handout</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Russ, Tim</persname>
+
+                    <genreform source='local'>Handout</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Membership form for Boskone 52</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Musical note coaster with piano keys</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Coaster</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Coaster</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>NOLA 2018 - New Orleans Bid for Worldcon</unittitle>
+                <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>NorthAmeriCon 17</unittitle>
+                <unitdate normal='2017'>2017</unitdate><abstract><p>Notes: Glossy flier</p>
+                    <p>Origin: July 6-9, 2017</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess><persname>July 6-9, 2017</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Note from Alicia Garcia asking for Satruday Night / Sunday Morning of San Juan Room </unittitle>
+                <unitdate normal='2003'>2003</unitdate><abstract><p>Notes: Harold clearly listened to this recording because he annotated the note ""Kanefsky in room"".</p>
+                    <p>Origin: Consonance, unknown year, possibly 2003</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+                <origination label='creator'><persname>Consonance, unknown year, possibly 2003</persname></origination> </did>
+                <controlaccess><persname>Consonance, unknown year, possibly 2003</persname>
+                    <persname>Consonance, unknown year, possibly 2003</persname>
+
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Note from Betsey Tinney to Harold</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Handwritten thank you card</p>
+                    <p>Origin: Betsey Tinney, Release the Cello kickstarter</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Greeting card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Tinney, Betsey</persname></origination> </did>
+                <controlaccess><persname>Tinney, Betsey</persname>
+                    <persname>Tinney, Betsey</persname>
+                    <persname>Betsey Tinney, Release the Cello kickstarter</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Greeting card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Note from unknown signature probably about the Consonance materials</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Green ink on white index card</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Handwritten note</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Handwritten note</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Original advertising poster for Sourcery by Terry Pratchett - possibly from Science Fiction Mysteries and More</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Poster for Terry Pratchett's Sourcery with insert posters for The Light Fantastic, The Colour of Magic, Equal Rites and Mort</p>
+                    <p>Origin: ?</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Poster</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Kirby</persname></origination> </did>
+                <controlaccess><persname>Kirby</persname>
+                    <persname>Kirby</persname>
+                    <persname>?</persname>
+
+                    <genreform source='local'>Poster</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Paths Through the Babylon Wood</unittitle>
+                <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: </p>
+                    <p>Origin: 2009 limited edition poetry chapbook</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Chapbook</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>McGuire, Seanan</persname></origination> </did>
+                <controlaccess><persname>McGuire, Seanan</persname>
+                    <persname>McGuire, Seanan</persname>
+                    <persname>2009 limited edition poetry chapbook</persname>
+
+                    <genreform source='local'>Chapbook</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>PDX Broadsides - Accoustic Kitty is listening</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>PDX Broadsides - Octopus sticker</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>PDX Broadsides - We're the Revolution (someone waving a staff)</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Pegasus Awards 2014 Final Ballot</unittitle>
+                <unitdate normal='2014'>2014</unitdate><abstract><p>Notes: Tucked inside Archon 39 songbook</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Ballot</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Ballot</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Pegasus Awards 2016 Brainstorming - mail-in</unittitle>
+                <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: Brainstorming ballot 2016</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Brainstorming Poll</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Brainstorming Poll</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Pegasus Final Ballot, 2015</unittitle>
+                <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: </p>
+                    <p>Origin: OVFF 2015</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Ballot</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+                <origination label='creator'><persname>OVFF 2015</persname></origination> </did>
+                <controlaccess><persname>OVFF 2015</persname>
+                    <persname>OVFF 2015</persname>
+
+                    <genreform source='local'>Ballot</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Personal card from Chris Conway</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Conway, Chris</persname></origination> </did>
+                <controlaccess><persname>Conway, Chris</persname>
+                    <persname>Conway, Chris</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Postcard to Lisa Wahl advertising Serious Steel</unittitle>
+                <unitdate normal='1999'>1999</unitdate><abstract><p>Notes: Torrance, CA cancel code</p>
+                    <p>Origin: Random Factors, 1999</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #10</container>
+                <origination label='publisher'><persname>Random Factors</persname></origination> </did>
+                <controlaccess><persname>Random Factors</persname>
+                    <persname>Random Factors, 1999</persname>
+
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Procrastinators of the Apocalypse Bonus CD</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Visit us online at www.CirqueDuSowhat.net or if you can't spell that, go to www.baconnipples.com @2010 FIDIM Interactive, LLC. </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Supporting materials</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Cirque du So What? </persname></origination> </did>
+                <controlaccess><persname>Cirque du So What? </persname>
+                    <persname>Cirque du So What? </persname>
+                    <persname>Visit us online at www.CirqueDuSowhat.net or if you can't spell that, go to www.baconnipples.com @2010 FIDIM Interactive, LLC. </persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Supporting materials</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Promotion flier for Talis Kimberley's Scarlet for Hunting</unittitle>
+                <unitdate normal='2000'>2000</unitdate><abstract><p>Notes: Red printing, greyscale photo on CD jcard</p>
+                    <p>Origin: Marchwood Media</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Kimbereley, Talis</persname>
+                    <persname>Marchwood Media</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Promotion flier for Third Thyme's the Charm for $15</unittitle>
+                <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Color flier with release date June 1, 2012</p>
+                    <p>Origin: Bedlam House</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Three Weird Sisters</persname>
+                    <persname>Bedlam House</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Promotional FilKONtario guitar pick, blue</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Guitar pick</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Guitar pick</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Promotional postcard for Portal Through the Pond, David K. Anderson</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Postcard</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Publicity photo from Snow White - The Mirror's Revenge</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Photo features Kristoph Klover and Margaret Davis with Jerry Hartlove (?) and Jeslyn Kati (?)</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Publicity Photo</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Publicity Photo</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Random Factors Catalog</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Single torn sheet</p>
+                    <p>Origin: Random Factors, unknown year</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Torn cover</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #10</container>
+                <origination label='publisher'><persname>Random Factors</persname></origination> </did>
+                <controlaccess><persname>Random Factors</persname>
+                    <persname>Random Factors, unknown year</persname>
+
+                    <genreform source='local'>Torn cover</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Random Factors invoices for CDs and songbooks</unittitle>
+                <unitdate normal='1996'>1996</unitdate><abstract><p>Notes: From 1996</p>
+                    <p>Origin: Random Factors, 1996</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Invoice</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #10</container>
+                <origination label='publisher'><persname>Random Factors</persname></origination> </did>
+                <controlaccess><persname>Random Factors</persname>
+                    <persname>Random Factors, 1996</persname>
+
+                    <genreform source='local'>Invoice</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Reimbursement for CDs for creating con CD for Contertino 2018 </unittitle>
+                <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: On MASSFILC letterhead, unsigned</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Rune-themed greeting cards, probably from the Sundown kickstarter</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Different runes on each card</p>
+                    <p>Origin: Probably Sassafrass</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Greeting cards</genreform>
+                    <extent>4 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Sassafras</persname></origination> </did>
+                <controlaccess><persname>Sassafras</persname>
+                    <persname>Sassafrass</persname>
+                    <persname>Probably Sassafrass</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Greeting cards</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Saturday Open Mic 2x10 Sign-Ups</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Handwritten sheet. Particpants include Judy Kay Craft, Steve Swope, David Kushner, Kris Wildman, BLC, Jamie Peters, Kit Peters, David Wilford</p>
+                    <p>Origin: Unknown</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sign Up Sheet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess><persname>Unknown</persname>
+
+                    <genreform source='local'>Sign Up Sheet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Science Fiction Song Sheet</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Double sided</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Handout</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Strauss, Edwin ""Filthy Pierre""</persname>
+
+                    <genreform source='local'>Handout</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Solar Sailors, The Dehorn Crew</unittitle>
+                <unitdate normal='1977'>1977</unitdate><abstract><p>Notes: Liner notes from the legendary vinyl album Solar Sailors</p>
+                    <p>Origin: 1977</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Liner notes</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+                <origination label='creator'><persname>Dehorn Crew, The</persname></origination> </did>
+                <controlaccess><persname>Dehorn Crew, The</persname>
+                    <persname>Dehorn Crew, The</persname>
+                    <persname>1977</persname>
+
+                    <genreform source='local'>Liner notes</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Some Filk Terms Every Fan Should Know</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: This is a crammed sheet of paper with definitions for filk in jokes, like Frank Hayes Disease, Microfilk (also a Filthy Pierre creation), and descriptions of how filk circles are conducted. On the back, crammed together is a directory for microfilk as a PDF that gives an address to access it on Harold's domain, floatingfilk.com/mp3/microfilk.pdf.</p>
+                    <p>Origin: Distributed by Filthy Pierre at an east coast filk convention.</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Lexicon</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Strauss, Erwin S aka Filthy Pierre</persname></origination> </did>
+                <controlaccess><persname>Strauss, Erwin S aka Filthy Pierre</persname>
+                    <persname>Strauss, Erwin S aka Filthy Pierre</persname>
+                    <persname>Distributed by Filthy Pierre at an east coast filk convention.</persname>
+
+                    <genreform source='local'>Lexicon</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Some Filk Terms Every Fan Should Know</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: This is a crammed sheet of paper with definitions for filk in jokes, like Frank Hayes Disease, Microfilk (also a Filthy Pierre creation), and descriptions of how filk circles are conducted. On the back, crammed together is a directory for microfilk as a PDF that gives an address to access it on Harold's domain, floatingfilk.com/mp3/microfilk.pdf.</p>
+                    <p>Origin: Distributed by Filthy Pierre at an east coast filk convention.</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Lexicon</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #16</container>
+                <origination label='creator'><persname>Strauss, Erwin S aka Filthy Pierre</persname></origination> </did>
+                <controlaccess><persname>Strauss, Erwin S aka Filthy Pierre</persname>
+                    <persname>Strauss, Erwin S aka Filthy Pierre</persname>
+                    <persname>Distributed by Filthy Pierre at an east coast filk convention.</persname>
+
+                    <genreform source='local'>Lexicon</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Some Filk Terms Every Fan Should Know</unittitle>
+                <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Double sided, with A Hundred and One Filk Songs Every Fan Should Know on the back.</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Handout</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Strauss, Edwin ""Filthy Pierre""</persname>
+
+                    <genreform source='local'>Handout</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Songs of Ireland: Brobdignagian Bards</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Brobdignagian Bards</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Poster</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Brobdignagian Bards</persname></origination> </did>
+                <controlaccess><persname>Brobdignagian Bards</persname>
+                    <persname>Brobdignagian Bards</persname>
+                    <persname>Brobdignagian Bards</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Poster</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Sunset's Gold: Music from Anne McCaffrey's HarperHall novels</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: www.opland-freeman.com</p>
+                    <p>Origin: NA</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Flier</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Oplanad, Tania and Freeman, Mike</persname></origination> </did>
+                <controlaccess><persname>Oplanad, Tania and Freeman, Mike</persname>
+                    <persname>Oplanad, Tania and Freeman, Mike</persname>
+                    <persname>NA</persname>
+
+                    <genreform source='local'>Flier</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Ten Years of Filk</unittitle>
+                <unitdate normal='1994'>1994</unitdate><abstract><p>Notes: Yellow cover with flying saucer, inscribed on the inside by Glem Simser and Sandi Marie, binder constricter. A list of filk discography from various performers. </p>
+                    <p>Origin: Taper Press</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Index</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Simser, Glenn</persname>
+                    <persname>Taper Press</persname>
+
+                    <genreform source='local'>Index</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Tent card for Harold</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Tent Card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Tent Card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Thank you card from Melissa</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Unclear which Melissa, possibly Glasser</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Thank you card from Nate Bucklin for support in republishing The First Overnight Guest and Resolutions</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: This was a republication of two of Nate's earlier tapes to CD. The note promises a forthcoming MP3 download version of the CD by email, and PDFs of the lyric booklet.</p>
+                    <p>Origin: Bucklin, Nate</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Thank you card</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>Bucklin, Nate</persname></origination> </did>
+                <controlaccess><persname>Bucklin, Nate</persname>
+                    <persname>Bucklin, Nate</persname>
+                    <persname>Bucklin, Nate</persname>
+
+                    <genreform source='local'>Thank you card</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Thank you note for buying a copy of The Gates of Elfinland</unittitle>
+                <unitdate normal='20180626'>26 June 2018</unitdate><abstract><p>Notes: Personal note to Harold</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Handwritten note</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #13</container>
+            </did>
+                <controlaccess><persname>Smith, Chantelle</persname>
+
+                    <genreform source='local'>Handwritten note</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Thank you note to Harold</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Sending CDs to Harold, probably for Kathy Sands to sell (for Accidental Filk Band)</p>
+                    <p>Origin: Cat and Barigatto</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Hand written note from Cat and Bari</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Accidental Filk Band</persname></origination><origination label='publisher'><persname>Cat and Barigatto</persname></origination> </did>
+                <controlaccess><persname>Accidental Filk Band</persname>
+                    <persname>Cat and Barigatto</persname>
+                    <persname>Accidental Filk Band</persname>
+                    <persname>Cat and Barigatto</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Hand written note from Cat and Bari</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>The 2 minute Haggadah</unittitle>
+                <unitdate normal='2017'>2017</unitdate><abstract><p>Notes: Email forward</p>
+                    <p>Origin: 2017</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Haggadah</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+                <origination label='creator'><persname>Speigel, Kenny</persname></origination> </did>
+                <controlaccess><persname>Speigel, Kenny</persname>
+                    <persname>Speigel, Kenny</persname>
+                    <persname>2017</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Haggadah</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>The Chieri, sheet music/Dragon Lords</unittitle>
+                <unitdate normal='1979'>1979</unitdate><abstract><p>Notes: White, double sided</p>
+                    <p>Origin: 1979</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Leaflet</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>McQuillan, Cynthia/Wayne, Phillip</persname></origination> </did>
+                <controlaccess><persname>McQuillan, Cynthia/Wayne, Phillip</persname>
+                    <persname>McQuillan, Cynthia/Wayne, Phillip</persname>
+                    <persname>1979</persname>
+
+                    <genreform source='local'>Leaflet</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>The Kitting Out Cheap Handbook</unittitle>
+                <unitdate normal='2016'>2016</unitdate><abstract><p>Notes: Printed out from a workshop at Conflikt 2016</p>
+                    <p>Origin: v.81, January 2016</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Instruction guide</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+                <origination label='creator'><persname>Korra'ti, Dara and Bohnoff, Jeff</persname></origination> </did>
+                <controlaccess><persname>Korra'ti, Dara and Bohnoff, Jeff</persname>
+                    <persname>Korra'ti, Dara and Bohnoff, Jeff</persname>
+                    <persname>v.81, January 2016</persname>
+
+                    <genreform source='local'>Instruction guide</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>The Smithtown Messenger</unittitle>
+                <unitdate normal='20190103'>3 January 2019</unitdate><abstract><p>Notes: Obituary for Harold M. Stein, published in local paper. Written by Phyllis Stein.</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Newspaper</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess><persname>Stein, Phyllis</persname>
+
+                    <genreform source='local'>Newspaper</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>To Robin and Harold filk.txt from Tim Ryan</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: Talks about 3 video DVDs given to Harold</p>
+                    <p>Origin: </p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Note</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Note</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Two laminated bookmarks with botanical themes</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Possibly bought for/from Interfilk</p>
+
+                    <p>Convention: NA</p>
+                </abstract>
+                <physdesc> <genreform source='local'>Bookmarks</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess><persname>NA</persname>
+                    <persname>Possibly bought for/from Interfilk</persname>
+                    <subject>Convention--NA</subject>
+                    <genreform source='local'>Bookmarks</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Two plastic topped coasters with musical designs</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: Possibly Interfilk auction?</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Musical coasters (square)</genreform>
+                    <extent>2 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess><persname>Possibly Interfilk auction?</persname>
+
+                    <genreform source='local'>Musical coasters (square)</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Unidentified man in a peasant shirt and a woman in a corset with a guitar and bass</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Photo</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Photo</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Untitled collection, probably an insert from a recording (includes liner notes for instrumentals)</unittitle>
+                <unitdate normal='1993'>1993</unitdate><abstract><p>Notes: Song titles include: Into Your World, Cold Heart, Talia, Pins and Needles</p>
+                    <p>Origin: Copyright 1993</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Liner notes</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+                <origination label='creator'><persname>Torres, Cris</persname></origination> </did>
+                <controlaccess><persname>Torres, Cris</persname>
+                    <persname>Torres, Cris</persname>
+                    <persname>Copyright 1993</persname>
+
+                    <genreform source='local'>Liner notes</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Welcome Letter</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Letter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Letter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Why We Still Love Star Wars</unittitle>
+                <unitdate normal='20171203'>3 December 2017</unitdate><abstract><p>Notes: </p>
+                    <p>Origin: 43072</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Newspaper insert</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+            </did>
+                <controlaccess><persname>43072</persname>
+
+                    <genreform source='local'>Newspaper insert</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Wing Words, Volume 5, #2</unittitle>
+                <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: White, double sided newsletter</p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Newsletter</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #14</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Newsletter</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Wizard Moon sticker</unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Sticker</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #7</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Sticker</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Yesterday's Songs Transformed: A Historical Tour of Song Rewriting, Smashwords edition</unittitle>
+                <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: Hardcopy printout of digital file, unbound in a plastic bag with an elastic band</p>
+                    <p>Origin: Smashwords, 2018</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Printout of book</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #11</container>
+                <origination label='creator'><persname>McGath, Gary</persname></origination><origination label='publisher'><persname>Smashwords, 2018</persname></origination> </did>
+                <controlaccess><persname>McGath, Gary</persname>
+                    <persname>Smashwords, 2018</persname>
+                    <persname>McGath, Gary</persname>
+                    <persname>Smashwords, 2018</persname>
+
+                    <genreform source='local'>Printout of book</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle></unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: This is a color postcard from the Kickstarter campaign for PDX Broadsides' fourth album Trust Issues</p>
+                    <p>Origin: PDX Broadsides</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Postcard from the PDX Broadsides</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #2</container>
+                <origination label='creator'><persname>PDX Broadsides</persname></origination> </did>
+                <controlaccess><persname>PDX Broadsides</persname>
+                    <persname>PDX Broadsides</persname>
+                    <persname>PDX Broadsides</persname>
+
+                    <genreform source='local'>Postcard from the PDX Broadsides</genreform> <genreform source='local'>ephemera</genreform>
+                </controlaccess>
+            </c>"""
+
             </c01>
 
 
