@@ -93,8 +93,106 @@
                     </c03>
                     <c03 level="subseries" id="Notes">
                         <did>
-                            <unittitle>Notes</unittitle>
+                            <unittitle>Notes/Set Lists</unittitle>
                         </did>
+
+
+                        "<c level='item'> <did> <unittitle>Dark Deeds & Desperate Men (and Women)</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: So many j-cards for Dark Deeds</p>
+                            <p>Origin: Floating Filk Studios</p>
+
+
+                        </abstract>
+                        <physdesc> <genreform source='local'>j-card for CD</genreform>
+                            <extent>Many, many, lots copy</extent></physdesc>
+                        <container type='box'>Box #15</container>
+                    </did>
+                        <controlaccess><persname>Rogow, Roberta</persname>
+                            <persname>Floating Filk Studios</persname>
+
+                            <genreform source='local'>j-card for CD</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>J-card for Wolves & Changelings</unittitle>
+                        <unitdate normal='1999'>1999</unitdate><abstract><p>Notes: Black and white j-card with all lyrics for songs. </p>
+                            <p>Origin: Marchwood Media</p>
+
+
+                        </abstract>
+                        <physdesc> <genreform source='local'>j-card for tape</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><persname>Kimbereley, Talis</persname>
+                            <persname>Marchwood Media</persname>
+
+                            <genreform source='local'>j-card for tape</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Mercedes Lackey Live!</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: Four signed mint condition original j-cards for Misty Lackey Live!</p>
+                            <p>Origin: Firebird Arts & Music of Oregon, Inc.</p>
+
+
+                        </abstract>
+                        <physdesc> <genreform source='local'>j-card for tape</genreform>
+                            <extent>4 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><persname>Lackey, Mercedes</persname>
+                            <persname>Firebird Arts & Music of Oregon, Inc.</persname>
+
+                            <genreform source='local'>j-card for tape</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Mythical Beasts Undubbed</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: Blue j-card with black printing, unfolded, mint condition. All song lyrics printed on card.</p>
+                            <p>Origin: Marchwood Media</p>
+
+
+                        </abstract>
+                        <physdesc> <genreform source='local'>j-card for tape</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><persname>Kimberely, Talis</persname>
+                            <persname>Marchwood Media</persname>
+
+                            <genreform source='local'>j-card for tape</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Set list and instructions to sound crew from Talis</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: Two handwritten pages with the set list and instructions to soundcrew: Set includes 1. Finding of the Feather 2. Archetype Cafe, 3. Cecilia's Face 4. Queen of Spindles 5. Spoon 6. Still Catch the Tide 7. Lady Moon 8. Ten Years 9. Belling the Cat 10. Steps of St. Paul's 11. Eleanor Roosevelt's Knitting 12. Corn Jenny. Other performers include Betsey and Kade Tinney, Dave Clement and Jeri-Lynn Cornish</p>
+                            <p>Origin: </p>
+
+
+                        </abstract>
+                        <physdesc> <genreform source='local'>Set list</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><persname>Kimbereley, Talis</persname>
+
+                            <genreform source='local'>Set list</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Set list for a Brenda Sutton concert</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: Set list includes, High Fantasy, Women with Drums, Un Chanson, Sex After C-Pap, I Knew A Guy Once, Serenity, These Two, Inner Seasons, Drinking With the Man in the Moon, Vor, Cruiser Dreaming, In a Gown Too Blue, Blue Spell, Journeys, Stray Dog Man, performers include Bill Sutton, Dave Clement, Vixy, Riverfolk (Chas and Becca), Tony Fabris, Betsey Tinney</p>
+                            <p>Origin: </p>
+
+
+                        </abstract>
+                        <physdesc> <genreform source='local'>Set list</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #14</container>
+                    </did>
+                        <controlaccess><persname>Sutton, Brenda</persname>
+
+                            <genreform source='local'>Set list</genreform>
+                        </controlaccess>
+                    </c>"""
+
+
                     </c03>
                 </c02>
                 <c02 level="subseries" id="DigitalMedia">
@@ -6645,7 +6743,1295 @@
                         </c04>
 
                     </c03>
+
+
+                    "<c level='item'> <did> <unittitle>Alive and Filking - Master Copy - Audio Only</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Hand labelled CD </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Audio Check CD - Kathy Sands singing</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Hand labelled CD </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>Sands, Kathy</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Sands, Kathy</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Sands, Kathy</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Boot disc for a computer, unmarked</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Oy.</p>
+                        <p>Origin: NA</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                </did>
+                    <controlaccess><persname>NA</persname>
+                        <persname>NA</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Filk</unittitle>
+                    <unitdate normal='1980'>1980</unitdate><abstract><p>Notes: This appears to be disc 2/2</p>
+                        <p>Origin: Random filk MP3s, mostly of a 1980s vintage</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>Random filk MP3s, mostly of a 1980s vintage</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Filk</unittitle>
+                    <unitdate normal='1980s'>1980s</unitdate><abstract><p>Notes: This appears to be disc 1/2</p>
+                        <p>Origin: Random filk MP3s, mostly of a 1980s vintage</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>Random filk MP3s, mostly of a 1980s vintage</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Filk .wavs RAW Michael Longcor - Undead, Heather Alexander, Live, Star Song - Songs for Star Voyagers</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: .wavs of the whole albums and also of individual songs</p>
+                        <p>Origin: Rips of tapes</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>Rips of tapes</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>I-Con 26 (2007) Filk Recordings Disc 1 of 2 Brobdingnagian Bards, The FuMP concert, Kenny Young and the Eggplants, Open Filk, Sat Night</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>I-Con 26 (2007) Open Filk (Sat) 3/07 Disc 2 of 2</unittitle>
+                    <unitdate normal='2007'>2007</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Innocuous looking CD titled ""Travel Filk""</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: See full contents in tabe marked Collections</p>
+                        
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>-</persname>
+
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NYC Housefilk 5/07 MP3s, Faw File</unittitle>
+                    <unitdate normal='2008'>2008</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NYC Housefilk 5/07, Edited, Split Files, 1/08</unittitle>
+                    <unitdate normal='2008'>2008</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NYC Housefilk 9/08 Disc 1/2</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NYC Housefilk 9/08 Disc 2/2</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Philly Housefilk Aug 11, 2007, Disc 1 of 2, Afternoon</unittitle>
+                    <unitdate normal='2007'>2007</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Philly housefilk, Disc 2 of 2, Aug 11, 2007, Evening, ends at 12:20 am</unittitle>
+                    <unitdate normal='2007'>2007</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled collection of albums</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: See full contents in tab marked Collections</p>
+                        
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>-</persname>
+
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled collection of albums</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: See full contents in tab marked Collections</p>
+                        <p>Origin: - </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>- </persname>
+
+                        <genreform source='local'>Burnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Radio Aahs</unittitle>
+                    <unitdate normal='1995'>1995</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: April 1995 No. 2</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                </did>
+                    <controlaccess><persname>April 1995 No. 2</persname>
+
+                        <genreform source='local'>CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Dr. Demento's 30th Anniversary Collection: Dementia 2000!</unittitle>
+                    <unitdate normal='2000'>2000</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: @2000 Rhino Entertainment Company</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Box Set</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #3</container>
+                    <origination label='publisher'><persname>@2000 Rhino Entertainment Company</persname></origination> </did>
+                    <controlaccess><persname>@2000 Rhino Entertainment Company</persname>
+                        <persname>Various</persname>
+                        <persname>@2000 Rhino Entertainment Company</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Commercial Box Set</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Bare Facts</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Available on CD Baby</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Davis, Bill</persname></origination> </did>
+                    <controlaccess><persname>Davis, Bill</persname>
+                        <persname>Davis, Bill</persname>
+
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Live at Arisia</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Available on CD Baby</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>The Subs</persname></origination> </did>
+                    <controlaccess><persname>The Subs</persname>
+                        <persname>The Subs</persname>
+
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Riding Shotgun, Boombox on the Dash</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Riding Shotgun</persname></origination> </did>
+                    <controlaccess><persname>Riding Shotgun</persname>
+                        <persname>Riding Shotgun</persname>
+
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Sci Fi Drinking Songs</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: Full color, double sided card for CD Baby download</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #13</container>
+                </did>
+                    <controlaccess><persname>Gunn, Marc</persname>
+
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Selfie Absorbed - download card</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Available on CD Baby</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Jacobs, Drew</persname></origination> </did>
+                    <controlaccess><persname>Jacobs, Drew</persname>
+                        <persname>Jacobs, Drew</persname>
+
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Stolen Season - SJ Tucker - sticker and download code</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Waterwings</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Pinsker, Sarah</persname></origination> </did>
+                    <controlaccess><persname>Pinsker, Sarah</persname>
+                        <persname>Pinsker, Sarah</persname>
+
+                        <genreform source='local'>Download card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Download code for Earworm</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download code</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>NA</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Download code</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Earworm download code, reserved for Deb Wunder</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download code</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Download code</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Highlights of Filkcon 2 </unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: 36wy-ut4f</p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download code</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Download code</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Thanksgiving vs. Christmas the Musical, the commentary</unittitle>
+                    <unitdate normal='20150808'>8 August 2015</unitdate><abstract><p>Notes: Molly Lewis, et al</p>
+                        <p>Origin: 42224</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download code</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                </did>
+                    <controlaccess><persname>Various</persname>
+                        <persname>42224</persname>
+
+                        <genreform source='local'>Download code</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Wanderlings Volume 1</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Download code that looks like a CD insert card</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Download code </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Hudson, Leslie</persname></origination> </did>
+                    <controlaccess><persname>Hudson, Leslie</persname>
+                        <persname>Hudson, Leslie</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Download code </genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Tricky Pixie - Live! Soul Food Books Redmond, WA</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: A limited release of Tricky Pixie's first official concert</p>
+                        <p>Origin: Full liner notes and track listing at www.trickypixie.com</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Limited Edition CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #6</container>
+                    <origination label='creator'><persname>Tricky Pixie</persname></origination> </did>
+                    <controlaccess><persname>Tricky Pixie</persname>
+                        <persname>Tricky Pixie</persname>
+                        <persname>Full liner notes and track listing at www.trickypixie.com</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Limited Edition CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Mini CD with drivers for Alcor media Smart card reader driver</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Mini CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                </did>
+                    <controlaccess><persname>NA</persname>
+
+                        <genreform source='local'>Mini CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-1</unittitle>
+                    <unitdate normal='Might be 2006'>Might be 2006</unitdate><abstract><p>Notes: Mini - 003 third box of minidiscs #1</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-2</unittitle>
+                    <unitdate normal='Might be 2006'>Might be 2006</unitdate><abstract><p>Notes: Mini - 003 third box of minidiscs #2</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-3</unittitle>
+                    <unitdate normal='Might be 2006'>Might be 2006</unitdate><abstract><p>Notes: Mini - 003 third box of minidiscs #3</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-4</unittitle>
+                    <unitdate normal='Might be 2006'>Might be 2006</unitdate><abstract><p>Notes: Mini - 003 third box of minidiscs #4</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-5</unittitle>
+                    <unitdate normal='Might be 2006'>Might be 2006</unitdate><abstract><p>Notes: Mini - 003 third box of minidiscs #5</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-7 </unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Loose in box - Could be Confluence 2006 based on position in sequence</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-8</unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Loose in box - Could be Confluence 2006 based on position in sequence</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>C6-9</unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: Loose in box - Could be Confluence 2006 based on position in sequence</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>GAFia - GF15 | DFS Disc 15 | 07/07/01 Sci-Fi-Summer | 08/18/01 Housefilk | 09/08/01 Housefilk </unittitle>
+                    <unitdate normal='2001'>2001</unitdate><abstract><p>Notes: Mini - 009 ninth box of minidiscs #1</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>GF-17 GaFia disc 17 12/09/01, 02/23/02, 06/14/02</unittitle>
+                    <unitdate normal='2002'>2002</unitdate><abstract><p>Notes: Mini - 015 fifteenth box of minidiscs #1</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>GF-18 GaFia disc 18 Sci Fi Summer June 14-16, 2002</unittitle>
+                    <unitdate normal='2002'>2002</unitdate><abstract><p>Notes: Mini - 015 fifteenth box of minidiscs #2</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>GF-19 GaFia disc 19 </unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 015 fifteenth box of minidiscs #3</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>GF-20 GaFia disc 20</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 015 fifteenth box of minidiscs #4</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>GF-21 GaFia disc 21</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 015 fifteenth box of minidiscs #5</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Kathy Mar ~60 min Toc error on playback ~2 min (on Sharp)</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 008 eighth box of minidiscs #13</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>MS-1 Mid-South Con 2007 - Disc 1</unittitle>
+                    <unitdate normal='2007'>2007</unitdate><abstract><p>Notes: Mini - 010 tenth box of minidiscs #5 NASFilk 2005 - 4 discs / MidSouthCon 2007 2 discs</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>MS-2 Mid South Con 2007 - Disc 2</unittitle>
+                    <unitdate normal='2007'>2007</unitdate><abstract><p>Notes: Mini - 010 tenth box of minidiscs #6 NASFilk 2005 - 4 discs / MidSouthCon 2007 2 disc</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NS-1 NASFic 2005-1</unittitle>
+                    <unitdate normal='2005'>2005</unitdate><abstract><p>Notes: Mini - 010 tenth box of minidiscs #1 NASFilk 2005 - 4 discs / MidSouthCon 2007 2 discs</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NS-2</unittitle>
+                    <unitdate normal='2005'>2005</unitdate><abstract><p>Notes: Mini - 010 tenth box of minidiscs #2 NASFilk 2005 - 4 discs / MidSouthCon 2007 2 discs</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NS-3</unittitle>
+                    <unitdate normal='2005'>2005</unitdate><abstract><p>Notes: Mini - 010 tenth box of minidiscs #3 NASFilk 2005 - 4 discs / MidSouthCon 2007 2 discs</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>NS-4</unittitle>
+                    <unitdate normal='2005'>2005</unitdate><abstract><p>Notes: Mini - 010 tenth box of minidiscs #4 NASFilk 2005 - 4 discs / MidSouthCon 2007 2 discs</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>OVFF 01 BKUP 2</unittitle>
+                    <unitdate normal='2007'>2007</unitdate><abstract><p>Notes: In slip cover, track list says: 01, 02 No Greater Love 03-10 Trad/Renn Faire, 11. High Frontier 12. Shebeg Shemore 13. - 14. Yogh, Ash + Thorn 15. Slash in the Pan 16. Know It All By Heart 17. What'll I Do 18. RTFM 19. Lisdoon Varna Dulcimer? 20. Guinevere 21. Divinity ReHeat 22. Sedona 23. Greensl. 24. ??? Whitaker</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Susan Hickey 5 song set Celtic Festival 2005</unittitle>
+                    <unitdate normal='2005'>2005</unitdate><abstract><p>Notes: Mini - 015 fifteenth box of minidiscs #6</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled black minidisc in sleeve</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 008 eighth box of minidiscs #9</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled black minidisc in sleeve</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 008 eighth box of minidiscs #10</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled yellow minidisc</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 008 eighth box of minidiscs 5</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled yellow minidisc</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 008 eighth box of minidiscs #6</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled yellow minidisc</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Mini - 008 eighth box of minidiscs #7</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Sony MZ-R55 Portable Minidisc Recorder</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Has power supply and microphone and carry bag</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc Player</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>MiniDisc Player</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Third Thymes the Charm</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Pre-distribution card</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Three Weird Sisters</persname></origination> </did>
+                    <controlaccess><persname>Three Weird Sisters</persname>
+                        <persname>Three Weird Sisters</persname>
+
+                        <genreform source='local'>Pre-distribution card</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Pre-release for Plaid & Personal</unittitle>
+                    <unitdate normal='2003'>2003</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Promotional CD</p>
+
+                        <p>Convention: NA</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Pre-release CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #5</container>
+                    <origination label='creator'><persname>Ghost of a Rose</persname></origination> </did>
+                    <controlaccess><persname>Ghost of a Rose</persname>
+                        <persname>Ghost of a Rose</persname>
+                        <persname>Promotional CD</persname>
+                        <subject>Convention--NA</subject>
+                        <genreform source='local'>Pre-release CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle></unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: There are a lot of codes on the sheet. As of 11-28-2019, they are still working</p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Printout of Download codes for A Song of Sherwood</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Floating Filk Studios</persname>
+                        <persname>Various</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Printout of Download codes for A Song of Sherwood</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Bawdy Ladies' Book: Songs of Love and Lust from a Female Perspective sung by Wild Rose Anabel Graetz and Anne Goodwin with Linda Lombardi</unittitle>
+                    <unitdate normal='1986'>1986</unitdate><abstract><p>Notes: Recorded at the Somerville Media Action Project by Mark Lord, Mixed by Anabel Graetz and Mark Lord</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Professional Cassette</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess><persname>Graetz, Anabel | Lombardi, Linda | Goodwin, Anne</persname>
+
+                        <genreform source='local'>Professional Cassette</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Dragonsongs</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: This is a tape of music inspired by Anne McCaffery's Pern novels</p>
+                        <p>Origin: Performaing Arts Press</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Professional Cassette </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='publisher'><persname>Performaing Arts Press</persname></origination> </did>
+                    <controlaccess><persname>Performaing Arts Press</persname>
+                        <persname>Various</persname>
+                        <persname>Performaing Arts Press</persname>
+
+                        <genreform source='local'>Professional Cassette </genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Who Let Him In Here?!?</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: This is Tom Smith's widely available commercial filk tape, in good condition.</p>
+                        <p>Origin: Dodeka Records</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Professional Cassette </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #2</container>
+                    <origination label='creator'><persname>Smith, Tom</persname></origination><origination label='publisher'><persname>Dodeka Records</persname></origination> </did>
+                    <controlaccess><persname>Smith, Tom</persname>
+                        <persname>Dodeka Records</persname>
+                        <persname>Smith, Tom</persname>
+                        <persname>Dodeka Records</persname>
+
+                        <genreform source='local'>Professional Cassette </genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Alive and Filking</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Professional CD</genreform>
+                        <extent>6 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Professional CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Dark Deeds & Desperate Men (and Women)</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Professional CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Professional CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Heroes & Villans (& Some In Between) </unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: Floating Filk Studios</p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Professional CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                    <origination label='creator'><persname>Rogow, Roberta</persname></origination><origination label='publisher'><persname>Floating Filk Studios</persname></origination> </did>
+                    <controlaccess><persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+                        <persname>Rogow, Roberta</persname>
+                        <persname>Floating Filk Studios</persname>
+
+                        <genreform source='local'>Professional CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Teri Lee</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Tape</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Tape</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled tape</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Tape</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Tape</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled tape</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Tape</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Tape</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled tape</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Tape</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Tape</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Unlabelled tape</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: No case on tape</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Tape</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess>
+                        <genreform source='local'>Tape</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>The Passing of Time | The Good Times | Throwaway World - Lawrence Dean</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Probably Lawrence Dean's folk tapes</p>
+                        <p>Origin: </p>
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Tape - obvious copy</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess><persname>Dean, Lawrence</persname>
+
+                        <genreform source='local'>Tape - obvious copy</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Slight scuffed CD with NEFilk and Interfilk logos on it, but no contents</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: There doesn't appear to be anything on the disc, but Harold labelled it, probably so he could burn it at NEFilk on demand.</p>
+                        
+
+
+                    </abstract>
+                    <physdesc> <genreform source='local'>Unburnt CD</genreform>
+                        <extent>2 copy</extent></physdesc>
+                    <container type='box'>Box #1</container>
+                </did>
+                    <controlaccess><persname>NA</persname>
+                        <persname>-</persname>
+
+                        <genreform source='local'>Unburnt CD</genreform>
+                        <genreform source='local'>audio</genreform>
+                    </controlaccess>
+                </c>"""
+
+
+
+
                 </c02>
+
+
+
+
+
+
             </c01>
             <c01 level="series" id="LyricsAndSheetMusic">
                 <did>
@@ -28257,6 +29643,237 @@
                         <unittitle>Worldcon</unittitle>
                     </did>
 
+                    "<c level='item'> <did> <unittitle>Torcon, the 61st World Science Fiction Convention</unittitle>
+                    <unitdate normal='2003'>2003</unitdate><abstract><p>Notes: White cover with a beaver in a space suit holding the Canadian flag</p>
+                        <p>Origin: August 28-September 1, 2003</p>
+
+                        <p>Convention: WorldCon 61, Torcon</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Program Book</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #8</container>
+                    <origination label='creator'><persname>Torcon, the Toronto Worldcon</persname></origination> </did>
+                    <controlaccess><persname>Torcon, the Toronto Worldcon</persname>
+                        <persname>August 28-September 1, 2003</persname>
+                        <subject>Convention--WorldCon 61, Torcon</subject>
+                        <genreform source='local'>Program Book</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>N4-1 2004 Worldcon - Noreascon 2004 - Discs #1-3</unittitle>
+                    <unitdate normal='2004'>2004</unitdate><abstract><p>Notes: Mini - 005 fifth box of minidiscs #1</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: Worldcon 62, Noreascon 4 in Boston</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess><subject>Convention--Worldcon 62, Noreascon 4 in Boston</subject>
+                        <genreform source='local'>MiniDisc</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>N4-2 Noreascon 2004 - Disc 2</unittitle>
+                    <unitdate normal='2004'>2004</unitdate><abstract><p>Notes: Mini - 005 fifth box of minidiscs #2</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: Worldcon 62, Noreascon 4 in Boston</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess><subject>Convention--Worldcon 62, Noreascon 4 in Boston</subject>
+                        <genreform source='local'>MiniDisc</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>N4-3 Noreascon 2004 - Disc 3</unittitle>
+                    <unitdate normal='2004'>2004</unitdate><abstract><p>Notes: Mini - 005 fifth box of minidiscs #3</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: Worldcon 62, Noreascon 4 in Boston</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>MiniDisc</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #17</container>
+                </did>
+                    <controlaccess><subject>Convention--Worldcon 62, Noreascon 4 in Boston</subject>
+                        <genreform source='local'>MiniDisc</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Fri I </unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: These appear to be disc of photos, broken down by the name of the photographer, and taken at the Los Angeles hosted Worlcon in 2006</p>
+                        <p>Origin: Photography program at Worldcon 2006</p>
+
+                        <p>Convention: WorldCon 64, L.A.Con 4</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='creator'><persname>Worldcon 2006</persname></origination> </did>
+                    <controlaccess><persname>Worldcon 2006</persname>
+                        <persname>NA</persname>
+                        <persname>Photography program at Worldcon 2006</persname>
+                        <subject>Convention--WorldCon 64, L.A.Con 4</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Fri II</unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: These appear to be disc of photos, broken down by the name of the photographer, and taken at the Los Angeles hosted Worlcon in 2006</p>
+                        <p>Origin: Photography program at Worldcon 2006</p>
+
+                        <p>Convention: WorldCon 64, L.A.Con 4</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='creator'><persname>Worldcon 2006</persname></origination> </did>
+                    <controlaccess><persname>Worldcon 2006</persname>
+                        <persname>NA</persname>
+                        <persname>Photography program at Worldcon 2006</persname>
+                        <subject>Convention--WorldCon 64, L.A.Con 4</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Fri III</unittitle>
+                    <unitdate normal='2006'>2006</unitdate><abstract><p>Notes: These appear to be disc of photos, broken down by the name of the photographer, and taken at the Los Angeles hosted Worlcon in 2006</p>
+                        <p>Origin: Photography program at Worldcon 2006</p>
+
+                        <p>Convention: WorldCon 64, L.A.Con 4</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Burnt CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #4</container>
+                    <origination label='creator'><persname>Worldcon 2006</persname></origination> </did>
+                    <controlaccess><persname>Worldcon 2006</persname>
+                        <persname>NA</persname>
+                        <persname>Photography program at Worldcon 2006</persname>
+                        <subject>Convention--WorldCon 64, L.A.Con 4</subject>
+                        <genreform source='local'>Burnt CD</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Enclosed DVDs of pictures of the event</unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Printed on LACon 4 Stationary, Letter is from Feb 3, 2007</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: WorldCon 64, L.A.Con 4</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Letter</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #8</container>
+                    <origination label='creator'><persname>LACon 4, 64th Worldcon</persname></origination> </did>
+                    <controlaccess><persname>LACon 4, 64th Worldcon</persname>
+                        <subject>Convention--WorldCon 64, L.A.Con 4</subject>
+                        <genreform source='local'>Letter</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Story into Song: Music Inspired by the works of Lois McMaster Bujold</unittitle>
+                    <unitdate normal='20080809'>9 August 2008</unitdate><abstract><p>Notes: White cover, pamphlet style, staple bound</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: Worldcon 66, Denvention 3</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial Songbook</genreform>
+                        <extent>2 copy</extent></physdesc>
+                    <container type='box'>Box #16</container>
+                </did>
+                    <controlaccess><persname>various</persname>
+                        <subject>Convention--Worldcon 66, Denvention 3</subject>
+                        <genreform source='local'>Commercial Songbook</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Eclectic II: Prophecies & Lies</unittitle>
+                    <unitdate normal='2009'>2009</unitdate><abstract><p>Notes: This is intended as a companion volume for our last album ""Firebrand"". It collects our favorite tracks from our out-of-print CDs, plus the four finished tracks from ""Sundown"" our ongoing Norse Mythology album project focusing on the death of Baldur, wich we hope to complete in 2010-2011.</p>
+                        <p>Origin: Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</p>
+
+                        <p>Convention: WorldCon 67, Anticipation</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Commercial CD</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #6</container>
+                    <origination label='creator'><persname>Sassafras</persname></origination><origination label='contributer'><persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname></origination> </did>
+                    <controlaccess><persname>Sassafras</persname>
+                        <persname>Sassafrass</persname>
+                        <persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname>
+                        <persname>Sound editing by Matt (Granoff), Lauren (Schiller) and Ada (Palmer) and special thanks to Brad Smith from the Second Shift audio drama.</persname><subject>Convention--WorldCon 67, Anticipation</subject>
+                        <genreform source='local'>Commercial CD</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Chicon #7</unittitle>
+                    <unitdate normal='2012'>2012</unitdate><abstract><p>Notes: White shiny fold-up schedule</p>
+                        <p>Origin: 2012?</p>
+
+                        <p>Convention: WorldCon 70, Chicon 7</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Schedule</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #7</container>
+                    <origination label='creator'><persname>Chicago Worldcon</persname></origination> </did>
+                    <controlaccess><persname>Chicago Worldcon</persname>
+                        <persname>NA</persname>
+                        <persname>2012?</persname>
+                        <subject>Convention--WorldCon 70, Chicon 7</subject>
+                        <genreform source='local'>Schedule</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>San Jose Worldcon, 2018 Progress report #0</unittitle>
+                    <unitdate normal='2018'>2018</unitdate><abstract><p>Notes: Glossy flier</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: WorldCon 76, Worldcon 76 in San Jose</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Progress report</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                </did>
+                    <controlaccess><subject>Convention--WorldCon 76, Worldcon 76 in San Jose</subject>
+                        <genreform source='local'>Progress report</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Montreal 2017, Worldcon Bid Membership form</unittitle>
+                    <unitdate normal='2017'>2017</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+                        <p>Convention: worldcon bid</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Membership form</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                    <origination label='creator'><persname>Montreal in 2017 (failed Worldcon bid)</persname></origination> </did>
+                    <controlaccess><persname>Montreal in 2017 (failed Worldcon bid)</persname>
+                        <subject>Convention--worldcon bid</subject>
+                        <genreform source='local'>Membership form</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Presupport form for Helsinki in 2017</unittitle>
+                    <unitdate normal='2017'>2017</unitdate><abstract><p>Notes: </p>
+                        <p>Origin: </p>
+
+                        <p>Convention: worldcon bid</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Membership form</genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                </did>
+                    <controlaccess><subject>Convention--worldcon bid</subject>
+                        <genreform source='local'>Membership form</genreform>
+                    </controlaccess>
+                </c>"""
+                    "<c level='item'> <did> <unittitle>Receipt for membership in DC 17 (failed Worldcon bid) </unittitle>
+                    <unitdate normal=''></unitdate><abstract><p>Notes: Harold paid cash for this membership at Boskone</p>
+                        <p>Origin: </p>
+
+                        <p>Convention: worldcon bid</p>
+                    </abstract>
+                    <physdesc> <genreform source='local'>Receipt </genreform>
+                        <extent>1 copy</extent></physdesc>
+                    <container type='box'>Box #9</container>
+                </did>
+                    <controlaccess><subject>Convention--worldcon bid</subject>
+                        <genreform source='local'>Receipt </genreform>
+                    </controlaccess>
+                </c>"""
+
 
                     <c03 level='file'>
                         <did>
@@ -32271,6 +33888,59 @@
 
             </c01>
 
+            <c01 level="series" id="misc">
+                <did><unittitle>Miscelaneus</unittitle></did>
+
+                "<c level='item'> <did> <unittitle>Greenmantle: A Pagan Journal</unittitle>
+                <unitdate normal='2011'>2011</unitdate><abstract><p>Notes: With CD that contains Talis Kimberley tracks</p>
+                    <p>Origin: Beltaine 2011 edition</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Greenmantle</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #8</container>
+                <origination label='creator'><persname>Kimberley, Talis</persname></origination><origination label='publisher'><persname>Beltaine 2011 edition</persname></origination> </did>
+                <controlaccess><persname>Kimberley, Talis</persname>
+                    <persname>Beltaine 2011 edition</persname>
+                    <persname>Kimberley, Talis</persname>
+                    <persname>Beltaine 2011 edition</persname>
+
+                    <genreform source='local'>Greenmantle</genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Guitar chords </unittitle>
+                <unitdate normal=''></unitdate><abstract><p>Notes: </p>
+                    <p>Origin: </p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Guitar chords </genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #9</container>
+            </did>
+                <controlaccess>
+                    <genreform source='local'>Guitar chords </genreform>
+                </controlaccess>
+            </c>"""
+                "<c level='item'> <did> <unittitle>Star Trek: Journey to Babel, 2nd Edition Final Draft</unittitle>
+                <unitdate normal='1967'>1967</unitdate><abstract><p>Notes: Autographed to Lisa</p>
+                    <p>Origin: Desilu Productions, Inc. Sept 19, 1967</p>
+
+
+                </abstract>
+                <physdesc> <genreform source='local'>Script</genreform>
+                    <extent>1 copy</extent></physdesc>
+                <container type='box'>Box #11</container>
+                <origination label='publisher'><persname>Desilu Productions, Inc</persname></origination> </did>
+                <controlaccess><persname>Desilu Productions, Inc</persname>
+                    <persname>Desilu Productions, Inc. Sept 19, 1967</persname>
+
+                    <genreform source='local'>Script</genreform>
+                </controlaccess>
+            </c>"""
+
+            </c01>
 
         </dsc>
     </archdesc>
