@@ -1,8 +1,10 @@
-<?xml version="1.0"?>
-<!DOCTYPE EAD PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN"
-        'ead.dtd'>
-<EAD>
-    <eadheader findaidstatus="in_progress" repositoryencoding="iso15511" countryencoding="iso3166-1"
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd" >
+
+
+<ead relatedencoding="MARC21">
+
+<eadheader findaidstatus="in_progress" repositoryencoding="iso15511" countryencoding="iso3166-1"
                dateencoding="iso8601" langencoding="iso639-2b">
 
         <eadid countrycode="us" >filk</eadid>
@@ -1046,28 +1048,14 @@
                                 <origination label='creator'>
                                     <persname>Brobdingnagian Bards</persname>
                                 </origination>
-                                <origination label='contributer'>
-                                    <persname>Recordings are listed as June 29, 2001 and November 15, 2002 on the jcard.
-                                        Recorded Live at KEOS 89.1 FM in Bryan, Texas on Celtic Core, Hosted by Tom
-                                        Schwerdt CD-ROM featuring bootleg-quality MP3s record live. (sic) Mage Records,
-                                        PO Box 4067, Austin, TX 78765
-                                    </persname>
-                                </origination>
+
                             </did>
                             <controlaccess>
                                 <persname>Brobdingnagian Bards</persname>
                                 <persname>Brobdingnagian Bards</persname>
-                                <persname>Recordings are listed as June 29, 2001 and November 15, 2002 on the jcard.
-                                    Recorded Live at KEOS 89.1 FM in Bryan, Texas on Celtic Core, Hosted by Tom Schwerdt
-                                    CD-ROM featuring bootleg-quality MP3s record live. (sic) Mage Records, PO Box 4067,
-                                    Austin, TX 78765
-                                </persname>
-                                <persname>Recordings are listed as June 29, 2001 and November 15, 2002 on the jcard.
-                                    Recorded Live at KEOS 89.1 FM in Bryan, Texas on Celtic Core, Hosted by Tom Schwerdt
-                                    CD-ROM featuring bootleg-quality MP3s record live. (sic) Mage Records, PO Box 4067,
-                                    Austin, TX 78765
-                                </persname>
-
+                                <corpname>KEOS 89.1 FM</corpname>
+                                <persname>Tom Schwerdt</persname>
+<corpname>age Records</corpname>
                                 <genreform source='local'>Commercial CD</genreform>
                             </controlaccess>
                         </c04>
@@ -1328,27 +1316,11 @@
                                 <origination label='creator'>
                                     <persname>Brooks, Eben</persname>
                                 </origination>
-                                <origination label='contributer'>
-                                    <persname>All songs recorded using Apple Garage Band. All vocals by Eben Brooks,
-                                        except where stated otherwise, Original lyrics and music copyright 1987-2010 by
-                                        Eben Brooks, except where otherwise specified, cover design copyright @2010 by
-                                        Eben Brooks, Starfield photo by Chensiyuan.
-                                    </persname>
-                                </origination>
                             </did>
                             <controlaccess>
                                 <persname>Brooks, Eben</persname>
-                                <persname>Brooks, Eben</persname>
-                                <persname>All songs recorded using Apple Garage Band. All vocals by Eben Brooks, except
-                                    where stated otherwise, Original lyrics and music copyright 1987-2010 by Eben
-                                    Brooks, except where otherwise specified, cover design copyright @2010 by Eben
-                                    Brooks, Starfield photo by Chensiyuan.
-                                </persname>
-                                <persname>All songs recorded using Apple Garage Band. All vocals by Eben Brooks, except
-                                    where stated otherwise, Original lyrics and music copyright 1987-2010 by Eben
-                                    Brooks, except where otherwise specified, cover design copyright @2010 by Eben
-                                    Brooks, Starfield photo by Chensiyuan.
-                                </persname>
+                                                                <persname>All songs recorded using Apple Garage Band.
+                            </persname>
 
                                 <genreform source='local'>Commercial CD</genreform>
                             </controlaccess>
@@ -1863,10 +1835,10 @@
 
                                     Origin: Mary Crowell
 
-                                    <a href='http://www.magnusretail.com/merch.html'>in-print (unknown
+                                    <extref href='http://www.magnusretail.com/merch.html'>in-print (unknown
                                         version/edition)
                                         : http://www.magnusretail.com/merch.html
-                                    </a>
+                                    </extref>
 
                                 </abstract>
                                 <physdesc>
@@ -2371,32 +2343,18 @@
                                     <persname>Echo's Children</persname>
                                 </origination>
                                 <origination label='contributer'>
-                                    <persname>Echo's Children c/o 603 S.E. 48th Avenue, Portland, OR 97215 | Recorded at
-                                        Aslan Studios, Beaverton, Oregon USA, Sound Engineer: Steve Redig, Executive
-                                        Producer: Arlene "Callie" Hills, Produced by Arlene "Callie" Hills and
-                                        Catherine
-                                        Faber @2003. All rights reserved. Original Artwork by Kirsti McElligott @2003
-                                        All
-                                        rights reserved.
+                                    <persname>Aslan Studios|Steve Redig|
+                                        |Arlene "Callie" Hills |
+                                        Catherine Faber | Kirsti McElligott
                                     </persname>
                                 </origination>
                             </did>
                             <controlaccess>
                                 <persname>Echo's Children</persname>
                                 <persname>Echo's Children</persname>
-                                <persname>Echo's Children c/o 603 S.E. 48th Avenue, Portland, OR 97215 | Recorded at
-                                    Aslan
-                                    Studios, Beaverton, Oregon USA, Sound Engineer: Steve Redig, Executive Producer:
-                                    Arlene
-                                    "Callie" Hills, Produced by Arlene "Callie" Hills and Catherine Faber @2003. All
-                                    rights reserved. Original Artwork by Kirsti McElligott @2003 All rights reserved.
-                                </persname>
-                                <persname>Echo's Children c/o 603 S.E. 48th Avenue, Portland, OR 97215 | Recorded at
-                                    Aslan
-                                    Studios, Beaverton, Oregon USA, Sound Engineer: Steve Redig, Executive Producer:
-                                    Arlene
-                                    "Callie" Hills, Produced by Arlene "Callie" Hills and Catherine Faber @2003. All
-                                    rights reserved. Original Artwork by Kirsti McElligott @2003 All rights reserved.
+                                <persname>Aslan Studios|Steve Redig|
+                                    |Arlene "Callie" Hills |
+                                    Catherine Faber | Kirsti McElligott
                                 </persname>
 
                                 <genreform source='local'>Commercial CD</genreform>
@@ -2457,15 +2415,6 @@
                                 <container type='box'>3</container>
                                 <origination label='creator'>
                                     <persname>Ecklar, Julia</persname>
-                                </origination>
-                                <origination label='contributer'>
-                                    <persname>@1981, 2006, Julia Ecklar, recording engineer Clyde Jones, Media transfer:
-                                        Scott Dorsey (Kludge Audio) Digital Remastering: Adam C. Puche, Project
-                                        Coordination: Eli Goldberg, Cover Illustration: Todd Hamilton, Package Design:
-                                        bigwigdesign.com Thanks to Nan Burridge, Ann Cecil, Joe Ellis, Lee Gold, Todd
-                                        Hamilton, Marj Ihssen, Clyde Jones, Kristopher Klover, Anne McCaffrey, Joey
-                                        Shoji and Harold Stein.
-                                    </persname>
                                 </origination>
                             </did>
                             <controlaccess>
@@ -4676,7 +4625,7 @@
 
 
                     </c03>
-                    a
+
 
                     <c03 level="file">
                         <did>
@@ -5471,11 +5420,6 @@
                         <c04 level='item'>
                             <did>
                                 <unittitle>The Bifrost Incident</unittitle>
-
-                                <abstract>
-
-                                    Origin:
-                                </abstract>
                                 <physdesc>
                                     <genreform source='local'>Commercial CD</genreform>
                                     <extent>1 copy</extent>
@@ -6700,15 +6644,12 @@
                             </did>
                             <controlaccess>
                                 <persname>FIDIM Interactive, LLC</persname>
-                                <persname>FIDIM Interactive, LLC</persname>
-
                                 <genreform source='local'>Commercial CD</genreform>
                             </controlaccess>
                         </c04>
 
                     </c03>
                 </c02>
-
             </c01>
             <c01 level="series" id="LyricsAndSheetMusic">
                 <did>
@@ -6762,7 +6703,7 @@
                             <subject>Zine--Philk Fee-Nom-Ee-Non</subject>
                         </controlaccess>
                     </c03>
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Binder of Xenofilkia</unittitle>
                             <abstract>Black cover, spine says Xeno 43, contains Xenofilkia 43-65</abstract>
@@ -6778,8 +6719,8 @@
                             <subject>Zine--Xenofilkia</subject>
 
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Filk Index Binder - White</unittitle>
                             <abstract>White cover, three ring binder, with Filk Index written on the spine, appears to
@@ -6799,8 +6740,8 @@
                             <genreform source='local'>Index</genreform>
 
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Indexed binder 2673 - 2822</unittitle>
                             <abstract>White cover, 2673 is written on spine. Un-numbered (possible duplicates in back of
@@ -6817,8 +6758,8 @@
                         <controlaccess>
                             <genreform source='local'>Binder</genreform>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Savitsky Loose Filk Binder</unittitle>
                             <abstract>Black cover, contains, alphabetized filk pages - This has been moved to Box #12
@@ -6838,8 +6779,8 @@
                             <persname>Savistsky</persname>
 
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Savitsky Misc. Songbooks</unittitle>
                             <abstract>White binder with Savitsky, misc filkbooks on the spine: Contains Bayfilk,
@@ -6875,8 +6816,8 @@
                             <subject>CPSC Songsheet</subject>
                             <subject>The Darkover Songbook</subject>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Unlabelled black binder of filk songbooks</unittitle>
                             <abstract>Black cover, unlabelled, contains Pernsongs, Rec Room Rhymes Omnibus, More Rec
@@ -6904,8 +6845,8 @@
                             <subject>ConChord</subject>
                             <subject>Stone Hill Filk songbooks</subject>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Indexed binder 1301-2000</unittitle>
                             <unitdate normal='2000'>2000</unitdate>
@@ -6922,7 +6863,7 @@
                             <genreform source='local'>Index</genreform>
 
                         </controlaccess>
-                    </c04>
+                    </c03>
                     <c03 level='item'>
                         <did>
                             <unittitle>Indexed binder 2001-2672</unittitle>
@@ -6941,8 +6882,6 @@
 
                         </controlaccess>
                     </c03>
-
-
                 </c02>
                 <c02 level="subseries" id="Songbooks">
                     <did>
@@ -6966,10 +6905,10 @@
                                     Notes: Beige book, stapled
                                     Origin: Chainik Press Publications, Publication #68, 1978
 
-                                    <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print
+                                    <extref href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print
                                         (different
                                         version/edition) : http://data.nesfa.org/press/Books/KellerAnderson.html
-                                    </a>
+                                    </extref>
 
                                 </abstract>
                                 <physdesc>
@@ -7003,10 +6942,10 @@
 
                                     Origin: Chainik Press Publications
 
-                                    <a href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print
+                                    <extref href="http://data.nesfa.org/press/Books/KellerAnderson.html">in-print
                                         (different
                                         version/edition) : http://data.nesfa.org/press/Books/KellerAnderson.html
-                                    </a>
+                                    </extref>
 
                                 </abstract>
                                 <physdesc>
@@ -7679,7 +7618,7 @@
                     </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Filkindex, Revised Edition</unittitle>
                             <unitdate normal='1990'>1990</unitdate>
@@ -7701,10 +7640,10 @@
                             <persname>Compiled by Carol Kabakjian, 1990</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Concertino 2015</unittitle>
                             <unitdate normal='2015'>2015</unitdate>
@@ -7726,10 +7665,10 @@
                             <persname>Concertino 2015</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Life Trolley Ride</unittitle>
                             <unitdate normal='1981'>1981</unitdate>
@@ -7756,10 +7695,10 @@
                             <persname>Folk-Legacy records, Inc. 1981</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>An Even Scarier Solistice</unittitle>
                             <unitdate normal='2006'>2006</unitdate>
@@ -7780,10 +7719,10 @@
                             <persname>H.P. Lovecraft Historical Society</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>NJ Accoustic Music in the Park</unittitle>
                             <abstract>
@@ -7804,10 +7743,10 @@
                             <persname>Ken Brown</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Starsongs</unittitle>
                             <unitdate normal='1992'>1992</unitdate>
@@ -7830,10 +7769,10 @@
                             <persname>Larry Kirby III, 1992</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Renewal</unittitle>
                             <abstract>
@@ -7853,10 +7792,10 @@
                             <persname>Kiva and Friends</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>The Not Much is Sacred Songbook: Parodies for Midwinter and Other Occasions by
                                 Patricia A Leslie
@@ -7881,10 +7820,10 @@
                             <persname>Reprinted in 2016</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Songs and Ballads</unittitle>
                             <unitdate normal='1983'>1983</unitdate>
@@ -7905,10 +7844,10 @@
                             <persname>Luckett, Dave</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Songs and Ballads</unittitle>
                             <unitdate normal='1983'>1983</unitdate>
@@ -7929,10 +7868,10 @@
                             <persname>Luckett, Dave</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Northeast Passages: A Collection of Filk from Northeastern U.S.</unittitle>
                             <unitdate normal='2006'>2006</unitdate>
@@ -7955,10 +7894,10 @@
                             <persname normal="MASSFILC">M.A.S.S.F.I.L.C.</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Harry! A Potter Rock Opera</unittitle>
                             <abstract>
@@ -7980,10 +7919,10 @@
                             <genreform source='local'>Songbook</genreform>
                             <genreform source='local'>Musical</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Summer Storm and other tunes and arrangements</unittitle>
                             <abstract>
@@ -8003,7 +7942,7 @@
                             <persname>Midkiff, Jennifer</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
                     <c03 level='item'>
@@ -8018,9 +7957,9 @@
 
                                 Origin: BECCON Publications, Feb 2001, Cover art by Sue Mason
 
-                                <a href="http://www.beccon.org/B/3comealong.html">out of print :
+                                <extref href="http://www.beccon.org/B/3comealong.html">out of print :
                                     http://www.beccon.org/B/3comealong.html
-                                </a>
+                                </extref>
 
                             </abstract>
                             <physdesc>
@@ -8100,7 +8039,7 @@
                     </c03>
 
 
-                    <c02 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Songfest Songs</unittitle>
                             <abstract>
@@ -8121,7 +8060,7 @@
                             <persname>Patrick Kelly's Trek Con in Richmore</persname>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c02>
+                    </c03>
 
 
                     <c03 level='item'>
@@ -8698,10 +8637,10 @@
 
                                 Origin: The SETI League, Inc.
 
-                                <a href="http://www.setileague.org/songbook/book1.htm">in-print (unknown
+                                <extref href="http://www.setileague.org/songbook/book1.htm">in-print (unknown
                                     version/edition) :
                                     http://www.setileague.org/songbook/book1.htm
-                                </a>
+                                </extref>
 
                             </abstract>
                             <physdesc>
@@ -9292,7 +9231,7 @@
                             <unitdate normal='1994/1995'>1994</unitdate>
                             <abstract>
                                 Notes: Green plastic folder with clip binding
-                                Date on book is <date calendar="AnnoSocietatis">"A.S. 29"</date> which is means Anno
+                                Date on book is "A.S. 29" which is means Anno
                                 Societatis 29, or the 29th year of the SCA's existence.
 
                                 Origin: SCA
@@ -10746,10 +10685,10 @@
                                 <physdesc>
                                     <genreform source="local">Songbook</genreform>
                                 </physdesc>
-                                <dao linktype="simple" href="../filk/filk1.jpg"
-                                     actuate=" onload" show="embed" rel="alternate" type="application/json+oembed"/>
-                                <dao linktype="simple" href="../filk/filk2.jpg"
-                                     actuate=" onrequest" show="new"/>
+                                <dao  href="../filk/filk1.jpg"
+                                     actuate="onload" show="embed" />
+                                <dao  href="../filk/filk2.jpg"
+                                     actuate="onrequest" show="new"/>
                                 <origination label="creator">
                                     <persname>Wallentinson, Denise</persname>
                                 </origination>
@@ -10791,7 +10730,7 @@
                             <unittitle>Lyrics</unittitle>
                         </did>
                     </c03>
-                    <c04 level="subseries" id="Sheet Music">
+                    <c03 level="subseries" id="SheetMusic">
                         <did>
                             <unittitle>Sheet Music</unittitle>
                         </did>
@@ -13375,10 +13314,10 @@
                 <c02 level="subseries" id="Xenofilkia">
                     <did>
                         <unittitle>Xenofilkia</unittitle>
-                        <abstract><p>Xenofilkia is a bimonthly fan zine run by <persname>Lee Gold</persname>. It is in
+                        <abstract>Xenofilkia is a bimonthly fan zine run by Lee Gold. It is in
                             print.
                             Information about subscribing or purchasing issues can be found at
-                            <a href="https://www.conchord.org/xeno/#indexes">https://www.conchord.org/xeno/</a>.</p>
+                            <extref href="https://www.conchord.org/xeno/#indexes">https://www.conchord.org/xeno/</extref>.
                         </abstract>
                     </did>
 
@@ -14114,7 +14053,7 @@
                         <did>
                             <unittitle>Xenofilkia #42</unittitle>
                             <unitdate normal='19950801'>1 Aug 1995</unitdate>
-                            <abstract>Yellow cover with lionfish mermaid (early <persname normal="McGuire, Seanan">Seanan McGuire </persname> art)
+                            <abstract>Yellow cover with lionfish mermaid (early Seanan McGuire art)
                             </abstract>
                             <physdesc>
                                 <genreform source='local'>Zine</genreform>
@@ -17758,7 +17697,7 @@
                                 <persname>Housman, Mordecai</persname>
                             </origination>
                             <dao linktype="simple" href="https://archive.org/details/APA-Filk-May-1992"
-                                 actuate=" onload" show="embed" rel="alternate" type="application/json+oembed"/>
+                                 actuate="onload" show="embed" />
                         </did>
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
@@ -17913,7 +17852,7 @@
                         </controlaccess>
                     </c03>
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #63</unittitle>
                             <unitdate normal='19940801'>August 1994</unitdate>
@@ -17933,8 +17872,8 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #64</unittitle>
                             <unitdate normal='19941101'>November 1994</unitdate>
@@ -17949,8 +17888,8 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #65</unittitle>
                             <unitdate normal='19950201'>February 1995</unitdate>
@@ -17968,9 +17907,9 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #66</unittitle>
                             <unitdate normal='19950501'>1 May 1995</unitdate>
@@ -17988,8 +17927,8 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #66 - In Memoriam</unittitle>
                             <unitdate normal='19950501'>May 1995</unitdate>
@@ -18008,8 +17947,8 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #67: Special Scottish Worldcon Disty</unittitle>
                             <abstract>White cover with Scottsman</abstract>
@@ -18024,8 +17963,8 @@
                             <genreform source='local'>APA</genreform>
                             <subject>WorldCon</subject>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #68, November 1995</unittitle>
                             <unitdate normal='19951101'>November 1995</unitdate>
@@ -18044,8 +17983,8 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
-                    <c04 level='item'>
+                    </c03>
+                    <c03 level='item'>
                         <did>
                             <unittitle>APA-Filk #68: The Day the Music Died</unittitle>
                             <unitdate normal='19951101'>November 1995</unitdate>
@@ -18060,12 +17999,12 @@
                         <controlaccess>
                             <genreform source='local'>APA</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
                 </c02>
 
-                <c04 level='item'>
+                <c02 level='item'>
                     <did>
                         <unittitle>Mind Music: A Tomorrow People Fanzine</unittitle>
                         <unitdate normal='2003'>2003</unitdate>
@@ -18081,17 +18020,12 @@
                         <genreform source='local'>Zine</genreform>
                         <subject source="local">Fandom--Tomorrow People</subject>
                     </controlaccess>
-                </c04>
+                </c02>
 
-                <c04 level='item'>
+                <c02 level='item'>
                     <did>
                         <unittitle>A Few Subversive Ciphers by rap legend Jesse Dangerously and Friends</unittitle>
 
-                        <abstract></abstract>
-                        <physdesc>
-                            <genreform source='local'>Zine</genreform>
-                            <extent>1 copy</extent>
-                        </physdesc>
                         <container type='box'>7</container>
                         <origination label='creator'>
                             <persname>Dangerously, Jessie</persname>
@@ -18101,10 +18035,10 @@
                         <persname>Dangerously, Jessie</persname>
                         <genreform source='local'>Zine</genreform>
                     </controlaccess>
-                </c04>
+                </c02>
 
 
-                <c04 level='item'>
+                <c02 level='item'>
                     <did>
                         <unittitle>Brotherly Love: Being a Tale of the Hooded Man</unittitle>
 
@@ -18121,8 +18055,8 @@
                         <persname>Stevenson, Jean</persname>
                         <corpname>Jeanzine</corpname>
                     </controlaccess>
-                </c04>
-                <c04 level='item'>
+                </c02>
+                <c02 level='item'>
                     <did>
                         <unittitle>Immaculate Confusion Songbook</unittitle>
 
@@ -18140,9 +18074,9 @@
                     <controlaccess>
                         <genreform source='local'>Zine</genreform>
                     </controlaccess>
-                </c04>
+                </c02>
 
-                <c04 level='item'>
+                <c02 level='item'>
 
 
                     <did>
@@ -18163,8 +18097,8 @@
                         <persname>Eric Gerds</persname>
                         <genreform source='local'>Zine</genreform>
                     </controlaccess>
-                </c04>
-                <c04 level='item'>
+                </c02>
+                <c02 level='item'>
                     <did>
                         <unittitle>The Liberated Tardis Trek</unittitle>
                         <unitdate normal='1989'>1989</unitdate>
@@ -18180,10 +18114,10 @@
                         <genreform source='local'>Zine</genreform>
                         <persname>Atkinson, Wendy, D.</persname>
                     </controlaccess>
-                </c04>
+                </c02>
 
 
-                <c04 level='item'>
+                <c02 level='item'>
                     <did>
                         <unittitle>Fresh Beaver Tales - Fan fiction zine</unittitle>
                         <unitdate normal='1992'>1992</unitdate>
@@ -18206,10 +18140,10 @@
                         <persname>Copyright 1992, Publisher Peg Kennedy and Bill Hupe, Footrot Flats</persname>
                         <genreform source='local'>Zine</genreform>
                     </controlaccess>
-                </c04>
+                </c02>
 
 
-                <c04 level='item'>
+                <c02 level='item'>
                     <did>
                         <unittitle>Loose Notes: A Zine for Filky-Minded Fans</unittitle>
                         <unitdate normal='1985' certainty="circa">circa 1980s</unitdate>
@@ -18228,8 +18162,8 @@
                         <corpname>Buffalo Chip Press</corpname>
 
                     </controlaccess>
-                </c04>
-                <c04 level='item'>
+                </c02>
+                <c02 level='item'>
                     <did>
                         <unittitle>The Compleat Dirty Nelly</unittitle>
                         <unitdate normal='1991'>1991</unitdate>
@@ -18252,8 +18186,8 @@
                         <persname>Copyright 1991, Publisher T'kuhtian Press</persname>
                         <genreform source='local'>Zine</genreform>
                     </controlaccess>
-                </c04>
-                <c04 level='item'>
+                </c02>
+                <c02 level='item'>
                     <did>
                         <unittitle>Friends &amp; Strangers, Near &amp; Far: A Filk/Poetry/Art Fanzine</unittitle>
                         <unitdate normal='1980'>1980</unitdate>
@@ -18269,18 +18203,18 @@
                         <genreform source='local'>Zine</genreform>
                         <persname>Freitag, Jane</persname>
                     </controlaccess>
-                </c04>
+                </c02>
 
-                <c04 level='item'>
+                <c02 level='item'>
                     <did>
                         <unittitle>Let's Filk About #3</unittitle>
                         <unitdate normal='1994'>1994</unitdate>
                         <abstract>Light grey cover with fire lizards</abstract>
                         <physdesc>
-                            <genreform source='local'>
+
                                 <genreform source='local'>Zine</genreform>
                                 <genreform source='local'>Songbook</genreform>
-                            </genreform>
+                
                             Light grey cover with fire lizards
                             <extent>1 copy</extent>
                         </physdesc>
@@ -18290,7 +18224,7 @@
                         <genreform source='local'>Zine</genreform>
                         <genreform source='local'>Songbook</genreform>
                     </controlaccess>
-                </c04>
+                </c02>
 
             </c01>
 
@@ -18322,11 +18256,11 @@
                                 <container type='box'>13</container>
                                 <container type='box'>14</container>
                             </did>
-                            <scopecontent>
+                            <scopecontent><note><p>
                                 Notes: Blue cover with chthulu playing guitar, John Sies, cover art. Cat Morrese
                                 and Bari Greenberg did the layout
 
-                                Convention: Archon 35
+                                Convention: Archon 35</p></note>
                             </scopecontent>
                             <controlaccess>
                                 <persname>various</persname>
@@ -18379,7 +18313,7 @@
                                     Notes: Produced for Archon 38
                                     Convention: Archon 38, 2014
                                 </abstract>
-                                <note audience="internal">Might actually be Archon 39</note>
+                                <note audience="internal"><p>Might actually be Archon 39</p></note>
                                 <physdesc>
                                     <genreform source='local'>Songbook</genreform>
                                     <extent>4 copy</extent>
@@ -18708,7 +18642,7 @@
                     </c03>
 
 
-                    <c03 level="'file">
+                    <c03 level="file">
                         <did>
                             <unittitle>Boskone 49</unittitle>
                             <unitdate>2012</unitdate>
@@ -19052,7 +18986,7 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>Boskone</unittitle>
-                            <unitddate>unknown date</unitddate>
+                            
                         </did>
 
 
@@ -19088,7 +19022,7 @@
 
 
                 </c02>
-                <c02 level='file' id='British Filk Convention'>
+                <c02 level='file' id='BritishFilkConvention'>
                     <did>
                         <unittitle>British Filk Convention</unittitle>
                     </did>
@@ -20233,9 +20167,9 @@
                                     Notes: Pink booklet, white pages
                                     Origin: March 1-3, 2002
 
-                                    <a href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
+                                    <extref href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
                                         version/edition) : https://www.conchord.org/xeno/consonancebook.html
-                                    </a>
+                                    </extref>
 
                                     Convention: Consonance 2002
                                 </abstract>
@@ -20267,9 +20201,9 @@
                                 <abstract>
                                     Notes: Pinkish cover, staple bound
 
-                                    <a href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
+                                    <extref href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
                                         version/edition) : https://www.conchord.org/xeno/consonancebook.html
-                                    </a>
+                                    </extref>
 
                                     Convention: Consonance 2002
                                 </abstract>
@@ -20335,9 +20269,9 @@
                                     Notes: Orange cover, white pages
                                     Origin: March 7-9
 
-                                    <a href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
+                                    <extref href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
                                         version/edition) : https://www.conchord.org/xeno/consonancebook.html
-                                    </a>
+                                    </extref>
 
                                     Convention: Consonance 2003
                                 </abstract>
@@ -20366,9 +20300,9 @@
                                 <abstract>
                                     Notes: Orange cover, staple bound
 
-                                    <a href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
-                                        version/edition) : https://www.conchord.org/xeno/consonancebook.html
-                                    </a>
+                                    <extref href='https://www.conchord.org/xeno/consonancebook.html'>in-print (same
+                                        version/edition) : https://www.conchord.org/xeno/consonancebook.html</extref>
+                                    
 
                                     Convention: Consonance 2003
                                 </abstract>
@@ -20657,7 +20591,7 @@
                     <c03 level="file">
                         <did>
                             <unittitle>Consonance 2012</unittitle>
-                            <unitdate normal='2012'></unitdate>2012
+                            <unitdate normal='2012'>2012</unitdate>
                         </did>
                         <c04 level='item' id="Consonance2012">
                             <did>
@@ -20824,7 +20758,7 @@
 
                     </c03>
                 </c02>
-                <c02 level='file' id="D'Zenove">
+                <c02 level='file' id="DZenove">
                     <did>
                         <unittitle>D'Zenove</unittitle>
                     </did>
@@ -21026,7 +20960,7 @@
 
 
                     </c03>
-                    "
+
                 </c02>
 
 
@@ -21080,7 +21014,7 @@
                     </did>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>FilKONtario 1991 - see notes</unittitle>
                             <unitdate normal='1991'>1991</unitdate>
@@ -21114,10 +21048,10 @@
                             <subject>Convention--FilKONtario 1: 1991</subject>
                             <genreform source='local'>Tape</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>FilKONtario 1992 - #3 Tom Smith Concert and One-shots</unittitle>
                             <unitdate normal='1992'>1992</unitdate>
@@ -21137,10 +21071,10 @@
                             <subject>Convention--FilKONtario 2: 1992</subject>
                             <genreform source='local'>Tape</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>FilKONtario '92 Concerts #1</unittitle>
                             <unitdate normal='1992'>1992</unitdate>
@@ -21159,10 +21093,10 @@
                             <subject>Convention--FilKONtario 2: 1992</subject>
                             <genreform source='local'>Tape</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>FilKONtario '92 Concerts #2</unittitle>
                             <unitdate normal='1992'>1992</unitdate>
@@ -21181,10 +21115,10 @@
                             <subject>Convention--FilKONtario 2: 1992</subject>
                             <genreform source='local'>Tape</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>FilKONtario '92 Contest and evening filk</unittitle>
                             <unitdate normal='1992'>1992</unitdate>
@@ -21203,7 +21137,7 @@
                             <subject>Convention--FilKONtario 2: 1992</subject>
                             <genreform source='local'>Tape</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
                     <c03 level='file'>
@@ -21218,7 +21152,7 @@
                     </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Filk Dreams &amp; Filk Memories Songbook: Songs from FilKONtario 9 &amp;10
                             </unittitle>
@@ -21242,7 +21176,7 @@
                             <subject>Convention--FilKONtario 10</subject>
                             <genreform source='local'>Songbook</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
                     <c03 level='item'>
@@ -21720,11 +21654,7 @@
                                 <genreform source='local'>Program booklet</genreform>
                             </controlaccess>
                         </c04>
-
-
                     </c03>
-
-
                 </c02>
                 <c02 level='file' id='FuMPFest'>
                     <did>
@@ -21749,7 +21679,7 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>GAFilk 5</unittitle>
-                            <unitdate normal='2003' datechar='creation' type='single'>2003</unitdate>
+                            <unitdate normal='2003' datechar='creation' type='inclusive'>2003</unitdate>
                         </did>
 
 
@@ -21828,7 +21758,7 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>GAFilk 6</unittitle>
-                            <unitdate normal='2004' datechar='creation' type='single'>2004</unitdate>
+                            <unitdate normal='2004' datechar='creation' type='inclusive'>2004</unitdate>
                         </did>
 
 
@@ -21860,7 +21790,7 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>GAFilk 7</unittitle>
-                            <unitdate normal='2005' datechar='creation' type='single'>2005</unitdate>
+                            <unitdate normal='2005' datechar='creation' type='inclusive'>2005</unitdate>
                         </did>
 
 
@@ -22007,7 +21937,7 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>GAFilk 8</unittitle>
-                            <unitdate normal='2006' datechar='creation' type='single'>2006</unitdate>
+                            <unitdate normal='2006' datechar='creation' type='inclusive'>2006</unitdate>
                         </did>
 
 
@@ -22179,7 +22109,7 @@
                     <c03 level='file'>
                         <did>
                             <unittitle>GAFilk 9</unittitle>
-                            <unitdate normal='2007' datechar='creation' type='single'>2007</unitdate>
+                            <unitdate normal='2007' datechar='creation' type='inclusive'>2007</unitdate>
                         </did>
 
 
@@ -23056,7 +22986,7 @@
                                     Notes: Yellow cover, pocket program
                                     Origin: GaFilk 2018, January 6-8, 2017
                                 </abstract>
-                                <note audience="internal">Might really be GaFilk 20: 2018
+                                <note audience="internal"><p>Might really be GaFilk 20: 2018</p>
                                 </note>
                                 <physdesc>
                                     <genreform source='local'>Pocket Program</genreform>
@@ -23073,7 +23003,7 @@
                             </controlaccess>
 
 
-                            <c04 level='item'>
+                            <c05 level='item'>
                                 <did>
                                     <unittitle>Leslie Hudson Set List</unittitle>
                                     <unitdate normal='2017'>2017</unitdate>
@@ -23102,7 +23032,7 @@
                                     <subject>Convention--GAFilk 19: 2017</subject>
                                     <genreform source='local'>Set list</genreform>
                                 </controlaccess>
-                            </c04>
+                            </c05>
 
                         </c04>
                     </c03>
@@ -23329,7 +23259,7 @@
                         </controlaccess>
                     </c03>
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Harold's schedule from a Lunacon</unittitle>
 
@@ -23355,10 +23285,10 @@
                             <subject>Convention--Lunacon (?)</subject>
                             <genreform source='local'>Schedule</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Rogow Lunacon 2006 concert, Chapin Concerts, 9/06 Housefilk</unittitle>
                             <unitdate normal='2006'>2006</unitdate>
@@ -23388,10 +23318,10 @@
                             <subject>Convention--Lunacon 49</subject>
                             <genreform source='local'>Burnt CD</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Friday, SAT afternoon concerts, Fantasy Theme Circle, Lunacon 2007, Disc 1 of 3
                             </unittitle>
@@ -23422,10 +23352,10 @@
                             <subject>Convention--Lunacon 50</subject>
                             <genreform source='local'>Burnt CD</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 2007 Disc 3 of 3</unittitle>
                             <unitdate normal='2007'>2007</unitdate>
@@ -23455,10 +23385,10 @@
                             <subject>Convention--Lunacon 50</subject>
                             <genreform source='local'>Burnt CD</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Sat open filk, Funny Things concert, Science Theme circle, Lunacon 2007, Disc 2
                                 of 3
@@ -23490,10 +23420,10 @@
                             <subject>Convention--Lunacon 50</subject>
                             <genreform source='local'>Burnt CD</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 2014 Pocket Program</unittitle>
                             <unitdate normal='2014'>2014</unitdate>
@@ -23517,10 +23447,10 @@
                             <subject>Convention--Lunacon 57, March 14-16, 2014</subject>
                             <genreform source='local'>Pocket Program</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 2014 Program Book</unittitle>
                             <unitdate normal='2014'>2014</unitdate>
@@ -23544,10 +23474,10 @@
                             <subject>Convention--Lunacon 57, March 14-16, 2014</subject>
                             <genreform source='local'>Program Book</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 2016 program book, March 18-20, 2016</unittitle>
                             <unitdate normal='2016'>2016</unitdate>
@@ -23576,10 +23506,10 @@
                             <subject>Convention--Lunacon 58</subject>
                             <genreform source='local'>Color program book</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 2016, pocket program</unittitle>
                             <unitdate normal='2016'>2016</unitdate>
@@ -23607,16 +23537,15 @@
                             <subject>Convention--Lunacon 58</subject>
                             <genreform source='local'>Pocket program</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 2017</unittitle>
                             <unitdate normal='2017'>2017</unitdate>
                             <abstract>
                                 Notes: Space scene cover
-
 
                                 Convention: Lunacon 59
                             </abstract>
@@ -23634,10 +23563,10 @@
                             <subject>Convention--Lunacon 59</subject>
                             <genreform source='local'>Program Book</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Lunacon 51, March 14-16, 2008</unittitle>
                             <unitdate normal='2008'>2008</unitdate>
@@ -23665,7 +23594,7 @@
                             <subject>Convention--Lunacon 51</subject>
                             <genreform source='local'>Pocket program</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
                 </c02>
@@ -23721,9 +23650,10 @@
                 <c02 level='file' id='NASFic'>
                     <did>
                         <unittitle>NASFic</unittitle>
-                    </did>
-                    <abstract>NASFic occurs in years when WorldCon is held outside North America to 08 Aug 2010
+                        <abstract>NASFic occurs in years when WorldCon is held outside North America to 08 Aug 2010
                     </abstract>
+                    </did>
+
                     <c03 level='file'>
                         <did>
                             <unittitle>NASFic 10: Reconstruction</unittitle>
@@ -23859,7 +23789,7 @@
 
                         <c04 level='item'>
                             <did>
-                                <unittitle></unittitle>
+                                <unittitle>Programming updates</unittitle>
                                 <unitdate normal='20140717'>17 July 2014</unitdate>
                                 <abstract>
 
@@ -25430,7 +25360,7 @@
 
                     </c03>
 
-                    <c02 level="'file">
+                    <c03 level="file">
                         <did>
                             <unittitle>NEFilk 27: Contata 8</unittitle>
                             <unitdate>2017</unitdate>
@@ -25740,7 +25670,7 @@
                         </c04>
 
 
-                        <c03 level='item'>
+                        <c04 level='item'>
                             <did>
                                 <unittitle>Contata 8, Program Book</unittitle>
                                 <unitdate normal='2017'>2017</unitdate>
@@ -25764,15 +25694,15 @@
                                 <subject>Convention--NEFilk 27: Contata 8</subject>
                                 <genreform source='local'>Program Book</genreform>
                             </controlaccess>
-                        </c03>
+                        </c04>
 
 
-                    </c02>
+                    </c03>
 
                     <c03 level='file'>
                         <did>
                             <unittitle>NEFilk 28: Concertino 2018</unittitle>
-                            <unitdate normal='2018' datechar='creation' type='single'>2018</unitdate>
+                            <unitdate normal='2018' datechar='creation' type='inclusive'>2018</unitdate>
                         </did>
                         <controlaccess>
                             <subject>Convention--NEFilk 28: Concertino 2018</subject>
@@ -25941,7 +25871,7 @@
                         </c04>
 
 
-                        <c03 level='item'>
+                        <c04 level='item'>
                             <did>
                                 <unittitle>NEFilk Concertino 2018</unittitle>
                                 <unitdate normal='2018'>2018</unitdate>
@@ -25963,10 +25893,10 @@
                                 <subject>Convention--NEFilk 28: Concertino 2018</subject>
                                 <genreform source='local'>Songbook</genreform>
                             </controlaccess>
-                        </c03>
+                        </c04>
 
 
-                        <c03 level='item'>
+                        <c04 level='item'>
                             <did>
                                 <unittitle>Sing in the Circle</unittitle>
                                 <unitdate normal='2018'>2018</unitdate>
@@ -25994,7 +25924,7 @@
                                 <subject>Convention--NEFilk 28: Concertino 2018</subject>
                                 <genreform source='local'>Download codes</genreform>
                             </controlaccess>
-                        </c03>
+                        </c04>
 
                         <c04 level='item'>
                             <did>
@@ -26046,8 +25976,7 @@
                             <unittitle>OVFF 9</unittitle>
                             <unitdate normal='1993'>1993</unitdate>
                         </did>
-                        <controlaccess>
-                        </controlaccess>
+
 
                         <c04 level='item'>
                             <did>
@@ -27416,12 +27345,7 @@
                         </controlaccess>
                     </c03>
                 </c02>
-                <c02 level='file' id='UK Filk Convention'>
-                    <did>
-                        <unittitle>UK Filk Convention</unittitle>
-                    </did>
 
-                </c02>
                 <c02 level='file' id='Windycon'>
                     <did>
                         <unittitle>Windycon</unittitle>
@@ -28768,7 +28692,7 @@
                                 <extent>1 copy</extent>
                             </physdesc>
                             <container type='box'>7</container>
-                            <note audience="internal">DeirdreMMM@aol.com 444-GAY-BYOB</note>
+                            <note audience="internal"><p>DeirdreMMM@aol.com 444-GAY-BYOB</p></note>
                         </did>
                         <controlaccess>
                             <genreform source='local'>Business card</genreform>
@@ -29194,7 +29118,7 @@
                         <unittitle>Catalogs</unittitle>
                     </did>
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Off Centaur Publications Catalog</unittitle>
                             <unitdate normal='1984'>June 1984</unitdate>
@@ -29215,10 +29139,10 @@
                             <persname>Off Centaur</persname>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Unlikly Publications Catalog</unittitle>
                             <unitdate normal='1992'>1992</unitdate>
@@ -29239,10 +29163,10 @@
                             <persname>Unlikely Publications</persname>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Random Factors Catalog</unittitle>
                             <unitdate normal='1995'>1995</unitdate>
@@ -29262,9 +29186,9 @@
                             <persname>Random Factors</persname>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Random Factors Catalog - Worldcon edition</unittitle>
                             <unitdate normal='1996'>1996</unitdate>
@@ -29287,10 +29211,10 @@
                             <subject>Convention--Worldcon 54, L.A.con III</subject>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Quicksilver Fantasies</unittitle>
                             <unitdate normal='1996'>1996</unitdate>
@@ -29310,10 +29234,10 @@
                             <corpname>Quicksilver Fantasies</corpname>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Random Factors Catalog</unittitle>
                             <unitdate normal='1996'>1996</unitdate>
@@ -29333,9 +29257,9 @@
                             <persname>Random Factors</persname>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>The N-Dimensional Calligraphic Button Catalogue, 20th Edition</unittitle>
                             <unitdate normal='19961101'>1 November 1996</unitdate>
@@ -29357,10 +29281,10 @@
                             <persname>Lebovitz, Nancy</persname>
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Random Factors Catalog</unittitle>
                             <unitdate normal='2002'>Spring 2002</unitdate>
@@ -29379,10 +29303,10 @@
 
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>The Essential Calligraphic Button Catalogue, 22nd Edition</unittitle>
                             <unitdate normal='19990301'>1 March 1999</unitdate>
@@ -29403,10 +29327,10 @@
 
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Firebird Arts &amp; Music Catalog</unittitle>
                             <unitdate normal='1996'>Winter 1996-1997</unitdate>
@@ -29431,10 +29355,10 @@
 
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
-                    <c04 level='item'>
+                    <c03 level='item'>
                         <did>
                             <unittitle>Firebird Arts &amp; Music Catalog</unittitle>
                             <unitdate normal='2000'>Winter 2000</unitdate>
@@ -29455,7 +29379,7 @@
 
                             <genreform source='local'>Catalog</genreform>
                         </controlaccess>
-                    </c04>
+                    </c03>
 
 
                     <c03 level='item'>
@@ -29489,14 +29413,13 @@
                         </controlaccess>
                     </c03>
 
-
                 </c02>
                 <c02 level="file" id="ConBadgeRibbons">
                     <did>
                         <unittitle>Con Badge Ribbons</unittitle>
                     </did>
                 </c02>
-                <c02 level="file" id="Download Codes">
+                <c02 level="file" id="DownloadCodes">
                     <did>
                         <unittitle>Download Codes</unittitle>
                     </did>
@@ -29521,4 +29444,4 @@
 
         </dsc>
     </archdesc>
-</EAD>
+</ead>
