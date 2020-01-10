@@ -29600,7 +29600,68 @@
                                 2015
                             </unitdate>
                         </did>
+                        "<c level='item'> <did> <unittitle>Sasquan, 73rd Annual World Science Fiction Convention</unittitle>
+                        <unitdate normal=''></unitdate><abstract><p>Notes: Glossy booklet</p>
+                            <p>Origin: </p>
 
+                            <p>Convention: Sasquan, August 19-23, 2015</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Progress report #4</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Sasquan</persname></origination> </did>
+                        <controlaccess><persname>Sasquan</persname>
+                            <subject>Convention--Sasquan, August 19-23, 2015</subject>
+                            <genreform source='local'>Progress report #4</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Harold's badge from Sasquan</unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: </p>
+                            <p>Origin: Sasquan, August 19-23, 2015</p>
+
+                            <p>Convention: Sasquan, August 19-23, 2015</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Con badge</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Sasquan, August 19-23, 2015</persname></origination> </did>
+                        <controlaccess><persname>Sasquan, August 19-23, 2015</persname>
+                            <persname>Sasquan, August 19-23, 2015</persname>
+                            <subject>Convention--Sasquan, August 19-23, 2015</subject>
+                            <genreform source='local'>Con badge</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Notes on recordings at Sasquan</unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Handwritten on a pink post-it notes about concerts and events recorded</p>
+                            <p>Origin: </p>
+
+                            <p>Convention: Sasquan, August 19-23, 2015</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Note from Harold</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Sasquan, August 19-23, 2015</persname></origination> </did>
+                        <controlaccess><persname>Sasquan, August 19-23, 2015</persname>
+                            <subject>Convention--Sasquan, August 19-23, 2015</subject>
+                            <genreform source='local'>Note from Harold</genreform>
+                        </controlaccess>
+                    </c>"""
+                        "<c level='item'> <did> <unittitle>Sasquan, 73rd Annual World Science Fiction Convention, Program Book</unittitle>
+                        <unitdate normal='2015'>2015</unitdate><abstract><p>Notes: Fantasy owl on cover</p>
+                            <p>Origin: Sasquan, August 19-23, 2015</p>
+
+                            <p>Convention: Sasquan, August 19-23, 2015</p>
+                        </abstract>
+                        <physdesc> <genreform source='local'>Program Book</genreform>
+                            <extent>1 copy</extent></physdesc>
+                        <container type='box'>Box #9</container>
+                        <origination label='creator'><persname>Sasquan, August 19-23, 2015</persname></origination> </did>
+                        <controlaccess><persname>Sasquan, August 19-23, 2015</persname>
+                            <persname>Sasquan, August 19-23, 2015</persname>
+                            <subject>Convention--Sasquan, August 19-23, 2015</subject>
+                            <genreform source='local'>Program Book</genreform>
+                        </controlaccess>
+                    </c>"""
                     </c03>
                 </c02>
                 <c02 level='file' id='SilverCon'>
