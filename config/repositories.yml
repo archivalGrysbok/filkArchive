@@ -2,16 +2,15 @@ filk:
   name:  'Harold Stein Filk Archive'
   description: ''
   thumbnail_url: 'http://localhost:3000/books.jpg'
-  building: 'Building 38, Room 1E-21'
-  address1: '8600 Rockville Pike'
+  building: ''
+  address1: ''
   address2: ''
-  city: 'Bethesda'
-  state: 'MD'
-  zip: '20894'
+  city: 'Jersey City'
+  state: 'NY'
+  zip: ''
   country: 'USA'
   phone: ''
-  contact_info: 'hmdref@nlm.nih.gov'
-  thumbnail_url: "http://localhost:3000/books.jpg"
+  contact_info: ''
   visit_note: ''
   #  request_types:
   #    google_form:
