@@ -311,6 +311,11 @@ class CatalogController < ApplicationController
     }, if: lambda { |_context, _field_config, document|
       document.containers.present?
     }
+    config.add_component_indexed_terms_field 'creator_ssim', label: 'Creators', link_to_facet: true, separator_options: {
+      words_connector: '; ',
+      two_words_connector: ' and ',
+      last_word_connector: '; and '
+    }
     config.add_component_field 'abstract_ssm', label: 'Abstract', helper_method: :render_html_tags
     config.add_component_field 'extent_ssm', label: 'Extent'
     config.add_component_field 'scopecontent_ssm', label: 'Scope and Content', helper_method: :render_html_tags
@@ -322,6 +327,9 @@ class CatalogController < ApplicationController
     config.add_component_field 'accruals_ssm', label: 'Accruals', helper_method: :render_html_tags
     config.add_component_field 'phystech_ssm', label: 'Physical / technical requirements', helper_method: :render_html_tags
     config.add_component_field 'physloc_ssm', label: 'Physical location', helper_method: :render_html_tags
+    config.add_component_field 'physdesc_teim', label: 'Physical Description'
+    config.add_component_field 'genreform_ssm', label: 'Format', helper_method: :render_html_tags
+
 
     # Component Show Page - Indexed Terms Section
     config.add_component_indexed_terms_field 'access_subjects_ssim', label: 'Subjects', link_to_facet: true, separator_options: {
@@ -341,6 +349,7 @@ class CatalogController < ApplicationController
       two_words_connector: '<br/>',
       last_word_connector: '<br/>'
     }
+
 
     # =================
     # ACCESS TAB FIELDS
