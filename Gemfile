@@ -56,8 +56,9 @@ group :production do
   gem 'mysql2'
 end
 
-gem 'blacklight', '~> 7.0'
-gem 'arclight', github: 'projectblacklight/arclight', branch: 'master'
+
+gem 'blacklight', '=7.10.0'
+gem 'arclight', github: 'projectblacklight/arclight',  tag: 'v0.3.0'
 gem 'blacklight_range_limit', '~> 7.1'
 gem 'bootstrap', '~> 4.0'
 gem 'popper_js'
@@ -71,3 +72,5 @@ gem 'whenever'
 
 gem 'honeybadger'
 gem 'mini_racer'
+
+gem 'sprockets', '=3.7.2'
