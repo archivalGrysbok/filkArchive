@@ -1,6 +1,6 @@
 require 'csv'
 
-eadHeader = <<~EAD_HEADER
+eadHeader = <<~EOT
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -71,32 +71,52 @@ eadHeader = <<~EAD_HEADER
             </genreform>
         </controlaccess>
         <dsc>
-EAD_HEADER
-consHeader = <<~CONS_HEADER
-<c01 id="aspace_Conventions" level="series">
-  <did><unittitle>Conventions</unittitle></did>
-CONS_HEADER
-consData = CSV.read("../../Downloads/Box inventory - Cons.csv")
-allBoxesData = CSV.read("../../Downloads/Box inventory - All boxes(2).csv")
-allBoxesByCon = allBoxesData.group_by{|n|n[3]}
-allBoxesByBucket = allBoxesByCon[nil].group_by{|x|(x[18]&.split('.')||[""])[0]}
+EOT
+audioTypes = ["Professional CD", "Burnt CD", "Unburnt CD", "Commercial CD", "Professional Cassette", "Mini CD", "Commercial Box Set",
+              "Burnt DVD", "CD", "Pre-release CD", "Commercial DVD", "Limited Edition CD", "MiniDisc", "Tape - obvious copy",
+              "Tape - Home recorded cassette", "Tape"]
+
+def toplevelHeader(title)
+  <<~EOT
+<c01 id="aspace_#{title}" level="series">
+  <did><unittitle>#{title}</unittitle></did>
+EOT
+end
 
 def indent(str, level)
   " "*level + (str||"").split("\n").join("\n"+" "*level)
 end
 
-consSection = consHeader + consData.flat_map{|e|
+def noTitle(str)
+  str.nil? or str.include?("<unittitle></unittitle>")
+end
+
+consData = CSV.read("../../Downloads/Box inventory - Cons.csv")
+allBoxesData = CSV.read("../../Downloads/Box inventory - All boxes(2).csv")
+
+allBoxesByCon = allBoxesData.group_by{|n|n[3]}
+allBoxesByBucket = allBoxesByCon[nil].group_by{|x|(x[18]&.split('.')||[""])[0]}
+
+audioByArtist = allBoxesByBucket[""].select{|x|audioTypes.include?(x[0])}.group_by{|x|x[2]||"Unknown Artist"}.sort
+
+
+consSection = toplevelHeader("Conventions") + consData.flat_map{|e|
   [indent(e[8].slice(0..-11),2)] +
     (allBoxesByCon[e[1]]&.map{|ee| indent(ee[28],10)}||[]) +
-    [" "*6 + "</c03>"] unless e[8].nil? or e[8].include?("<unittitle><")
+    [" "*6 + "</c03>"] unless noTitle(e[8])
 }.join("\n").slice(9..-1) + "\n  </c02>\n</c01>"
 
 otherBucketsSection = allBoxesByBucket.flat_map{|e|
-  ["<c01>\n  <did><unittitle>#{e[0]}</unittitle></did>\n"] +
+  [toplevelHeader(e[0])] +
     e[1].group_by{|x|(x[18]&.split('.')||[""])[1]}&.flat_map{|f|
     ["  <c02>\n    <did><unittitle>#{f[0]}</unittitle></did>\n"] +
-      (f[1]&.map{|ee|indent(ee[28],4) unless ee[28].include?("<unittitle><")}||[]) +
+      (f[1]&.map{|ee|indent(ee[28],4) unless noTitle(ee[28])}||[]) +
       ["\n  </c02>"] unless f[0].nil? or f[0].empty?} +
     ["\n</c01>"] unless e[0].empty?}.join("\n")
 
-print eadHeader + consSection + otherBucketsSection + "\n       </dsc>\n    </archdesc>\n</ead>"
+audioSection = toplevelHeader("Audio") + audioByArtist.flat_map{|e|
+  ["  <c02>\n    <did><unittitle>#{e[0]}</unittitle></did>\n"] +
+    (e[1].map{|ee|indent(ee[28],4) unless noTitle(ee[28])}||[]) +
+    ["\n  </c02>"]}.join("\n")
+
+print eadHeader + consSection + otherBucketsSection + audioSection +  +  "\n       </dsc>\n    </archdesc>\n</ead>"
