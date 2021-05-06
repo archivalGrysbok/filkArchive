@@ -78,7 +78,7 @@ audioTypes = ["Professional CD", "Burnt CD", "Unburnt CD", "Commercial CD", "Pro
 
 def toplevelHeader(title)
   <<~EOT
-<c01 id="aspace_#{title}" level="series">
+<c01 level="series">
   <did><unittitle>#{title}</unittitle></did>
 EOT
 end
@@ -91,32 +91,60 @@ def noTitle(str)
   str.nil? or str.include?("<unittitle></unittitle>")
 end
 
-consData = CSV.read("../../Downloads/Box inventory - Cons.csv")
-allBoxesData = CSV.read("../../Downloads/Box inventory - All boxes(2).csv")
+consData = CSV.parse(IO.read("../../Downloads/Box inventory - Cons.csv").gsub("&","&amp;")).drop(1).reject{|e|noTitle(e[8])}
+allBoxesData = CSV.parse(IO.read("../../Downloads/Box inventory - All boxes(4).csv").gsub("&","&amp;")).drop(1).select{|x|!x[1].nil?}
 
-allBoxesByCon = allBoxesData.group_by{|n|n[3]}
-allBoxesByBucket = allBoxesByCon[nil].group_by{|x|(x[18]&.split('.')||[""])[0]}
+$stderr.puts "Item count: #{allBoxesData.length}\nConvention count: #{consData.length}; #{allBoxesData.map{|x|x[1]}.uniq.length}"
 
-audioByArtist = allBoxesByBucket[""].select{|x|audioTypes.include?(x[0])}.group_by{|x|x[2]||"Unknown Artist"}.sort
+byCon = allBoxesData.group_by{|n|n[3]}
 
+knownKeys = consData.flat_map{|e|[e[1], e[2]]}
+usedKeys, unknownKeys = byCon.keys.compact.partition{|e|knownKeys.include?(e)}
+
+allBoxesByBucket = byCon[nil].group_by{|x|(x[18]&.split('.')||[""])[0]}
+
+$stderr.puts "Non-Convention items with a bucket set: #{byCon[nil].length-allBoxesByBucket[""].length}"
+
+audioItems, otherItems = allBoxesByBucket[""].partition{|x|audioTypes.include?(x[0])}
+$stderr.puts "Non-Convention, Audio items without a bucket set: #{audioItems.length} (#{otherItems.length}"
+
+audioByArtist = audioItems.group_by{|x|x[2]||"Unknown Artist"}.sort
+
+def c2open(e, level)
+  [indent("<c02>\n  <did><unittitle>#{e[0]}</unittitle></did>\n", level)]
+end
 
 consSection = toplevelHeader("Conventions") + consData.flat_map{|e|
   [indent(e[8].slice(0..-11),2)] +
-    (allBoxesByCon[e[1]]&.map{|ee| indent(ee[28],10)}||[]) +
-    [" "*6 + "</c03>"] unless noTitle(e[8])
+    ((byCon[e[1]]||[]) + (byCon[e[2]]||[])).map{|ee| indent(ee[28],10)}.sort +
+    [" "*6 + "</c03>"]
 }.join("\n").slice(9..-1) + "\n  </c02>\n</c01>"
 
 otherBucketsSection = allBoxesByBucket.flat_map{|e|
   [toplevelHeader(e[0])] +
     e[1].group_by{|x|(x[18]&.split('.')||[""])[1]}&.flat_map{|f|
-    ["  <c02>\n    <did><unittitle>#{f[0]}</unittitle></did>\n"] +
-      (f[1]&.map{|ee|indent(ee[28],4) unless noTitle(ee[28])}||[]) +
+     c2open(f, 2) +
+      (f[1]&.map{|ee|indent(ee[28],4)}||[]) +
       ["\n  </c02>"] unless f[0].nil? or f[0].empty?} +
     ["\n</c01>"] unless e[0].empty?}.join("\n")
 
-audioSection = toplevelHeader("Audio") + audioByArtist.flat_map{|e|
-  ["  <c02>\n    <did><unittitle>#{e[0]}</unittitle></did>\n"] +
-    (e[1].map{|ee|indent(ee[28],4) unless noTitle(ee[28])}||[]) +
-    ["\n  </c02>"]}.join("\n")
+audioSection = toplevelHeader("Audio") + (audioByArtist.flat_map{|e|
+  c2open(e, 2) +
+    (e[1].map{|ee|indent(ee[28],4)}||[]) +
+    ["\n  </c02>"]} + ["\n</c01>\n"]).join("\n")
 
-print eadHeader + consSection + otherBucketsSection + audioSection +  +  "\n       </dsc>\n    </archdesc>\n</ead>"
+leftoversSection = toplevelHeader("(So far) Unsorted Leftovers") +
+                   (c2open(["Un-described Conventions"],2) + 
+                    unknownKeys.flat_map{|k|
+                      byCon[k].map{|e|indent(e[28], 4)}
+                    } + ["  </c02>"] +
+                    c2open(["Non-Audio Unsorted Stuff"],2) +
+                    otherItems.map{|e|indent(e[28],4)} +
+                    ["  </c02>"] +
+                    ["</c01>\n"]).join("\n")
+  
+print eadHeader + consSection +
+      otherBucketsSection +
+      audioSection +
+      leftoversSection +
+      "\n       </dsc>\n    </archdesc>\n</ead>"
