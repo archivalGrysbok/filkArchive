@@ -11,6 +11,8 @@
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
+/config/database.yml
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
@@ -25,3 +27,9 @@ node_modules
 # I like kate. I don't like checking in kate swap files.
 *.kate-swp
 
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+/assets
+/public
