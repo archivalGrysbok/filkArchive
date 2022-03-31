@@ -58,7 +58,7 @@ end
 
 
 gem 'blacklight', '=7.10.0'
-gem 'arclight', github: 'projectblacklight/arclight',  tag: 'v0.3.0'
+gem 'arclight', github: 'projectblacklight/arclight',  tag: 'v0.4.0'
 gem 'blacklight_range_limit', '~> 7.1'
 gem 'bootstrap', '~> 4.0'
 gem 'popper_js'

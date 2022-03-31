@@ -19,3 +19,18 @@ filk:
 
 
   
+
+filktest:
+  name:  'Harold Stein Filk Archive (test)'
+  description: ''
+  thumbnail_url: 'http://localhost:3000/books.jpg'
+  building: ''
+  address1: ''
+  address2: ''
+  city: 'Jersey City'
+  state: 'NY'
+  zip: ''
+  country: 'USA'
+  phone: ''
+  contact_info: ''
+  visit_note: ''
