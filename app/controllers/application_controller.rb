@@ -3,5 +3,5 @@ class ApplicationController < ActionController::Base
   include Blacklight::Controller
   layout :determine_layout
 
-  protect_from_forgery with: :exception
+  protect_from_forgery with: :null_session
 end

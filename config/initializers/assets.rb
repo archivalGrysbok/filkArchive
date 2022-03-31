@@ -13,3 +13,9 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 # folder are already added.
 # Rails.application.config.assets.precompile += %w( admin.js admin.css )
 Rails.application.config.assets.js_compressor = Uglifier.new(harmony: true)
+
+
+
+Rails.application.config.assets.prefix = "/public/assets/"
+#Rails.application.config.assets.prefix = "/assets/"
+
